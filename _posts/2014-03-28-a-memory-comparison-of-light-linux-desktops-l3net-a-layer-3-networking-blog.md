@@ -1,0 +1,45 @@
+---
+id: 1782
+title: 'A Memory Comparison of Light Linux Desktops | l3net &#8211; a layer 3 networking blog'
+date: 2014-03-28T23:50:20+00:00
+author: Daniele Lolli (UncleDan)
+layout: post
+guid: http://www.danielelolli.it/?p=1782
+permalink: /a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog-03-2014.html
+categories:
+  - Linux
+  - PC
+tags:
+  - desktop environment
+  - footprint
+  - lightweight
+  - linux
+  - memory
+---
+<http://l3net.wordpress.com/2013/03/17/a-memory-comparison-of-light-linux-desktops/>
+
+<div class="container_share">
+  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog-03-2014.html&t=A Memory Comparison of Light Linux Desktops | l3net &#8211; a layer 3 networking blog" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
+  
+  <p>
+    Facebook
+  </p></a> 
+  
+  <a href="http://twitter.com/share?url=http://www.danielelolli.it/a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog-03-2014.html&text=A Memory Comparison of Light Linux Desktops | l3net &#8211; a layer 3 networking blog" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
+  
+  <p>
+    Twitter
+  </p></a> 
+  
+  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog-03-2014.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
+  
+  <p>
+    Google +
+  </p></a> 
+  
+  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog-03-2014.html&title=A Memory Comparison of Light Linux Desktops | l3net &#8211; a layer 3 networking blog" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
+  
+  <p>
+    Linkedin
+  </p></a>
+</div>

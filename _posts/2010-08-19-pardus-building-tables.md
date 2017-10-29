@@ -1,0 +1,240 @@
+---
+id: 1278
+title: Pardus Building Tables
+date: 2010-08-19T09:44:28+00:00
+author: Daniele Lolli (UncleDan)
+layout: post
+guid: http://www.danielelolli.it/?p=1278
+permalink: /pardus-building-tables-08-2010.html
+categories:
+  - Pardus
+tags:
+  - building
+  - pardus
+  - tables
+---
+<table cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="left">
+      <strong>From: Godot</strong>
+    </td>
+    
+    <td align="right">
+      2008/01/15 &#8211; 11:04:54
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align="left">
+      <strong>Subject: </strong><span style="font-weight: bold;">Small list 😉</span>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align="left">
+      AM: F/E/W/ Ore/Gem<br /> Lvl 1: 1/1/1/ 9/2<br /> Lvl 2: 1/1/1/ 14/3<br /> Lvl 3: 2/2/2/ 18/4<br /> Lvl 4: 2/2/2/ 23/5<br /> Lvl 5: 3/3/3/ 27/6<br /> Lvl 6: 3/3/3/ 32/7<br /> Lvl 7: 3/3/3/ 36/8<br /> Lvl 8: 4/4/4/ 41/9<br /> Lvl 9: 4/4/4/ 45/10<br /> Lvl 10: 5/5/5/ 50/11&nbsp;</p> 
+      
+      <p>
+        BWF: F/E/W/ Met/El/Opt/ BW<br /> Lvl 1: 1/2/1/ 3/3/4/ 2<br /> Lvl 2: 1/3/1/ 4/4/6/ 3<br /> Lvl 3: 2/4/2/ 5/5/7/ 4<br /> Lvl 4: 2/4/2/ 7/7/9/ 5<br /> Lvl 5: 3/5/3/ 8/8/10/ 6<br /> Lvl 6: 3/6/3/ 9/9/12/ 7<br /> Lvl 7: 3/7/3/ 10/10/14/ 8<br /> Lvl 8: 4/8/4/ 11/11/15/ 9<br /> Lvl 9: 4/8/4/ 13/13/17/ 10<br /> Lvl 10: 5/9/5/ 14/14/18/ 11
+      </p>
+      
+      <p>
+        Brew: F/E/W/Chem/ Liq<br /> Lvl 1: 2/2/2/4/ 4<br /> Lvl 2: 3/3/3/6/ 6<br /> Lvl 3: 4/4/4/7/ 8<br /> Lvl 4: 4/4/4/9/ 10<br /> Lvl 5: 5/5/5/10/ 12<br /> Lvl 6: 6/6/6/12/ 14<br /> Lvl 7: 7/7/7/14/ 16<br /> Lvl 8: 8/8/8/15/ 18<br /> Lvl 9: 8/8/8/17/ 20<br /> Lvl 10: 9/9/9/18/ 22
+      </p>
+      
+      <p>
+        CL: F/E/W/ Chems<br /> Lvl 1: 1/3/1/ 9<br /> Lvl 2: 1/4/1/ 14<br /> Lvl 3: 2/5/2/ 18<br /> Lvl 4: 2/7/2/ 23<br /> Lvl 5: 3/8/3/ 27<br /> Lvl 6: 3/9/3/ 32<br /> Lvl 7: 3/10/3/ 36<br /> Lvl 8: 4/11/4/ 41<br /> Lvl 9: 4/13/4/ 45<br /> Lvl 10: 5/14/5/ 50
+      </p>
+      
+      <p>
+        Clods: E/Chem/Bio/ Clods<br /> Lvl 1: 4/4/18/ 5<br /> Lvl 2: 6/6/25/ 8<br /> Lvl 3: 7/7/32/ 10<br /> Lvl 4: 9/9/40/ 13<br /> Lvl 5: 10/10/47/ 15<br /> Lvl 6: 12/12/54/ 18<br /> Lvl 7: 14/14/61/ 20<br /> Lvl 8: 15/15/68/ 23<br /> Lvl 9: 17/17/76/ 25<br /> Lvl 10: 18/18/83/ 28
+      </p>
+      
+      <p>
+        DAC: F/E/W/ Rob/Rad/ Droids<br /> Lvl 1: 1/3/1/ 2/3/ 1<br /> Lvl 2: 1/4/1/ 3/4/ 2<br /> Lvl 3: 2/5/2/ 4/5/ 2<br /> Lvl 4: 2/7/2/ 4/7/ 3<br /> Lvl 5: 3/8/3/ 5/8/ 3<br /> Lvl 6: 3/9/3/ 6/9/ 4<br /> Lvl 7: 3/10/3/ 7/10/ 4<br /> Lvl 8: 4/11/4/ 8/11/ 5<br /> Lvl 9: 4/13/4/ 8/13/ 5<br /> Lvl 10: 5/14/5/ 9/14/ 6
+      </p>
+      
+      <p>
+        EF: F/E/W/ Met/HP/ Elec<br /> Lvl 1: 1/4/1/ 3/2/ 6<br /> Lvl 2: 1/6/1/ 4/3/ 9<br /> Lvl 3: 2/7/2/ 5/4/ 12<br /> Lvl 4: 2/9/2/ 7/4/ 15<br /> Lvl 5: 3/10/3/ 8/5/ 18<br /> Lvl 6: 3/12/3/ 9/6/ 21<br /> Lvl 7: 3/14/3/ 10/7/ 24<br /> Lvl 8: 4/15/4/ 11/8/ 27<br /> Lvl 9: 4/17/4/ 13/8/ 30<br /> Lvl 10: 5/18/5/ 14/9/ 33
+      </p>
+      
+      <p>
+        EW: F/W/ E<br /> Lvl 1: 1/1/ 6<br /> Lvl 2: 1/1/ 9<br /> Lvl 3: 2/2/ 12<br /> Lvl 4: 2/2/ 15<br /> Lvl 5: 3/3/ 18<br /> Lvl 6: 3/3/ 21<br /> Lvl 7: 3/3/ 24<br /> Lvl 8: 4/4/ 27<br /> Lvl 9: 4/4/ 30<br /> Lvl 10: 5/5/ 30
+      </p>
+      
+      <p>
+        FC: E/Chem/ Fuel<br /> Lvl 1: 4/1/ 26<br /> Lvl 2: 6/1/ 45<br /> Lvl 3: 7/2/ 60<br /> Lvl 4: 9/2/ 75<br /> Lvl 5: 10/3/ 90<br /> Lvl 6: 12/3/ 105<br /> Lvl 7: 14/3/ 120<br /> Lvl 8: 15/4/ 135<br /> Lvl 9: 17/4/ 150<br /> Lvl 10: 18/5/ 165
+      </p>
+      
+      <p>
+        GC: F/E/W/ Gas<br /> Lvl 1: 2/2/2/ 20<br /> Lvl 2: 3/3/3/ 30<br /> Lvl 3: 4/4/4/ 40<br /> Lvl 4: 4/4/4/ 50<br /> Lvl 5: 5/5/5/ 60<br /> Lvl 6: 6/6/6/ 70<br /> Lvl 7: 7/7/7/ 80<br /> Lvl 8: 8/8/8/ 90<br /> Lvl 9: 8/8/8/ 100<br /> Lvl 10: 9/9/9/ 110
+      </p>
+      
+      <p>
+        HWF: F/E/W/ El/HP/Opt/ HW<br /> Lvl 1: 1/2/1/ 3/3/3/ 2<br /> Lvl 2: 1/3/1/ 4/4/4/ 3<br /> Lvl 3: 2/4/2/ 5/5/5/ 4<br /> Lvl 4: 2/4/2/ 7/7/7/ 5<br /> Lvl 5: 3/5/3/ 8/8/8/ 6<br /> Lvl 6: 3/6/3/ 9/9/9/ 7<br /> Lvl 7: 3/7/3/ 10/10/10/ 8<br /> Lvl 8: 4/8/4/ 11/11/11/ 9<br /> Lvl 9: 4/8/4/ 13/13/13/ 10<br /> Lvl 10: 5/9/5/ 14/14/14/ 11
+      </p>
+      
+      <p>
+        Leech: F/E/W/ Rad/Clod/ Bio/Leeches<br /> Lvl 1: 2/6/10/ 6/40/ 3/1<br /> Lvl 2: 3/8/14/ 8/56/ 5/2<br /> Lvl 3: 4/11/18/ 11/72/ 6/2<br /> Lvl 4: 4/13/22/ 13/88/ 8/3<br /> Lvl 5: 5/16/26/ 16/104/ 9/3<br /> Lvl 6: 6/18/30/ 18/120/ 11/4<br /> Lvl 7:<br /> Lvl 8:<br /> Lvl 9:<br /> Lvl 10:
+      </p>
+      
+      <p>
+        ML: F/E/W/Gas/ Meds<br /> Lvl 1: 2/2/2/7/ 4<br /> Lvl 2: 3/3/3/10/ 6<br /> Lvl 3: 4/4/4/13/ 8<br /> Lvl 4: 4/4/4/15/ 10<br /> Lvl 5: 5/5/5/18/ 12<br /> Lvl 6: 6/6/6/21/ 14<br /> Lvl 7: 7/7/7/24/ 16<br /> Lvl 8: 8/8/8/27/ 18<br /> Lvl 9: 8/8/8/29/ 20<br /> Lvl 10: 9/9/9/32/ 22
+      </p>
+      
+      <p>
+        NP: F/W/EM/ E/Gas<br /> Lvl 1: 2/2/3/ 35/4<br /> Lvl 2: 3/3/4/ 53/6<br /> Lvl 3: 4/4/5/ 70/8<br /> Lvl 4: 4/4/7/ 88/10<br /> Lvl 5: 5/5/8/ 105/12<br /> Lvl 6: 6/6/9/ 123/14<br /> Lvl 7: 7/7/10/ 140/16<br /> Lvl 8: 8/8/11/ 158/18<br /> Lvl 9: 8/8/13/ 175/20<br /> Lvl 10: 9/9/14/ 193/22
+      </p>
+      
+      <p>
+        ORC: F/E/W/Gems/ Opt<br /> Lvl 1: 1/3/1/2/ 10<br /> Lvl 2: 1/4/1/3/ 15<br /> Lvl 3: 2/5/2/4/ 20<br /> Lvl 4: 2/7/2/4/ 25<br /> Lvl 5: 3/8/3/5/ 30<br /> Lvl 6: 3/9/3/6/ 35<br /> Lvl 7: 3/10/3/7/ 40<br /> Lvl 8: 4/11/4/8/ 45<br /> Lvl 9: 4/13/4/8/ 50<br /> Lvl 10: 5/14/5/9/ 55
+      </p>
+      
+      <p>
+        PF: F/E/W/Gas/Chem/ HP<br /> Lvl 1: 2/2/2/3/3/ 6<br /> Lvl 2: 3/3/3/4/4/ 9<br /> Lvl 3: 4/4/4/5/5/ 12<br /> Lvl 4: 4/4/4/7/7/ 15<br /> Lvl 5: 5/5/5/8/8/ 18<br /> Lvl 6: 6/6/6/9/9/ 21<br /> Lvl 7: 7/7/7/10/10/ 24<br /> Lvl 8: 8/8/8/11/11/ 27<br /> Lvl 9: 8/8/8/13/13/ 30<br /> Lvl 10: 9/9/9/14/14/ 33
+      </p>
+      
+      <p>
+        RC: F/E/W/ Rads<br /> Lvl 1: 1/3/1/ 6<br /> Lvl 2: 1/4/1/ 9<br /> Lvl 3: 2/5/2/ 12<br /> Lvl 4: 2/7/2/ 15<br /> Lvl 5: 3/8/3/ 18<br /> Lvl 6: 3/9/3/ 21<br /> Lvl 7: 3/10/3/ 24<br /> Lvl 8: 4/11/4/ 27<br /> Lvl 9: 4/13/4/ 30<br /> Lvl 10: 5/14/5/ 33
+      </p>
+      
+      <p>
+        Rec: E/Chem/Bio/ F/W<br /> Lvl 1: 3/1/5/ 7/5<br /> Lvl 2: 4/1/7/ 11/8<br /> Lvl 3: 5/2/9/ 14/10<br /> Lvl 4: 7/2/11/ 18/13<br /> Lvl 5: 8/3/13/ 21/15<br /> Lvl 6: 9/3/15/ 25/18<br /> Lvl 7: 10/3/17/ 28/20<br /> Lvl 8: 11/4/19/ 32/23<br /> Lvl 9: 13/4/21/ 35/25<br /> Lvl 10: 14/5/23/ 39/28
+      </p>
+      
+      <p>
+        RF: F/E/W/ Met/El/Opt/ Robots<br /> Lvl 1: 2/2/2/ 1/4/2/ 3<br /> Lvl 2: 3/3/3/ 1/6/3/ 5<br /> Lvl 3: 4/4/4/ 2/7/4/ 6<br /> Lvl 4: 4/4/4/ 2/9/4/ 8<br /> Lvl 5: 5/5/5/ 3/10/5/ 9<br /> Lvl 6: 6/6/6/ 3/12/6/ 11<br /> Lvl 7: 7/7/7/ 3/14/7/ 12<br /> Lvl 8: 8/8/8/ 4/15/8/ 14<br /> Lvl 9: 8/8/8/ 4/17/8/ 15<br /> Lvl 10: 9/9/9/ 5/18/9/ 17
+      </p>
+      
+      <p>
+        Sme: F/E/W/Ore/ Metal<br /> Lvl 1: 2/2/2/4/ 6<br /> Lvl 2: 3/3/3/6/ 9<br /> Lvl 3: 4/4/4/7/ 12<br /> Lvl 4: 4/4/4/9/ 15<br /> Lvl 5: 5/5/5/10/ 18<br /> Lvl 6: 6/6/6/12/ 21<br /> Lvl 7: 7/7/7/14/ 24<br /> Lvl 8: 8/8/8/15/ 27<br /> Lvl 9: 8/8/8/17/ 30<br /> Lvl 10: 9/9/9/18/ 33
+      </p>
+      
+      <p>
+        SF: E/AnEm/ F/W/Bio<br /> Lvl 1: 4/5/ 8/2/1<br /> Lvl 2: 6/7/ 12/3/2<br /> Lvl 3: 7/9/ 16/4/2<br /> Lvl 4: 9/11/ 20/5/3<br /> Lvl 5: 10/13/ 24/6/3<br /> Lvl 6: 12/15/ 28/7/4<br /> Lvl 7: 14/17/ 32/8/4<br /> Lvl 8: 15/19/ 36/9/5<br /> Lvl 9: 17/21/ 40/10/5<br /> Lvl 10: 18/23/ 44/11/6</td> </tr> </tbody> </table> 
+        
+        <p>
+          &nbsp;
+        </p>
+        
+        <hr />
+        
+        <table cellspacing="0" cellpadding="0" width="100%">
+          <tr>
+            <td align="left">
+              <strong>From: Godot</strong>
+            </td>
+            
+            <td align="right">
+              2008/01/15 &#8211; 11:07:21
+            </td>
+          </tr>
+          
+          <tr>
+            <td colspan="2" align="left">
+              <strong>Subject: Another useful one</strong>
+            </td>
+          </tr>
+          
+          <tr>
+            <td colspan="2" align="left">
+              Upgrades:</p> 
+              
+              <p>
+                Production level:
+              </p>
+              
+              <p>
+                from lvl 1 to lvl 2: 20 metal; 15 ore; 15 energy<br /> from lvl 2 to lvl 3: 28 metal; 24 ore; 24 energy<br /> from lvl 3 to lvl 4: 46 metal; 43 ore; 43 energy<br /> from lvl 4 to lvl 5: 77 metal; 75 ore; 75 energy<br /> from lvl 5 to lvl 6: 123 metal; 122 ore; 122 energy<br /> from lvl 6 to lvl 7: 186 metal; 187 ore; 187 energy<br /> from lvl 7 to lvl 8: 270 metal; 271 ore; 271 energy<br /> from lvl 8 to lvl 9: 375 metal; 379 ore; 379 energy<br /> from lvl 9 to lvl 10: 505 metal; 510 ore; 510 energy
+              </p>
+              
+              <p>
+                Capacity: Metal/Ore/Energy
+              </p>
+              
+              <p>
+                100 > 110: +10 = 1/1/1<br /> 110 > 120: +10 = 1/1/1<br /> 120 > 130: +10 = 2/2/2<br /> 130 > 140: +10 = 2/2/2<br /> 140 > 150: +10 = 3/3/3<br /> 150 > 160: +10 = 4/4/4<br /> 160 > 170: +10 = 4/4/4<br /> 170 > 180: +10 = 5/5/5<br /> 180 > 190: +10 = 5/5/5<br /> 190 > 200: +10 = 6/6/6
+              </p>
+              
+              <p>
+                200 > 210: +10 = 6/6/6<br /> 210 > 220: +10 = 7/7/7<br /> 220 > 230: +10 = 8/8/8<br /> 230 > 240: +10 = 8/8/8<br /> 240 > 250: +10 = 9/9/9<br /> 250 > 260: +10 = 9/9/9<br /> 260 > 270: +10 = 10/10/10<br /> 270 > 280: +10 = 11/11/11<br /> 280 > 290: +10 = 11/11/11<br /> 290 > 300: +10 = 12/12/12
+              </p>
+              
+              <p>
+                300 > 310: +10 = 13/13/13<br /> 310 > 320: +10 = 13/13/13<br /> 320 > 330: +10 = 14/14/14<br /> 330 > 340: +10 = 14/14/14<br /> 340 > 350: +10 = 15/15/15<br /> 350 > 360: +10 = 16/16/16<br /> 360 > 370: +10 = 17/17/17<br /> 370 > 380: +10 = 17/17/17<br /> 380 > 390: +10 = 18/18/18<br /> 390 > 400: +10 = 18/18/18
+              </p>
+              
+              <p>
+                400 > 410: +10 = 19/19/19<br /> 410 > 420: +10 = 20/20/20<br /> 420 > 430: +10 = 20/20/20<br /> 430 > 440: +10 = 21/21/21<br /> 440 > 450: +10 = 22/22/22<br /> 450 > 460: +10 = 23/23/23<br /> 460 > 470: +10 = 23/23/23<br /> 470 > 480: +10 = 24/24/24<br /> 480 > 490: +10 = 25/25/25<br /> 490 > 500: +10 = 25/25/25
+              </p>
+              
+              <p>
+                500 > 510: +10 = 26/26/26<br /> 510 > 520: +10 = 27/27/27<br /> 520 > 530: +10 = 27/27/27<br /> 530 > 540: +10 = 28/28/28<br /> 540 > 550: +10 = 29/29/29<br /> 550 > 560: +10 = 30/30/30
+              </p>
+              
+              <p>
+                Defence Modules:<br /> 1 > 2: +1 = 11 metal; 10 ore; 11 energy<br /> 2 > 3: +1 = 19 metal; 17 ore; 19 energy<br /> 3 > 4: +1 = 30 metal; 26 ore; 30 energy<br /> 4 > 5: +1 = 43 metal; 37 ore; 43 energy<br /> 5 > 6: +1 = 59 metal; 50 ore; 59 energy<br /> <em>6 > 7 &#8230;</em><br /> <em>7 > 8 &#8230;</em><br /> <em>8 > 9 &#8230;</em><br /> <em>9 > 10 &#8230;</em><br /> <em>10 > 11 = 173 metal; 145 ore; 173 energy</em><br /> <em>11 > 12 = 203 metal; 170 ore; 203 energy</em><br /> <em>12 > 13</em><em> = 235 metal; 197 ore; 235 energy</em><br /> <em>13 > 14</em><em> = 270 metal; 226 ore; 270 energy</em><br /> <em>14 > 15</em><em> </em><em> = 307 metal; 207 ore; 307 energy</em></td> </tr> </tbody> </table> 
+                
+                <hr />
+                
+                <table cellspacing="0" cellpadding="0" width="100%">
+                  <tr>
+                    <td align="left">
+                      <strong>From: Godot</strong>
+                    </td>
+                    
+                    <td align="right">
+                      2008/07/11 &#8211; 09:23:36
+                    </td>
+                  </tr>
+                  
+                  <tr>
+                    <td colspan="2" align="left">
+                      <strong>Subject:</strong><span style="font-weight: bold;"> </span>
+                    </td>
+                  </tr>
+                  
+                  <tr>
+                    <td colspan="2" align="left">
+                      Overskilling:</p> 
+                      
+                      <p>
+                        XP*0.0001291+Skill
+                      </p>
+                      
+                      <p>
+                        Skill:<br /> Tactics: 32<br /> Hit accuracy: 42<br /> Maneuver skill: 32<br /> Weaponry skill: 20<br /> Engineering: 15
+                      </p>
+                      
+                      <p>
+                        XP/Tac/HA/Man/Wea/Eng
+                      </p>
+                      
+                      <p>
+                        30000 35,87 45,87 35,87 23,87 18,87<br /> 35000 36,52 46,52 36,52 24,52 19,52<br /> 40000 37,16 47,16 37,16 25,16 20,16<br /> 45000 37,81 47,81 37,81 25,81 20,81<br /> 50000 38,46 48,46 38,46 26,46 21,46<br /> 55000 39,10 49,10 39,10 27,10 22,10<br /> 60000 39,75 49,75 39,75 27,75 22,75<br /> 65000 40,39 50,39 40,39 28,39 23,39<br /> 70000 41,04 51,04 41,04 29,04 24,04<br /> 75000 41,68 51,68 41,68 29,68 24,68<br /> 80000 42,33 52,33 42,33 30,33 25,33<br /> 85000 42,97 52,97 42,97 30,97 25,97<br /> 90000 43,62 53,62 43,62 31,62 26,62<br /> 95000 44,26 54,26 44,26 32,26 27,26<br /> 100000 44,91 54,91 44,91 32,91 27,91<br /> 105000 45,56 55,56 45,56 33,56 28,56<br /> 110000 46,20 56,20 46,20 34,20 29,20<br /> 115000 46,85 56,85 46,85 34,85 29,85<br /> 120000 47,49 57,49 47,49 35,49 30,49<br /> 125000 48,14 58,14 48,14 36,14 31,14<br /> 130000 48,78 58,78 48,78 36,78 31,78<br /> 135000 49,43 59,43 49,43 37,43 32,43<br /> 140000 50,07 60,07 50,07 38,07 33,07<br /> 145000 50,72 60,72 50,72 38,72 33,72<br /> 150000 51,37 61,37 51,37 39,37 34,37<br /> 155000 52,01 62,01 52,01 40,01 35,01<br /> 160000 52,66 62,66 52,66 40,66 35,66<br /> 165000 53,30 63,30 53,30 41,30 36,30<br /> 170000 53,95 63,95 53,95 41,95 36,95<br /> 10k step<br /> 180000 55,24 65,24 55,24 43,24 38,24<br /> 190000 56,53 66,53 56,53 44,53 39,53<br /> 200000 57,82 67,82 57,82 45,82 40,82<br /> 210000 59,11 69,11 59,11 47,11 42,11<br /> 220000 60,40 70,40 60,40 48,40 43,40<br /> 230000 61,69 71,69 61,69 49,69 44,69<br /> 240000 62,98 72,98 62,98 50,98 45,98<br /> 250000 64,28 74,28 64,28 52,28 47,28<br /> 260000 65,57 75,57 65,57 53,57 48,57<br /> 270000 66,86 76,86 66,86 54,86 49,86<br /> 280000 68,15 78,15 68,15 56,15 51,15<br /> 290000 69,44 79,44 69,44 57,44 52,44<br /> 300000 70,73 80,73 70,73 58,73 53,73</td> </tr> </tbody> </table> 
+                        
+                        <div class="container_share">
+                          <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/pardus-building-tables-08-2010.html&t=Pardus Building Tables" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
+                          
+                          <p>
+                            Facebook
+                          </p></a> 
+                          
+                          <a href="http://twitter.com/share?url=http://www.danielelolli.it/pardus-building-tables-08-2010.html&text=Pardus Building Tables" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
+                          
+                          <p>
+                            Twitter
+                          </p></a> 
+                          
+                          <a href="https://plus.google.com/share?url=http://www.danielelolli.it/pardus-building-tables-08-2010.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
+                          
+                          <p>
+                            Google +
+                          </p></a> 
+                          
+                          <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/pardus-building-tables-08-2010.html&title=Pardus Building Tables" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
+                          
+                          <p>
+                            Linkedin
+                          </p></a>
+                        </div>
