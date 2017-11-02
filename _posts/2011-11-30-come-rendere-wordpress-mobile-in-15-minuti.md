@@ -46,29 +46,3 @@ tags:
 <div style="text-align: justify;">
   E visto che sono dell&#8217;idea che meno c&#8217;è, meno si può rompere, penso che andrà bene per un po&#8217; 😉
 </div>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/come-rendere-wordpress-mobile-in-15-minuti-11-2011.html&t=Come rendere WordPress &#8220;mobile&#8221; in 15 minuti" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/come-rendere-wordpress-mobile-in-15-minuti-11-2011.html&text=Come rendere WordPress &#8220;mobile&#8221; in 15 minuti" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/come-rendere-wordpress-mobile-in-15-minuti-11-2011.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/come-rendere-wordpress-mobile-in-15-minuti-11-2011.html&title=Come rendere WordPress &#8220;mobile&#8221; in 15 minuti" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

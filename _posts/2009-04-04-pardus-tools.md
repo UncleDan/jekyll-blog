@@ -116,29 +116,3 @@ _ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="http
 <p style="text-align: justify;">
   Being <em>Quick Commands by sabolton</em> updated on 08/12/2009 please refer to the original link posted above from now on (I don&#8217;t use Quick Commands anymore, either).
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/pardus-tools-04-2009.html&t=Pardus Tools" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/pardus-tools-04-2009.html&text=Pardus Tools" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/pardus-tools-04-2009.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/pardus-tools-04-2009.html&title=Pardus Tools" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

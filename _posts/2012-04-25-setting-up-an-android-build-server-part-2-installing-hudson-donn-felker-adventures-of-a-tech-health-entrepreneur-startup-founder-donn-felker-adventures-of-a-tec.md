@@ -163,29 +163,3 @@ sudo dpkg --install /tmp/hudson.deb</pre>
 > In the next post I’ll install the Android SDK and download all of the necessary SDK’s (Android versions) that we need to build our applications.
 > 
 > &nbsp;
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/setting-up-an-android-build-server-part-2-installing-hudson-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tec-04-2012.html&t=Setting up an Android Build Server – Part 2: Installing Hudson « Donn Felker" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/setting-up-an-android-build-server-part-2-installing-hudson-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tec-04-2012.html&text=Setting up an Android Build Server – Part 2: Installing Hudson « Donn Felker" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/setting-up-an-android-build-server-part-2-installing-hudson-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tec-04-2012.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/setting-up-an-android-build-server-part-2-installing-hudson-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tec-04-2012.html&title=Setting up an Android Build Server – Part 2: Installing Hudson « Donn Felker" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

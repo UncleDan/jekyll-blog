@@ -36,29 +36,3 @@ tags:
 </p>
 
 # <a title="Setting up an Active Directory Domain Controller using Samba 4 on Ubuntu 14.04" href="https://jimshaver.net/2014/07/13/setting-up-an-active-directory-domain-controller-using-samba-4-on-ubuntu-14-04/" target="_blank">Setting up an Active Directory Domain Controller using Samba 4 on Ubuntu 14.04</a> {.entry-title}
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/controller-active-directory-con-ubuntu-14-04-si-puo-fare-03-2015.html&t=Controller Active Directory con Ubuntu 14.04? Si&#8230; Può&#8230; Fare!!!" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/controller-active-directory-con-ubuntu-14-04-si-puo-fare-03-2015.html&text=Controller Active Directory con Ubuntu 14.04? Si&#8230; Può&#8230; Fare!!!" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/controller-active-directory-con-ubuntu-14-04-si-puo-fare-03-2015.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/controller-active-directory-con-ubuntu-14-04-si-puo-fare-03-2015.html&title=Controller Active Directory con Ubuntu 14.04? Si&#8230; Può&#8230; Fare!!!" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

@@ -63,29 +63,3 @@ categories:
 <p style="text-align: justify;">
   Spero di essere stato utile e fatemi sapere se Zio Bill diceva il vero! 😀
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/supporto-usb-2-0-in-windows-2000-professional-05-2010.html&t=Supporto USB 2.0 in Windows 2000 Professional" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/supporto-usb-2-0-in-windows-2000-professional-05-2010.html&text=Supporto USB 2.0 in Windows 2000 Professional" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/supporto-usb-2-0-in-windows-2000-professional-05-2010.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/supporto-usb-2-0-in-windows-2000-professional-05-2010.html&title=Supporto USB 2.0 in Windows 2000 Professional" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

@@ -125,29 +125,3 @@ Now I think it&#8217;s everything. The next solution!
 <p style="text-align: center;">
   <small><em>This is a <a title="Google automatic translation" href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.uncledan.it%2F2011%2F06%2Fkubuntu-4-11-grub2-e-installazioni-windows-multiple%2F&sl=it&tl=en&hl=&ie=UTF-8" target="_blank">Google automatic translation</a>. Something more refined may come one day&#8230;</em></small>
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/kubuntu-4-11-grub2-and-multiple-windows-installations-06-2011.html&t=Kubuntu 4.11: GRUB2 and multiple Windows installations" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/kubuntu-4-11-grub2-and-multiple-windows-installations-06-2011.html&text=Kubuntu 4.11: GRUB2 and multiple Windows installations" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/kubuntu-4-11-grub2-and-multiple-windows-installations-06-2011.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/kubuntu-4-11-grub2-and-multiple-windows-installations-06-2011.html&title=Kubuntu 4.11: GRUB2 and multiple Windows installations" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

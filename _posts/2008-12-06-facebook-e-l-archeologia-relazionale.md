@@ -18,29 +18,3 @@ Avete notato anche voi come appena iscritti su [<span style="font-weight: bold;"
 <div class="flockcredit" style="text-align: right; color: #CCC; font-size: x-small;">
   Blogged with the Flock Browser
 </div>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/facebook-e-l-archeologia-relazionale-12-2008.html&t=Facebook e l&#8217;archeologia relazionale" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/facebook-e-l-archeologia-relazionale-12-2008.html&text=Facebook e l&#8217;archeologia relazionale" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/facebook-e-l-archeologia-relazionale-12-2008.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/facebook-e-l-archeologia-relazionale-12-2008.html&title=Facebook e l&#8217;archeologia relazionale" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

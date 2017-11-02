@@ -27,29 +27,3 @@ Parliamo di sistema a 64 bit, italiano e, dove possibile, installer offline. **A
   * [Notepad++](https://notepad-plus-plus.org/download/)
   * [Teamviewer](https://www.teamviewer.com/it/download/) (gratuito per uso personale)
   * [Java Runtime Environment](https://www.java.com/it/download/manual.jsp)
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/programmi-essenziali-freeware-o-open-source-per-windows-7-64-bit-07-2017.html&t=Programmi essenziali freeware o open source per Windows 7 (64-bit)" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/programmi-essenziali-freeware-o-open-source-per-windows-7-64-bit-07-2017.html&text=Programmi essenziali freeware o open source per Windows 7 (64-bit)" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/programmi-essenziali-freeware-o-open-source-per-windows-7-64-bit-07-2017.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/programmi-essenziali-freeware-o-open-source-per-windows-7-64-bit-07-2017.html&title=Programmi essenziali freeware o open source per Windows 7 (64-bit)" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

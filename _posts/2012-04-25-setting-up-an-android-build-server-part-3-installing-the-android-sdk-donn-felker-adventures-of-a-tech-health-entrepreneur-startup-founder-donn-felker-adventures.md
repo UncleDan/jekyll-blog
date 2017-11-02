@@ -136,29 +136,3 @@ wget http://dl.google.com/android/android-sdk_r07-linux_x86.tgz</pre>
 > ## Wrap Up
 > 
 > In this post you installed the necessary 32bit compatibility libraries and gui components needed to run the X Window system. After that you downloaded the SDK’s that you needed on your build server. In the next section we’ll tell Hudson how to get files from GitHub when they change (on a polling basis). After that we’ll go into actually building the Android app after the sources are cloned/fetched locally.
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/setting-up-an-android-build-server-part-3-installing-the-android-sdk-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-04-2012.html&t=Setting up an Android Build Server –  Part 3: Installing the Android SDK « Donn Felker" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/setting-up-an-android-build-server-part-3-installing-the-android-sdk-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-04-2012.html&text=Setting up an Android Build Server –  Part 3: Installing the Android SDK « Donn Felker" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/setting-up-an-android-build-server-part-3-installing-the-android-sdk-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-04-2012.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/setting-up-an-android-build-server-part-3-installing-the-android-sdk-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-04-2012.html&title=Setting up an Android Build Server –  Part 3: Installing the Android SDK « Donn Felker" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

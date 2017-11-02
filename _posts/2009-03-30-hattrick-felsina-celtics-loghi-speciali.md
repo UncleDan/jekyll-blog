@@ -123,29 +123,3 @@ tags:
 <p style="text-align: center;">
   <strong><a href="http://www.danielelolli.it/wp-content/uploads/2009/03/felsina_celtics_charazay.gif" target="_blank"><img class="size-full wp-image-271 aligncenter" title="Felsina Celtics (Charazay)" src="http://www.danielelolli.it/wp-content/uploads/2009/03/felsina_celtics_charazay.gif" alt="Felsina Celtics (Charazay)" width="290" height="359" srcset="https://www.danielelolli.it/wp-content/uploads/2009/03/felsina_celtics_charazay.gif 300w, https://www.danielelolli.it/wp-content/uploads/2009/03/felsina_celtics_charazay-242x300.gif 242w" sizes="(max-width: 290px) 100vw, 290px" /></a><br /> </strong>
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/hattrick-felsina-celtics-loghi-speciali-03-2009.html&t=Felsina Celtics &#8211; Loghi Speciali" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/hattrick-felsina-celtics-loghi-speciali-03-2009.html&text=Felsina Celtics &#8211; Loghi Speciali" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/hattrick-felsina-celtics-loghi-speciali-03-2009.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/hattrick-felsina-celtics-loghi-speciali-03-2009.html&title=Felsina Celtics &#8211; Loghi Speciali" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

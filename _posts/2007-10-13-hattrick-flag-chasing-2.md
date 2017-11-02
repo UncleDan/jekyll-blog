@@ -14,29 +14,3 @@ categories:
 </p>
 
 <a title="Collezione Bandiere (thanks to FlagCreator.org)" href="http://www.flagcreator.org/" target="_blank"><img class="aligncenter" title="Collezione Bandiere (thanks to FlagCreator.org)" src="http://www.flagcreator.org/visited/551559.png" alt="Collezione Bandiere (thanks to FlagCreator.org)" /></a>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/hattrick-flag-chasing-2-10-2007.html&t=Flag Chasing" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/hattrick-flag-chasing-2-10-2007.html&text=Flag Chasing" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/hattrick-flag-chasing-2-10-2007.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/hattrick-flag-chasing-2-10-2007.html&title=Flag Chasing" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

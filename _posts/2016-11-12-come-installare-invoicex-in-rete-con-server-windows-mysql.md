@@ -95,29 +95,3 @@ Effettuare l&#8217;installazione standard
 Al primo accesso, quando viene chiesto se utilizzare in locale o in rete, scegliere **in rete** e indicare l&#8217;indirizzo IP del PC su cui si è installato MySQL, nome del database (nell&#8217;esempio `invoicex_db`), username e password del database (nell&#8217;esempio `invoicex_user` e `123`).
 
 ### FINITO.
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/come-installare-invoicex-in-rete-con-server-windows-mysql-11-2016.html&t=Come installare Invoicex in rete con server Windows MySQL" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/come-installare-invoicex-in-rete-con-server-windows-mysql-11-2016.html&text=Come installare Invoicex in rete con server Windows MySQL" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/come-installare-invoicex-in-rete-con-server-windows-mysql-11-2016.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/come-installare-invoicex-in-rete-con-server-windows-mysql-11-2016.html&title=Come installare Invoicex in rete con server Windows MySQL" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

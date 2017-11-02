@@ -137,29 +137,3 @@ Edit /etc/dnsmasq.conf and check you have a line at the of the file similar to t
 `sudo service dnsmasq restart`
 
 Boot a machine using the network option from BIOS and install your system or run memtest!
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04-07-2014.html&t=HOWTO: Boot Linux from network using PXE and DNSMASQ proxy (Ubuntu 14.04)" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04-07-2014.html&text=HOWTO: Boot Linux from network using PXE and DNSMASQ proxy (Ubuntu 14.04)" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04-07-2014.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04-07-2014.html&title=HOWTO: Boot Linux from network using PXE and DNSMASQ proxy (Ubuntu 14.04)" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

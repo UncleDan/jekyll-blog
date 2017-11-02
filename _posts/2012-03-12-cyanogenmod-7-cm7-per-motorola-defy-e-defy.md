@@ -65,29 +65,3 @@ Thread utili su <a title="XDA Developers" href="http://www.xda-developers.com/" 
 &nbsp;
 
 &nbsp;
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/cyanogenmod-7-cm7-per-motorola-defy-e-defy-03-2012.html&t=Cyanogenmod 7 [CM7] per Motorola Defy e Defy+" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/cyanogenmod-7-cm7-per-motorola-defy-e-defy-03-2012.html&text=Cyanogenmod 7 [CM7] per Motorola Defy e Defy+" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/cyanogenmod-7-cm7-per-motorola-defy-e-defy-03-2012.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/cyanogenmod-7-cm7-per-motorola-defy-e-defy-03-2012.html&title=Cyanogenmod 7 [CM7] per Motorola Defy e Defy+" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

@@ -20,29 +20,3 @@ tags:
 <p style="text-align: justify;">
   Oltre ad essere un <a title="Christina Aguilera - Back To Basics (2006) @ allmusic.com" href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:wxfixqtdldse" target="_blank">bellissimo album di Christina Aguilera</a>, <strong>Back To Basics</strong> è quello che è successo a questo che blog, già minimalista negli interventi, ha deciso di esserlo ora anche nelle forme. Quindi via il deludente <em>Facebook Connector</em> (colpa sua o dell&#8217;hosting non so, ma non funzia!), via un sacco di plugin inutilizzati, via tutti i temi e si ripropone con prepotenza il minimalistissimo (lo so, non si dice, ma io lo dico lo stesso) <strong><a title="Get the Sandbox!" href="http://www.plaintxt.org/themes/sandbox/" target="_blank">Sandbox</a></strong>, per ora in solo testo.  Sarà questa la fine dello sviluppo dello sconosciutissimo <a title="Quadruple Blue WHO!?" href="http://www.danielelolli.it/progetti/vecchi-progetti/quadruple-blue-mod" target="_self">Quadruple Blue MOD</a>? In un remoto futuro non so, ma per ora decisamente sì. Il pochissimo tempo per il coding sarà dedicato al progetto <strong>Infocenter </strong>per <a title="The greatest online game ever: Pardus!" href="http://www.pardus.at/" target="_blank">Pardus</a> (anche lui per altro in standby). Entra invece un piccolo ma utile plugin per visualizzare il blog su dispositivi portatili: <strong><a title="MobilePress by tinyimpact" href="http://mobilepress.co.za/" target="_blank">MobilePress</a></strong>.
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/back-to-basics-again-10-2009.html&t=Back To Basics&#8230; Again!" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/back-to-basics-again-10-2009.html&text=Back To Basics&#8230; Again!" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/back-to-basics-again-10-2009.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/back-to-basics-again-10-2009.html&title=Back To Basics&#8230; Again!" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

@@ -126,29 +126,3 @@ Adesso penso che sia proprio tutto. Alla prossima soluzione!
 * * *
 
 <small><em><strong>EDIT 27-10-2011:</strong> purtroppo ho scoperto che il procedimento è da ripetere dopo ogni upgrade che coinvolge il kernel o dist-upgrade (evidentemente grub rigenera automaticamente il file <strong>grub.cfg</strong>). Se qualcuno ha suggerimenti su come rendere permanente la modifica delle sezioni Windows, non ha che da postare un commento! 😉</em></small>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/kubuntu-4-11-grub2-e-installazioni-windows-multiple-06-2011.html&t=Kubuntu 4.11: GRUB2 e installazioni Windows multiple" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/kubuntu-4-11-grub2-e-installazioni-windows-multiple-06-2011.html&text=Kubuntu 4.11: GRUB2 e installazioni Windows multiple" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/kubuntu-4-11-grub2-e-installazioni-windows-multiple-06-2011.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/kubuntu-4-11-grub2-e-installazioni-windows-multiple-06-2011.html&title=Kubuntu 4.11: GRUB2 e installazioni Windows multiple" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

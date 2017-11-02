@@ -24,29 +24,3 @@ tags:
   * <a title="Fabiombo2" href="http://www.hattrick.org/Club/Manager/?userId=11063520" target="_blank">fabiombo</a>, manager di <a title="Celestum 2010" href="http://www.hattrick.org/Club/?TeamID=1522053" target="_blank">Celestum 2010</a> _(resurrection)_
   * <a title="Franz70" href="http://www.hattrick.org/Club/Manager/?userId=3324743" target="_blank">Franz70</a>, manager di <a title="I Barzotti" href="http://www.hattrick.org/Club/?TeamID=730547" target="_blank">I Barzotti</a>
   * <a title="-Davide-" href="http://www.hattrick.org/Club/Manager/?userId=1663196" target="_blank">-Davide-</a>, manager di <a title="Oldengland" href="http://www.hattrick.org/Club/?TeamID=234242" target="_blank">Oldengland</a> _(retired)_
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/amici-su-hattrick-06-2011.html&t=Amici su Hattrick" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/amici-su-hattrick-06-2011.html&text=Amici su Hattrick" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/amici-su-hattrick-06-2011.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/amici-su-hattrick-06-2011.html&title=Amici su Hattrick" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>

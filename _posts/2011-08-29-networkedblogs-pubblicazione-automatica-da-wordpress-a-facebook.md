@@ -22,29 +22,3 @@ tags:
 <p style="text-align: justify;">
   Vediamo un po&#8217; come funziona.
 </p>
-
-<div class="container_share">
-  <a href="http://www.facebook.com/sharer.php?u=http://www.danielelolli.it/networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook-08-2011.html&t=NetworkedBlogs: pubblicazione automatica da WordPress a facebook" target="_blank" class="button_purab_share facebook"><span><i class="icon-facebook"></i></span>
-  
-  <p>
-    Facebook
-  </p></a> 
-  
-  <a href="http://twitter.com/share?url=http://www.danielelolli.it/networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook-08-2011.html&text=NetworkedBlogs: pubblicazione automatica da WordPress a facebook" target="_blank" class="button_purab_share twitter"><span><i class="icon-twitter"></i></span>
-  
-  <p>
-    Twitter
-  </p></a> 
-  
-  <a href="https://plus.google.com/share?url=http://www.danielelolli.it/networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook-08-2011.html" target="_blank" class="button_purab_share google-plus"><span><i class="icon-google-plus"></i></span>
-  
-  <p>
-    Google +
-  </p></a> 
-  
-  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.danielelolli.it/networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook-08-2011.html&title=NetworkedBlogs: pubblicazione automatica da WordPress a facebook" target="_blank" class="button_purab_share linkedin"><span><i class="icon-linkedin"></i></span>
-  
-  <p>
-    Linkedin
-  </p></a>
-</div>
