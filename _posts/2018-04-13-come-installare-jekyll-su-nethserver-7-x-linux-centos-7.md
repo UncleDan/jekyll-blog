@@ -4,7 +4,7 @@ date: 2018-04-13T18:35:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
 guid: http://www.danielelolli.it/?p=180413183500
-permalink: /2018-04-13-come-installare-jekyll-su-nethserver-7-x-linux-centos-7.md
+permalink: /2018-04-13-come-installare-jekyll-su-nethserver-7-x-linux-centos-7.html
 categories:
   - PC
   - Tech
