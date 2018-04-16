@@ -12,8 +12,11 @@ categories:
   - Web
 ---
 
-Per chi non lo sapesse **Jekyll** è un "compilatore" di pagine 
+Per chi non lo sapesse **Jekyll** è un “compilatore” di pagine HTML statiche che consente di creare siti “effetto blog” di grande impatto grafico e che non necessitano di alcun database.
 
+Certo è uno strumento più tecnico e meno fruibile ai più rispetto, ad esempio, a WordPress, ma si sta ritagliando una sua nicchia.
+
+In questo articolo vedremo come installare un piccolo server (nel mio caso una macchina virtuale) che ci consente di approcciare Jekyll.
 # Configurazione cartella per sorgenti
 
 Per prima cosa installiamo **NethServer 7** con le opzioni che preferiamo: io ho usato la Unattended Installation per ridurre al minimo i tempi di configurazione.
@@ -82,4 +85,9 @@ http://<indirizzoip>/
 ```
 **...il nostro primo sito Jekyll!**
 
-*Tradotto e adattato da: HostPresto "How to Install Jekyll on CentOS 7", 2nd February 2017 | https://hostpresto.com/community/tutorials/how-to-install-jekyll-on-centos-7/*
+Ora basterà editare i file nella cartella condivisa (anche da Windows) e lanciare il comando:
+```
+jekyll build -d /var/www/html/
+```
+per continuare a sperimentare e vedere gli effetti delle modifiche.
+*Tradotto e adattato da: HostPresto "How to Install Jekyll on CentOS 7", 2nd February 2017 - https://hostpresto.com/community/tutorials/how-to-install-jekyll-on-centos-7/*
