@@ -4,8 +4,10 @@ title: 'Nuovo &#8220;parco giochi&#8221;'
 date: 2008-05-10T17:24:47+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=100
-permalink: /nuovo-parco-giochi-05-2008.html
+guid: https://www.uncledan.it/blog/?p=100
+permalink: /2008-05-10-nuovo-parco-giochi.html
+mytory_md_visits_count:
+  - "56"
 categories:
   - Miscellanea
 tags:
@@ -22,5 +24,5 @@ Grazie al servizio di hosting gratuito <a title="ilbello.com" href="http://www.i
 Non è detto che quello che vedete lì, un domani non lo vediate qui [;)]
 
 <p align="center">
-  <a title="ilbello.com" href="http://www.ilbello.com/" target="_blank"><img src="http://www.danielelolli.it/wp-content/uploads/2008/05/ilbello.png" alt="ilbello.com" /></a>
+  <a title="ilbello.com" href="http://www.ilbello.com/" target="_blank"><img src="https://www.uncledan.it/wp-content/uploads/2008/05/ilbello.png" alt="ilbello.com" /></a>
 </p>

@@ -4,8 +4,10 @@ title: Happy New Year!
 date: 2012-01-01T00:00:07+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1518
-permalink: /happy-new-year-01-2012.html
+guid: https://www.uncledan.it/?p=1518
+permalink: /2012-01-01-happy-new-year.html
+mytory_md_visits_count:
+  - "54"
 categories:
   - "2012"
 tags:
@@ -46,7 +48,7 @@ tags:
   - نايا سال مبارک هو
 ---
 <p style="text-align: center;">
-  <img class="alignnone aligncenter" title="Happy New Year 2012!" src="http://www.danielelolli.it/wp-content/uploads/2012/01/HAPPY-NEW-YEAR-2012-BEAUTIFUL-600px.jpeg" alt="Happy-New-Year-2012" width="600" height="402" />
+  <img class="alignnone aligncenter" title="Happy New Year 2012!" src="https://www.uncledan.it/wp-content/uploads/2012/01/HAPPY-NEW-YEAR-2012-BEAUTIFUL-600px.jpeg" alt="Happy-New-Year-2012" width="600" height="402" />
 </p>
 
 &nbsp;

@@ -4,8 +4,10 @@ title: Alcune App per Android che non dovete perdere assolutamente
 date: 2017-03-25T12:55:44+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=2414
-permalink: /alcune-app-per-android-che-non-dovete-perdere-assolutamente-03-2017.html
+guid: https://www.uncledan.it/?p=2414
+permalink: /2017-03-25-alcune-app-per-android-che-non-dovete-perdere-assolutamente.html
+mytory_md_visits_count:
+  - "269"
 categories:
   - Android
   - Tech

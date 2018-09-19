@@ -4,8 +4,10 @@ title: 'Facebook e l&#8217;archeologia relazionale'
 date: 2008-12-06T20:18:52+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=131
-permalink: /facebook-e-l-archeologia-relazionale-12-2008.html
+guid: https://www.uncledan.it/?p=131
+permalink: /2008-12-06-facebook-e-l-archeologia-relazionale.html
+mytory_md_visits_count:
+  - "46"
 categories:
   - Miscellanea
 tags:

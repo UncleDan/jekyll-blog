@@ -4,8 +4,10 @@ title: Realizzare un dominio con Samba 3 come Primary Domain Controller | TommyB
 date: 2013-10-04T11:12:38+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1748
-permalink: /realizzare-un-dominio-con-samba-3-come-primary-domain-controller-tommyblue-it-10-2013.html
+guid: https://www.uncledan.it/?p=1748
+permalink: /2013-10-04-realizzare-un-dominio-con-samba-3-come-primary-domain-controller-tommyblue-it.html
+mytory_md_visits_count:
+  - "49"
 categories:
   - Linux
 ---

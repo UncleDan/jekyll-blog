@@ -4,8 +4,10 @@ title: WordPress updated successfully
 date: 2011-09-14T13:08:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1472
-permalink: /wordpressupdated-successfully-09-2011.html
+guid: https://www.uncledan.it/?p=1472
+permalink: /2011-09-14-wordpressupdated-successfully.html
+mytory_md_visits_count:
+  - "46"
 categories:
   - Web
 tags:

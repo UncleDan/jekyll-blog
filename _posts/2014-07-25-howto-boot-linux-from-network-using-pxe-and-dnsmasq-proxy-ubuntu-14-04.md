@@ -4,10 +4,12 @@ title: 'HOWTO: Boot Linux from network using PXE and DNSMASQ proxy (Ubuntu 14.04
 date: 2014-07-25T17:30:49+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1829
-permalink: /howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04-07-2014.html
+guid: https://www.uncledan.it/?p=1829
+permalink: /2014-07-25-howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04.html
 dsq_thread_id:
   - "6163722910"
+mytory_md_visits_count:
+  - "2326"
 categories:
   - Linux
   - PC

@@ -4,8 +4,10 @@ title: Formattare una chiavetta in ext4 (Linux CentOS 6.x)
 date: 2016-11-23T13:10:45+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=2369
-permalink: /formattare-una-chiavetta-in-ext4-linux-centos-6-x-11-2016.html
+guid: https://www.uncledan.it/?p=2369
+permalink: /2016-11-23-formattare-una-chiavetta-in-ext4-linux-centos-6-x.html
+mytory_md_visits_count:
+  - "406"
 categories:
   - Linux
   - Tech

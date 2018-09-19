@@ -4,8 +4,10 @@ title: OmniROM for Defy(+)
 date: 2014-01-15T22:57:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1774
-permalink: /omnirom-for-defy-01-2014.html
+guid: https://www.uncledan.it/?p=1774
+permalink: /2014-01-15-omnirom-for-defy.html
+mytory_md_visits_count:
+  - "61"
 categories:
   - Android
 tags:

@@ -4,8 +4,10 @@ title: Fine stagione 33
 date: 2007-10-24T13:18:36+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=80
-permalink: /fine-stagione-33-10-2007.html
+guid: https://www.uncledan.it/blog/?p=80
+permalink: /2007-10-24-fine-stagione-33.html
+mytory_md_visits_count:
+  - "50"
 categories:
   - Hattrick
 tags:

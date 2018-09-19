@@ -4,8 +4,10 @@ title: Alcune estensioni per Mozilla Thunderbird che non dovete perdere assoluta
 date: 2016-12-31T12:40:33+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=2408
-permalink: /alcune-estensioni-per-mozilla-thunderbird-che-non-dovete-perdere-assolutamente-12-2016.html
+guid: https://www.uncledan.it/?p=2408
+permalink: /2016-12-31-alcune-estensioni-per-mozilla-thunderbird-che-non-dovete-perdere-assolutamente.html
+mytory_md_visits_count:
+  - "283"
 categories:
   - Linux
   - Tech

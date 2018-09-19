@@ -4,8 +4,10 @@ title: Aggiornamenti del sito
 date: 2010-01-02T19:21:06+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=586
-permalink: /aggiornamenti-del-sito-01-2010.html
+guid: https://www.uncledan.it/?p=586
+permalink: /2010-01-02-aggiornamenti-del-sito.html
+mytory_md_visits_count:
+  - "102"
 categories:
   - Miscellanea
 ---

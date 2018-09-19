@@ -4,8 +4,10 @@ title: I.A.C.S. Infocenter
 date: 2011-05-28T10:30:33+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=984
-permalink: /iac-infocenter-05-2011.html
+guid: https://www.uncledan.it/?p=984
+permalink: /2011-05-28-iac-infocenter.html
+mytory_md_visits_count:
+  - "47"
 image: /wp-content/uploads/2011/05/IACS_Infocenter_Screenshot.png
 categories:
   - Pardus
@@ -20,5 +22,5 @@ I just finished to set up a new <a title="Pardus" href="http://www.pardus.at/" t
 Find it here:
 
 <h3 style="text-align: center;">
-  <strong>http://www.danielelolli.it/infocenter/iacs/</strong>
+  <strong>https://www.uncledan.it/infocenter/iacs/</strong>
 </h3>

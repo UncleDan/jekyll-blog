@@ -1,0 +1,213 @@
+login as: root
+root@192.168.0.13's password:
+Last login: Fri Apr 13 17:24:23 2018 from 192.168.0.6
+
+************ Welcome to NethServer ************
+
+This is a NethServer installation.
+
+Before editing configuration files, be aware
+of the automatic events and templates system.
+
+
+          http://docs.nethserver.org
+
+***********************************************
+[root@jekyll7 ~]# rvm install ruby
+Searching for binary rubies, this might take some time.
+Found remote file https://rvm_io.global.ssl.fastly.net/binaries/centos/7/x86_64/ruby-2.4.1.tar.bz2
+Checking requirements for centos.
+Installing requirements for centos.
+Installing required packages: autoconf, automake, bison, bzip2, gcc-c++, libffi-devel, libtool, readline-devel, sqlite-devel, zlib-devel, glibc-headers, glibc-devel, libyaml-devel, openssl-devel.......................
+Requirements installation successful.
+ruby-2.4.1 - #configure
+ruby-2.4.1 - #download
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 14.1M  100 14.1M    0     0  3385k      0  0:00:04  0:00:04 --:--:-- 3386k
+No checksum for downloaded archive, recording checksum in user configuration.
+ruby-2.4.1 - #validate archive
+ruby-2.4.1 - #extract
+ruby-2.4.1 - #validate binary
+ruby-2.4.1 - #setup
+ruby-2.4.1 - #gemset created /usr/local/rvm/gems/ruby-2.4.1@global
+ruby-2.4.1 - #importing gemset /usr/local/rvm/gemsets/global.gems..............................
+ruby-2.4.1 - #generating global wrappers........
+ruby-2.4.1 - #gemset created /usr/local/rvm/gems/ruby-2.4.1
+ruby-2.4.1 - #importing gemsetfile /usr/local/rvm/gemsets/default.gems evaluated to empty gem list
+ruby-2.4.1 - #generating default wrappers........
+[root@jekyll7 ~]# rvm install ruby
+Already installed ruby-2.4.1.
+To reinstall use:
+
+    rvm reinstall ruby-2.4.1
+
+[root@jekyll7 ~]# rvm --default use ruby
+Using /usr/local/rvm/gems/ruby-2.4.1
+[root@jekyll7 ~]# ruby -v
+ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-linux]
+[root@jekyll7 ~]# gem install jekyll bundler
+Fetching: public_suffix-3.0.2.gem (100%)
+Successfully installed public_suffix-3.0.2
+Fetching: addressable-2.5.2.gem (100%)
+Successfully installed addressable-2.5.2
+Fetching: colorator-1.1.0.gem (100%)
+Successfully installed colorator-1.1.0
+Fetching: http_parser.rb-0.6.0.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed http_parser.rb-0.6.0
+Fetching: eventmachine-1.2.5.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed eventmachine-1.2.5
+Fetching: em-websocket-0.5.1.gem (100%)
+Successfully installed em-websocket-0.5.1
+Fetching: concurrent-ruby-1.0.5.gem (100%)
+Successfully installed concurrent-ruby-1.0.5
+Fetching: i18n-0.9.5.gem (100%)
+Successfully installed i18n-0.9.5
+Fetching: rb-fsevent-0.10.3.gem (100%)
+Successfully installed rb-fsevent-0.10.3
+Fetching: ffi-1.9.23.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed ffi-1.9.23
+Fetching: rb-inotify-0.9.10.gem (100%)
+Successfully installed rb-inotify-0.9.10
+Fetching: sass-listen-4.0.0.gem (100%)
+Successfully installed sass-listen-4.0.0
+Fetching: sass-3.5.6.gem (100%)
+Successfully installed sass-3.5.6
+Fetching: jekyll-sass-converter-1.5.2.gem (100%)
+Successfully installed jekyll-sass-converter-1.5.2
+Fetching: ruby_dep-1.5.0.gem (100%)
+Successfully installed ruby_dep-1.5.0
+Fetching: listen-3.1.5.gem (100%)
+Successfully installed listen-3.1.5
+Fetching: jekyll-watch-2.0.0.gem (100%)
+Successfully installed jekyll-watch-2.0.0
+Fetching: kramdown-1.16.2.gem (100%)
+Successfully installed kramdown-1.16.2
+Fetching: liquid-4.0.0.gem (100%)
+Successfully installed liquid-4.0.0
+Fetching: mercenary-0.3.6.gem (100%)
+Successfully installed mercenary-0.3.6
+Fetching: forwardable-extended-2.6.0.gem (100%)
+Successfully installed forwardable-extended-2.6.0
+Fetching: pathutil-0.16.1.gem (100%)
+Successfully installed pathutil-0.16.1
+Fetching: rouge-3.1.1.gem (100%)
+Successfully installed rouge-3.1.1
+Fetching: safe_yaml-1.0.4.gem (100%)
+Successfully installed safe_yaml-1.0.4
+Fetching: jekyll-3.7.3.gem (100%)
+Successfully installed jekyll-3.7.3
+Parsing documentation for public_suffix-3.0.2
+Installing ri documentation for public_suffix-3.0.2
+Parsing documentation for addressable-2.5.2
+Installing ri documentation for addressable-2.5.2
+Parsing documentation for colorator-1.1.0
+Installing ri documentation for colorator-1.1.0
+Parsing documentation for http_parser.rb-0.6.0
+Installing ri documentation for http_parser.rb-0.6.0
+Parsing documentation for eventmachine-1.2.5
+Installing ri documentation for eventmachine-1.2.5
+Parsing documentation for em-websocket-0.5.1
+Installing ri documentation for em-websocket-0.5.1
+Parsing documentation for concurrent-ruby-1.0.5
+Installing ri documentation for concurrent-ruby-1.0.5
+Parsing documentation for i18n-0.9.5
+Installing ri documentation for i18n-0.9.5
+Parsing documentation for rb-fsevent-0.10.3
+Installing ri documentation for rb-fsevent-0.10.3
+Parsing documentation for ffi-1.9.23
+Installing ri documentation for ffi-1.9.23
+Parsing documentation for rb-inotify-0.9.10
+Installing ri documentation for rb-inotify-0.9.10
+Parsing documentation for sass-listen-4.0.0
+Installing ri documentation for sass-listen-4.0.0
+Parsing documentation for sass-3.5.6
+Installing ri documentation for sass-3.5.6
+Parsing documentation for jekyll-sass-converter-1.5.2
+Installing ri documentation for jekyll-sass-converter-1.5.2
+Parsing documentation for ruby_dep-1.5.0
+Installing ri documentation for ruby_dep-1.5.0
+Parsing documentation for listen-3.1.5
+Installing ri documentation for listen-3.1.5
+Parsing documentation for jekyll-watch-2.0.0
+Installing ri documentation for jekyll-watch-2.0.0
+Parsing documentation for kramdown-1.16.2
+Installing ri documentation for kramdown-1.16.2
+Parsing documentation for liquid-4.0.0
+Installing ri documentation for liquid-4.0.0
+Parsing documentation for mercenary-0.3.6
+Installing ri documentation for mercenary-0.3.6
+Parsing documentation for forwardable-extended-2.6.0
+Installing ri documentation for forwardable-extended-2.6.0
+Parsing documentation for pathutil-0.16.1
+Installing ri documentation for pathutil-0.16.1
+Parsing documentation for rouge-3.1.1
+Installing ri documentation for rouge-3.1.1
+Parsing documentation for safe_yaml-1.0.4
+Installing ri documentation for safe_yaml-1.0.4
+Parsing documentation for jekyll-3.7.3
+Installing ri documentation for jekyll-3.7.3
+Done installing documentation for public_suffix, addressable, colorator, http_parser.rb, eventmachine, em-websocket, concurrent-ruby, i18n, rb-fsevent, ffi, rb-inotify, sass-listen, sass, jekyll-sass-converter, ruby_dep, listen, jekyll-watch, kramdown, liquid, mercenary, forwardable-extended, pathutil, rouge, safe_yaml, jekyll after 57 seconds
+Fetching: bundler-1.16.1.gem (100%)
+Successfully installed bundler-1.16.1
+Parsing documentation for bundler-1.16.1
+Installing ri documentation for bundler-1.16.1
+Done installing documentation for bundler after 7 seconds
+26 gems installed
+[root@jekyll7 ~]# cd /var/lib/nethserver/ibay/jekyll/
+[root@jekyll7 jekyll]# jekyll new .
+Running bundle install in /var/lib/nethserver/ibay/jekyll...
+  Bundler: Don't run Bundler as root. Bundler can ask for sudo if it is needed, and
+  Bundler: installing your bundle as root will break this application for all non-root
+  Bundler: users on this machine.
+  Bundler: The dependency tzinfo-data (>= 0) will be unused by any of the platforms Bundler is installing for. Bundler is installing for ruby but the dependency is only for x86-mingw32, x86-mswin32, x64-mingw32, java. To add those platforms to the bundle, run `bundle lock --add-platform x86-mingw32 x86-mswin32 x64-mingw32 java`.
+  Bundler: Fetching gem metadata from https://rubygems.org/...........
+  Bundler: Fetching gem metadata from https://rubygems.org/.
+  Bundler: Resolving dependencies...
+  Bundler: Using public_suffix 3.0.2
+  Bundler: Using addressable 2.5.2
+  Bundler: Using bundler 1.16.1
+  Bundler: Using colorator 1.1.0
+  Bundler: Using concurrent-ruby 1.0.5
+  Bundler: Using eventmachine 1.2.5
+  Bundler: Using http_parser.rb 0.6.0
+  Bundler: Using em-websocket 0.5.1
+  Bundler: Using ffi 1.9.23
+  Bundler: Using forwardable-extended 2.6.0
+  Bundler: Using i18n 0.9.5
+  Bundler: Using rb-fsevent 0.10.3
+  Bundler: Using rb-inotify 0.9.10
+  Bundler: Using sass-listen 4.0.0
+  Bundler: Using sass 3.5.6
+  Bundler: Using jekyll-sass-converter 1.5.2
+  Bundler: Using ruby_dep 1.5.0
+  Bundler: Using listen 3.1.5
+  Bundler: Using jekyll-watch 2.0.0
+  Bundler: Using kramdown 1.16.2
+  Bundler: Using liquid 4.0.0
+  Bundler: Using mercenary 0.3.6
+  Bundler: Using pathutil 0.16.1
+  Bundler: Using rouge 3.1.1
+  Bundler: Using safe_yaml 1.0.4
+  Bundler: Using jekyll 3.7.3
+  Bundler: Fetching jekyll-feed 0.9.3
+  Bundler: Installing jekyll-feed 0.9.3
+  Bundler: Fetching jekyll-seo-tag 2.4.0
+  Bundler: Installing jekyll-seo-tag 2.4.0
+  Bundler: Fetching minima 2.4.1
+  Bundler: Installing minima 2.4.1
+  Bundler: Bundle complete! 4 Gemfile dependencies, 29 gems now installed.
+  Bundler: Use `bundle info [gemname]` to see where a bundled gem is installed.
+New jekyll site installed in /var/lib/nethserver/ibay/jekyll.
+[root@jekyll7 jekyll]# jekyll build -d /var/www/html/
+Configuration file: /var/lib/nethserver/ibay/jekyll/_config.yml
+            Source: /var/lib/nethserver/ibay/jekyll
+       Destination: /var/www/html/
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 0.592 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[root@jekyll7 jekyll]#

@@ -4,8 +4,10 @@ title: Aggiornamento WordPress
 date: 2008-05-29T12:28:19+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=103
-permalink: /aggiornamento-05-2008.html
+guid: https://www.uncledan.it/blog/?p=103
+permalink: /2008-05-29-aggiornamento.html
+mytory_md_visits_count:
+  - "53"
 categories:
   - Miscellanea
 tags:
@@ -36,7 +38,7 @@ tags:
   a questo punto, loggandomi come amministratore, WordPress mi ha detto che doveva aggiornare il database, cosa che ha fatto automaticamente senza bisogno di intervento da parte mia;
 </li>
 <li style="text-align: justify;">
-  ultima fase, aggiornamento dei plugin; ho rimosso alcuni vecchi plugin inutilizzati e aggiornato senza grosse difficoltà i rimanenti. L&#8217;unico che ha avuto qualche difficoltà è stato Custom Smilies 1.2 (prima noto come <strong>Custom Smileys 2.x</strong>). Una volta installata la nuova versione, che l&#8217;autore stesso consiglia in quanto la precedente è parecchio &#8220;vecchiotta&#8221;, ho scoperto con disappunto che gli smilies e la loro tabella di decodifica non risiedono più nel database, ma in un file php; inoltre, pur avendo seguito il consiglio di disattivare senza disinstallare la vecchia versione, la tabella è stata cancellata. Fortunatamente, dopo aver ripescato dal backup (vedete che a volte serve [;)] ) la tabella ho potuto agevolmente ricostruire i codici mancanti: non so se il plugin lo farebbe in automatico, in quanto il mio provider non dà permessi di scrittura, se non su una particolare cartella. Comunque, questo pacchetto contiene gli smilies che mi interessavano (e a cui sono troppo affezionato [:D] ) ed il relativo file php, da sostituire a quelle originale: <a href="http://www.danielelolli.it/wp-content/uploads/2008/05/snitzplus_smilies_pack.zip">SnitzPlus Smilies Pack</a>. Dato che il sito dell&#8217;autore, ogni tanto fa le bizze, ecco il pacchetto che ho utilizzato per l&#8217;installazione di <a href="http://www.danielelolli.it/wp-content/uploads/2008/05/custom-smilies12.zip">Custom Smilies 1.2</a>.
+  ultima fase, aggiornamento dei plugin; ho rimosso alcuni vecchi plugin inutilizzati e aggiornato senza grosse difficoltà i rimanenti. L&#8217;unico che ha avuto qualche difficoltà è stato Custom Smilies 1.2 (prima noto come <strong>Custom Smileys 2.x</strong>). Una volta installata la nuova versione, che l&#8217;autore stesso consiglia in quanto la precedente è parecchio &#8220;vecchiotta&#8221;, ho scoperto con disappunto che gli smilies e la loro tabella di decodifica non risiedono più nel database, ma in un file php; inoltre, pur avendo seguito il consiglio di disattivare senza disinstallare la vecchia versione, la tabella è stata cancellata. Fortunatamente, dopo aver ripescato dal backup (vedete che a volte serve [;)] ) la tabella ho potuto agevolmente ricostruire i codici mancanti: non so se il plugin lo farebbe in automatico, in quanto il mio provider non dà permessi di scrittura, se non su una particolare cartella. Comunque, questo pacchetto contiene gli smilies che mi interessavano (e a cui sono troppo affezionato [:D] ) ed il relativo file php, da sostituire a quelle originale: <a href="https://www.uncledan.it/wp-content/uploads/2008/05/snitzplus_smilies_pack.zip">SnitzPlus Smilies Pack</a>. Dato che il sito dell&#8217;autore, ogni tanto fa le bizze, ecco il pacchetto che ho utilizzato per l&#8217;installazione di <a href="https://www.uncledan.it/wp-content/uploads/2008/05/custom-smilies12.zip">Custom Smilies 1.2</a>.
 </li>
 
 Direi che questo è tutto, in caso di necessità &#8220;mailatemi&#8221; pure: per quello che posso sarò lieto di aiutare.

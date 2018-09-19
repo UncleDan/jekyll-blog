@@ -4,8 +4,10 @@ title: 'Auguri Tommy &#038; Robby!'
 date: 2007-10-08T10:52:54+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=28
-permalink: /auguri-tommy-robby-10-2007.html
+guid: https://www.uncledan.it/blog/?p=28
+permalink: /2007-10-08-auguri-tommy-robby.html
+mytory_md_visits_count:
+  - "46"
 categories:
   - Miscellanea
 tags:
@@ -15,5 +17,5 @@ tags:
   - tommy
 ---
 <p style="text-align: center">
-  <img title="Auguri Tommy & Robby!" src="http://www.danielelolli.it/wp-content/uploads/2009/03/tommyrobby2.png" border="0" alt="Auguri Tommy & Robby!" width="290" height="402" />
+  <img title="Auguri Tommy & Robby!" src="https://www.uncledan.it/wp-content/uploads/2009/03/tommyrobby2.png" border="0" alt="Auguri Tommy & Robby!" width="290" height="402" />
 </p>

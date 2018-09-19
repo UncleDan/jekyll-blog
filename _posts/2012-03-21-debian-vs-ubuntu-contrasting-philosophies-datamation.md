@@ -4,8 +4,10 @@ title: 'Debian vs. Ubuntu: Contrasting Philosophies &#8211; Datamation'
 date: 2012-03-21T23:43:23+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1634
-permalink: /debian-vs-ubuntu-contrasting-philosophies-datamation-03-2012.html
+guid: https://www.uncledan.it/?p=1634
+permalink: /2012-03-21-debian-vs-ubuntu-contrasting-philosophies-datamation.html
+mytory_md_visits_count:
+  - "44"
 categories:
   - Linux
 tags:

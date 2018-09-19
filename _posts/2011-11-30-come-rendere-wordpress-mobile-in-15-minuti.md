@@ -4,8 +4,10 @@ title: 'Come rendere WordPress &#8220;mobile&#8221; in 15 minuti'
 date: 2011-11-30T21:50:52+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1496
-permalink: /come-rendere-wordpress-mobile-in-15-minuti-11-2011.html
+guid: https://www.uncledan.it/?p=1496
+permalink: /2011-11-30-come-rendere-wordpress-mobile-in-15-minuti.html
+mytory_md_visits_count:
+  - "39"
 image: /wp-content/uploads/2011/11/qr_uncledan-it.png
 categories:
   - Web

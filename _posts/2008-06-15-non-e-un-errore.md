@@ -4,8 +4,10 @@ title: 'Non è un errore&#8230;'
 date: 2008-06-15T18:02:45+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=112
-permalink: /non-e-un-errore-06-2008.html
+guid: https://www.uncledan.it/blog/?p=112
+permalink: /2008-06-15-non-e-un-errore.html
+mytory_md_visits_count:
+  - "56"
 categories:
   - Miscellanea
 tags:

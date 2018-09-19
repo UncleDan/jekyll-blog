@@ -4,8 +4,10 @@ title: Giro di valzer
 date: 2009-03-26T19:38:35+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=139
-permalink: /giro-di-valzer-03-2009.html
+guid: https://www.uncledan.it/?p=139
+permalink: /2009-03-26-giro-di-valzer.html
+mytory_md_visits_count:
+  - "51"
 categories:
   - Miscellanea
 tags:

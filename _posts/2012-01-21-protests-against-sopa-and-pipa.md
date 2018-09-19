@@ -4,13 +4,15 @@ title: Protests against SOPA and PIPA
 date: 2012-01-21T19:18:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1598
-permalink: /protests-against-sopa-and-pipa-01-2012.html
+guid: https://www.uncledan.it/?p=1598
+permalink: /2012-01-21-protests-against-sopa-and-pipa.html
+mytory_md_visits_count:
+  - "44"
 categories:
   - Web
 ---
 <p style="text-align: center;">
-  <a href="http://www.danielelolli.it/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship.png"><img class="alignnone size-medium wp-image-1599" title="UncleDan’s Corner has gone dark from Wednesday 18 January 2012 at 8-00 until Wednesday 18 January 2012 at 20-00 to protest SOPA-PIPA and Internet Censorship. Learn More Here »" src="http://www.danielelolli.it/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship-300x159.png" alt="" width="300" height="159" /></a>
+  <a href="https://www.uncledan.it/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship.png"><img class="alignnone size-medium wp-image-1599" title="UncleDan’s Corner has gone dark from Wednesday 18 January 2012 at 8-00 until Wednesday 18 January 2012 at 20-00 to protest SOPA-PIPA and Internet Censorship. Learn More Here »" src="https://www.uncledan.it/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship-300x159.png" alt="" width="300" height="159" /></a>
 </p>
 
 <p style="text-align: center;">

@@ -4,8 +4,10 @@ title: Aggiornamenti e test
 date: 2010-08-21T12:23:20+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/2010/08/21/aggiornamenti-e-test/
-permalink: /aggiornamenti-e-test-08-2010.html
+guid: https://www.uncledan.it/2010/08/21/aggiornamenti-e-test/
+permalink: /2010-08-21-aggiornamenti-e-test.html
+mytory_md_visits_count:
+  - "52"
 categories:
   - Miscellanea
 tags:

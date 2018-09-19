@@ -4,8 +4,10 @@ title: Firefox Download Day
 date: 2008-06-04T11:04:55+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=108
-permalink: /firefox-download-day-06-2008.html
+guid: https://www.uncledan.it/blog/?p=108
+permalink: /2008-06-04-firefox-download-day.html
+mytory_md_visits_count:
+  - "31"
 categories:
   - Miscellanea
 tags:
@@ -18,5 +20,5 @@ tags:
 </h1>
 
 <p style="text-align: center;">
-  <img title="Download Day" src="http://www.danielelolli.it/wp-content/uploads/2008/06/dday_badge_fox.png" border="0" alt="Download Day" />
+  <img title="Download Day" src="https://www.uncledan.it/wp-content/uploads/2008/06/dday_badge_fox.png" border="0" alt="Download Day" />
 </p>

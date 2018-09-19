@@ -4,10 +4,12 @@ title: Come creare un server PXE per tutte le esigenze (Ubuntu 14.04.5)
 date: 2014-08-23T09:52:59+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1861
-permalink: /come-creare-un-server-pxe-per-tutte-le-esigenze-ubuntu-14-04-08-2014.html
+guid: https://www.uncledan.it/?p=1861
+permalink: /2014-08-23-come-creare-un-server-pxe-per-tutte-le-esigenze-ubuntu-14-04.html
 dsq_thread_id:
   - "6158418475"
+mytory_md_visits_count:
+  - "1236"
 categories:
   - Linux
   - PC
@@ -100,7 +102,7 @@ _Liberamente tratto da: <a href="http://blogging.dragon.org.uk/howto-setup-a-pxe
 # PXE Boot: configurare syslinux e dnsmasq
 
 <p style="text-align: left;">
-  <em>Originale: <a href="http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1" target="_blank" rel="noopener">http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1</a></em><br /> <em> Adattamento a Ubuntu di UncleDan: <a href="http://www.danielelolli.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/" target="_blank" rel="noopener">http://www.danielelolli.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/</a></em>
+  <em>Originale: <a href="http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1" target="_blank" rel="noopener">http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1</a></em><br /> <em> Adattamento a Ubuntu di UncleDan: <a href="https://www.uncledan.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/" target="_blank" rel="noopener">https://www.uncledan.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/</a></em>
 </p>
 
 <div>

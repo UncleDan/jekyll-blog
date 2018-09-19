@@ -4,10 +4,12 @@ title: Pardus Tools
 date: 2009-04-04T10:46:08+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1269
-permalink: /pardus-tools-04-2009.html
+guid: https://www.uncledan.it/?p=1269
+permalink: /2009-04-04-pardus-tools.html
 dsq_thread_id:
   - "6164294117"
+mytory_md_visits_count:
+  - "297"
 categories:
   - Pardus
 tags:
@@ -15,7 +17,7 @@ tags:
   - pardus
   - tools
 ---
-_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="http://www.danielelolli.it/wp-content/uploads/2009/03/uk-flag-xsmall.gif" alt="uk-flag-xsmall" width="20" height="15" />Only English version available._
+_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="https://www.uncledan.it/wp-content/uploads/2009/03/uk-flag-xsmall.gif" alt="uk-flag-xsmall" width="20" height="15" />Only English version available._
 
 ## Firefox Extensions and UserScripts
 
@@ -104,13 +106,13 @@ _ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="http
 </h4>
 
 <li style="text-decoration: line-through;">
-  <em>Version 1.25.001:</em><br /> changes to let the script work with 04/04/2009 site changes (based on the mods by Centic).<br /> <a title="pardus_quick_commands.user.js" href="http://www.danielelolli.it/wp-content/uploads/2009/04/pardus_quick_commands.user.js" target="_blank">Install</a> <a title="pardus_quick_commands_1-25-001.zip" href="http://www.danielelolli.it/wp-content/uploads/2009/04/pardus_quick_commands_1-25-001.zip" target="_blank">Download</a>
+  <em>Version 1.25.001:</em><br /> changes to let the script work with 04/04/2009 site changes (based on the mods by Centic).<br /> <a title="pardus_quick_commands.user.js" href="https://www.uncledan.it/wp-content/uploads/2009/04/pardus_quick_commands.user.js" target="_blank">Install</a> <a title="pardus_quick_commands_1-25-001.zip" href="https://www.uncledan.it/wp-content/uploads/2009/04/pardus_quick_commands_1-25-001.zip" target="_blank">Download</a>
 </li>
 <li style="text-decoration: line-through;">
-  <em>1.25 &#8220;Mod. Centic&#8221;:</em> (definitely cleaner than my version)<br /> Install <a title="pardus_quick_commands_mod-centic.zip" href="http://www.danielelolli.it/wp-content/uploads/2009/04/pardus_quick_commands_mod-centic.zip" target="_blank">Mirror</a>
+  <em>1.25 &#8220;Mod. Centic&#8221;:</em> (definitely cleaner than my version)<br /> Install <a title="pardus_quick_commands_mod-centic.zip" href="https://www.uncledan.it/wp-content/uploads/2009/04/pardus_quick_commands_mod-centic.zip" target="_blank">Mirror</a>
 </li>
 <li style="text-decoration: line-through;">
-  <em>1.25 &#8220;Mod. Centic/2&#8221;:</em> (updated version 27-06-2009 😉 )<br /> <a title="pardus_quick_commands2.user.js (Centic)" href="http://centic.awardspace.com/pardus%20scripts/pardus_quick_commands2.user.js" target="_blank">Install</a> <a title="pardus_quick_commands2_mod-centic.zip" href="http://www.danielelolli.it/wp-content/uploads/2009/04/pardus_quick_commands2_mod-centic.zip">Mirror</a>
+  <em>1.25 &#8220;Mod. Centic/2&#8221;:</em> (updated version 27-06-2009 😉 )<br /> <a title="pardus_quick_commands2.user.js (Centic)" href="http://centic.awardspace.com/pardus%20scripts/pardus_quick_commands2.user.js" target="_blank">Install</a> <a title="pardus_quick_commands2_mod-centic.zip" href="https://www.uncledan.it/wp-content/uploads/2009/04/pardus_quick_commands2_mod-centic.zip">Mirror</a>
 </li>
 
 <p style="text-align: justify;">

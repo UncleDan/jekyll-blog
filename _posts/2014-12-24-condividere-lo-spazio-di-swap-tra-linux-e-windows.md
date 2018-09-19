@@ -4,8 +4,10 @@ title: Condividere lo spazio di swap tra Linux e Windows
 date: 2014-12-24T14:06:19+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1944
-permalink: /condividere-lo-spazio-di-swap-tra-linux-e-windows-12-2014.html
+guid: https://www.uncledan.it/?p=1944
+permalink: /2014-12-24-condividere-lo-spazio-di-swap-tra-linux-e-windows.html
+mytory_md_visits_count:
+  - "202"
 image: /wp-content/uploads/2017/10/swap.png
 categories:
   - Linux
@@ -104,12 +106,12 @@ Infine, ma non meno importante, copiamo il driver (**swapfs.sys)** in &#8220;%sy
 
 Al riavvio noteremo la presenza di una unità S: (che come vedete dalla figura, non corrisponde a nessuna partizione Windows) che sembra fatta apposta per noi&#8230; anzi lo è!
 
-[<img class="alignnone size-full wp-image-1947" src="https://www.danielelolli.it/wp-content/uploads/2014/12/dischi.png" alt="dischi" width="601" height="303" srcset="https://www.danielelolli.it/wp-content/uploads/2014/12/dischi.png 601w, https://www.danielelolli.it/wp-content/uploads/2014/12/dischi-300x151.png 300w" sizes="(max-width: 601px) 100vw, 601px" />](http://www.danielelolli.it/wp-content/uploads/2014/12/dischi.png)
+[<img class="alignnone size-full wp-image-1947" src="https://www.danielelolli.it/wp-content/uploads/2014/12/dischi.png" alt="dischi" width="601" height="303" srcset="https://www.danielelolli.it/wp-content/uploads/2014/12/dischi.png 601w, https://www.danielelolli.it/wp-content/uploads/2014/12/dischi-300x151.png 300w" sizes="(max-width: 601px) 100vw, 601px" />](https://www.uncledan.it/wp-content/uploads/2014/12/dischi.png)
 
 Nel mio caso ho abilitato la gestione automatica del file di swap solo su S: e ho creato un file di dimensione fissa 200MB che ho lasciato su C:.
 
 <p style="text-align: justify;">
-  <a href="http://www.danielelolli.it/wp-content/uploads/2014/12/memoria.png"><img class="alignnone size-full wp-image-1946" src="https://www.danielelolli.it/wp-content/uploads/2014/12/memoria.png" alt="memoria" width="354" height="464" srcset="https://www.danielelolli.it/wp-content/uploads/2014/12/memoria.png 354w, https://www.danielelolli.it/wp-content/uploads/2014/12/memoria-229x300.png 229w" sizes="(max-width: 354px) 100vw, 354px" /></a>
+  <a href="https://www.uncledan.it/wp-content/uploads/2014/12/memoria.png"><img class="alignnone size-full wp-image-1946" src="https://www.danielelolli.it/wp-content/uploads/2014/12/memoria.png" alt="memoria" width="354" height="464" srcset="https://www.danielelolli.it/wp-content/uploads/2014/12/memoria.png 354w, https://www.danielelolli.it/wp-content/uploads/2014/12/memoria-229x300.png 229w" sizes="(max-width: 354px) 100vw, 354px" /></a>
 </p>
 
 <p style="text-align: justify;">

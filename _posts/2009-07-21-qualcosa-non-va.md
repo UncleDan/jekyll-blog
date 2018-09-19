@@ -4,8 +4,10 @@ title: 'Qualcosa non va&#8230;'
 date: 2009-07-21T13:04:28+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=366
-permalink: /qualcosa-non-va-07-2009.html
+guid: https://www.uncledan.it/?p=366
+permalink: /2009-07-21-qualcosa-non-va.html
+mytory_md_visits_count:
+  - "52"
 categories:
   - Miscellanea
 ---

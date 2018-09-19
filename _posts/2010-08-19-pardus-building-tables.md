@@ -4,8 +4,10 @@ title: Pardus Building Tables
 date: 2010-08-19T09:44:28+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1278
-permalink: /pardus-building-tables-08-2010.html
+guid: https://www.uncledan.it/?p=1278
+permalink: /2010-08-19-pardus-building-tables.html
+mytory_md_visits_count:
+  - "237"
 categories:
   - Pardus
 tags:

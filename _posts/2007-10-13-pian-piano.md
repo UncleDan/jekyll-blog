@@ -4,8 +4,10 @@ title: 'Pian piano&#8230;'
 date: 2007-10-13T16:03:06+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=64
-permalink: /pian-piano-10-2007.html
+guid: https://www.uncledan.it/blog/?p=64
+permalink: /2007-10-13-pian-piano.html
+mytory_md_visits_count:
+  - "57"
 categories:
   - Miscellanea
 tags:

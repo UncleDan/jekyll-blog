@@ -4,10 +4,12 @@ title: 'NethServer: ricostruire il mirror software'
 date: 2015-09-28T20:00:08+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=2245
-permalink: /nethserver-ricostruire-il-mirror-software-09-2015.html
+guid: https://www.uncledan.it/?p=2245
+permalink: /2015-09-28-nethserver-ricostruire-il-mirror-software.html
 dsq_thread_id:
   - "6164673896"
+mytory_md_visits_count:
+  - "312"
 categories:
   - Linux
   - PC

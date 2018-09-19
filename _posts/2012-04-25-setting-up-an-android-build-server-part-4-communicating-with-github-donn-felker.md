@@ -4,8 +4,10 @@ title: 'Setting up an Android Build Server – Part 4: Communicating With Github
 date: 2012-04-25T19:52:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1661
-permalink: /setting-up-an-android-build-server-part-4-communicating-with-github-donn-felker-04-2012.html
+guid: https://www.uncledan.it/?p=1661
+permalink: /2012-04-25-setting-up-an-android-build-server-part-4-communicating-with-github-donn-felker.html
+mytory_md_visits_count:
+  - "58"
 categories:
   - Android
   - Linux
@@ -34,7 +36,7 @@ categories:
 > 
 > ## Communicating with GitHub
 > 
-> I’m using git for my version control repository, and I’m hosting it at <a href="http://www.github.com/" target="_blank">GitHub.com</a>. Sure, there are<a href="http://www.projectlocker.com/" target="_blank">some</a> <a href="http://www.unfuddle.com/" target="_blank">free</a> git hosting sites, but I prefer to use GitHub because when I work with a team of developers or an offsite client, I can fire up a repository (public or private if you have a paid account) and everyone can connect quite easily. In the mobile world, most users are familiar with Git (at least in my experience).  While this is all well and dandy, what we really need is a way for Hudson CI to know when someone has checked in some new code. To do that, Hudson must be able to speak to GitHub through the server. In order to do that we’ll have to do the following:
+> I’m using git for my version control repository, and I’m hosting it at <a href="https://www.github.com/" target="_blank">GitHub.com</a>. Sure, there are<a href="http://www.projectlocker.com/" target="_blank">some</a> <a href="http://www.unfuddle.com/" target="_blank">free</a> git hosting sites, but I prefer to use GitHub because when I work with a team of developers or an offsite client, I can fire up a repository (public or private if you have a paid account) and everyone can connect quite easily. In the mobile world, most users are familiar with Git (at least in my experience).  While this is all well and dandy, what we really need is a way for Hudson CI to know when someone has checked in some new code. To do that, Hudson must be able to speak to GitHub through the server. In order to do that we’ll have to do the following:
 > 
 >   * Install Git on the server
 >   * Set up an SSH Key for the ‘hudson’ user in the system.

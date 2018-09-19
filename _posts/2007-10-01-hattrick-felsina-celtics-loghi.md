@@ -4,8 +4,10 @@ title: 'Felsina Celtics &#8211; Loghi'
 date: 2007-10-01T18:41:54+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1100
-permalink: /hattrick-felsina-celtics-loghi-10-2007.html
+guid: https://www.uncledan.it/?p=1100
+permalink: /2007-10-01-hattrick-felsina-celtics-loghi.html
+mytory_md_visits_count:
+  - "194"
 categories:
   - Hattrick
 tags:
@@ -17,11 +19,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Logo originale.</strong> Questo logo è l&#8217;unico realizzato interamente da me&#8230; e si vede. I tratti incerti e &#8220;pixelati&#8221; dovuti all&#8217;utilizzo del professionalissimo Microsoft® Paint 😀 sono quelli che mi hanno convinto a cambiarlo. L&#8217;idea però era molto carina, con le Due Torri a richiamare la città di Bologna ed il pallone da calcio a sostituire quello da basket. Il resto è &#8220;clonato&#8221; dal logo dei <a title="Boston Celtics" href="http://www.nba.com/celtics/" target="_blank">Boston Celtics</a> 😛<br /> <a title="Felsina Celtics - Logo originale" href="http://www.danielelolli.it/wp-content/uploads/2007/10/mylogo.gif"></a>
+  <strong>Logo originale.</strong> Questo logo è l&#8217;unico realizzato interamente da me&#8230; e si vede. I tratti incerti e &#8220;pixelati&#8221; dovuti all&#8217;utilizzo del professionalissimo Microsoft® Paint 😀 sono quelli che mi hanno convinto a cambiarlo. L&#8217;idea però era molto carina, con le Due Torri a richiamare la città di Bologna ed il pallone da calcio a sostituire quello da basket. Il resto è &#8220;clonato&#8221; dal logo dei <a title="Boston Celtics" href="http://www.nba.com/celtics/" target="_blank">Boston Celtics</a> 😛<br /> <a title="Felsina Celtics - Logo originale" href="https://www.uncledan.it/wp-content/uploads/2007/10/mylogo.gif"></a>
 </p>
 
 <p style="text-align: center;">
-  <a title="Felsina Celtics - Logo originale" href="http://www.danielelolli.it/wp-content/uploads/2007/10/mylogo.gif"><img title="Felsina Celtics - Logo originale" src="http://www.danielelolli.it/wp-content/uploads/2007/10/mylogo.gif" border="0" alt="Felsina Celtics - Logo originale" /></a>
+  <a title="Felsina Celtics - Logo originale" href="https://www.uncledan.it/wp-content/uploads/2007/10/mylogo.gif"><img title="Felsina Celtics - Logo originale" src="https://www.uncledan.it/wp-content/uploads/2007/10/mylogo.gif" border="0" alt="Felsina Celtics - Logo originale" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +31,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a title="Felsina Celtics - Logo by papclems" href="http://www.danielelolli.it/wp-content/uploads/2007/10/paplogotowers_big.gif"><img class="aligncenter" title="Felsina Celtics - Logo by papclems" src="http://www.danielelolli.it/wp-content/uploads/2007/10/paplogotowers_big.gif" border="0" alt="Felsina Celtics - Logo by papclems" /></a>
+  <a title="Felsina Celtics - Logo by papclems" href="https://www.uncledan.it/wp-content/uploads/2007/10/paplogotowers_big.gif"><img class="aligncenter" title="Felsina Celtics - Logo by papclems" src="https://www.uncledan.it/wp-content/uploads/2007/10/paplogotowers_big.gif" border="0" alt="Felsina Celtics - Logo by papclems" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -37,9 +39,9 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a title="Logo by MaDFeRReT" href="http://www.danielelolli.it/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif"><img class="aligncenter" title="Logo by MaDFeRReT" src="http://www.danielelolli.it/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif" border="0" alt="Logo by MaDFeRReT" /></a>
+  <a title="Logo by MaDFeRReT" href="https://www.uncledan.it/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif"><img class="aligncenter" title="Logo by MaDFeRReT" src="https://www.uncledan.it/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif" border="0" alt="Logo by MaDFeRReT" /></a>
 </p>
 
 ## Altri articoli sui loghi:
 
-  1. [Loghi speciali](http://www.danielelolli.it/2009/03/hattrick-felsina-celtics-loghi-speciali/ "Loghi speciali")
+  1. [Loghi speciali](https://www.uncledan.it/2009/03/hattrick-felsina-celtics-loghi-speciali/ "Loghi speciali")

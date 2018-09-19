@@ -4,8 +4,10 @@ title: 'Se bene non fa, male nemmeno&#8230;'
 date: 2008-08-25T13:11:38+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=117
-permalink: /se-bene-non-fa-male-nemmeno-08-2008.html
+guid: https://www.uncledan.it/blog/?p=117
+permalink: /2008-08-25-se-bene-non-fa-male-nemmeno.html
+mytory_md_visits_count:
+  - "54"
 categories:
   - Miscellanea
 tags:

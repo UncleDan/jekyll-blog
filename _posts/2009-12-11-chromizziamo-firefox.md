@@ -4,8 +4,10 @@ title: Chromizziamo Firefox
 date: 2009-12-11T23:34:41+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=572
-permalink: /chromizziamo-firefox-12-2009.html
+guid: https://www.uncledan.it/?p=572
+permalink: /2009-12-11-chromizziamo-firefox.html
+mytory_md_visits_count:
+  - "42"
 categories:
   - Miscellanea
 ---

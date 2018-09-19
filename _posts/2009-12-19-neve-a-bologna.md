@@ -4,8 +4,10 @@ title: Neve a Bologna!
 date: 2009-12-19T17:16:01+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=578
-permalink: /neve-a-bologna-12-2009.html
+guid: https://www.uncledan.it/?p=578
+permalink: /2009-12-19-neve-a-bologna.html
+mytory_md_visits_count:
+  - "55"
 categories:
   - Miscellanea
 tags:
@@ -18,5 +20,5 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.danielelolli.it/gallery/?dir=31-Snowy%20Night%20%28Bologna%2C%2018-12-2009%29"><br /> <img class="aligncenter" title="Neve!!!" src="http://www.danielelolli.it/wp-content/uploads/2009/12/2009-12-18-P1010132-400x300.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://www.uncledan.it/gallery/?dir=31-Snowy%20Night%20%28Bologna%2C%2018-12-2009%29"><br /> <img class="aligncenter" title="Neve!!!" src="https://www.uncledan.it/wp-content/uploads/2009/12/2009-12-18-P1010132-400x300.jpg" alt="" width="400" height="300" /></a>
 </p>

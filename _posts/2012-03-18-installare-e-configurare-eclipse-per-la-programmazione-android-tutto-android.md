@@ -4,8 +4,10 @@ title: 'Installare e configurare Eclipse per la programmazione Android. &#8211; 
 date: 2012-03-18T10:58:11+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1627
-permalink: /installare-e-configurare-eclipse-per-la-programmazione-android-tutto-android-03-2012.html
+guid: https://www.uncledan.it/?p=1627
+permalink: /2012-03-18-installare-e-configurare-eclipse-per-la-programmazione-android-tutto-android.html
+mytory_md_visits_count:
+  - "69"
 categories:
   - Android
 tags:

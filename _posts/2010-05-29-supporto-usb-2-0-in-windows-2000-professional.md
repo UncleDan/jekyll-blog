@@ -4,8 +4,10 @@ title: Supporto USB 2.0 in Windows 2000 Professional
 date: 2010-05-29T20:44:20+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/2010/05/29/supporto-usb-2-0-in-windows-2000-professional/
-permalink: /supporto-usb-2-0-in-windows-2000-professional-05-2010.html
+guid: https://www.uncledan.it/2010/05/29/supporto-usb-2-0-in-windows-2000-professional/
+permalink: /2010-05-29-supporto-usb-2-0-in-windows-2000-professional.html
+mytory_md_visits_count:
+  - "105"
 categories:
   - PC
 ---
@@ -22,7 +24,7 @@ categories:
     Assicurarsi di avere installato il Service Pack 4 di Windows 2000 <em>(Frank, tranquillo da te è già installato! 😉 )</em>
   </li>
   <li>
-    Installare il driver sottoindicato:<a href="http://www.danielelolli.it/files/archive/Articles/ramdisk-04-2010/Gavotte_RAMDisk_1.0.4096.5_200811130.zip">Microsoft Corporation &#8211; Other Hardware &#8211; NEC PCI to USB Enhanced Host Controller B0</a><br /> <em>(non trovando alcuna spiegazione sull&#8217;installazione deduco che vada scompattato per poi specificare la cartella decompressa quando Windows chiederà dove si trova il file &#8220;usbehci.sys&#8221;)</em>
+    Installare il driver sottoindicato:<a href="https://www.uncledan.it/files/archive/Articles/ramdisk-04-2010/Gavotte_RAMDisk_1.0.4096.5_200811130.zip">Microsoft Corporation &#8211; Other Hardware &#8211; NEC PCI to USB Enhanced Host Controller B0</a><br /> <em>(non trovando alcuna spiegazione sull&#8217;installazione deduco che vada scompattato per poi specificare la cartella decompressa quando Windows chiederà dove si trova il file &#8220;usbehci.sys&#8221;)</em>
   </li>
 </ul>
 

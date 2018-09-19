@@ -4,8 +4,10 @@ title: Goodnight Songs
 date: 2011-10-06T21:09:29+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1481
-permalink: /goodnight-songs-10-2011.html
+guid: https://www.uncledan.it/?p=1481
+permalink: /2011-10-06-goodnight-songs.html
+mytory_md_visits_count:
+  - "43"
 categories:
   - Miscellanea
 tags:

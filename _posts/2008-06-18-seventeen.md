@@ -4,8 +4,10 @@ title: "17"
 date: 2008-06-18T15:45:12+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=113
-permalink: /seventeen-06-2008.html
+guid: https://www.uncledan.it/blog/?p=113
+permalink: /2008-06-18-seventeen.html
+mytory_md_visits_count:
+  - "76"
 categories:
   - Miscellanea
 tags:

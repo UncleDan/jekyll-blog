@@ -4,8 +4,10 @@ title: 'NetworkedBlogs: pubblicazione automatica da WordPress a facebook'
 date: 2011-08-29T09:42:38+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1456
-permalink: /networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook-08-2011.html
+guid: https://www.uncledan.it/?p=1456
+permalink: /2011-08-29-networkedblogs-pubblicazione-automatica-da-wordpress-a-facebook.html
+mytory_md_visits_count:
+  - "46"
 categories:
   - Web
 tags:

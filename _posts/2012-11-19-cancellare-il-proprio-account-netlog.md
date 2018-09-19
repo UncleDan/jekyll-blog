@@ -4,8 +4,10 @@ title: Cancellare il proprio account Netlog
 date: 2012-11-19T08:31:57+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1691
-permalink: /cancellare-il-proprio-account-netlog-11-2012.html
+guid: https://www.uncledan.it/?p=1691
+permalink: /2012-11-19-cancellare-il-proprio-account-netlog.html
+mytory_md_visits_count:
+  - "53"
 categories:
   - Web
 tags:
@@ -31,5 +33,5 @@ tags:
 </p>
 
 <h3 style="text-align: center;">
-  <strong><a title="Cancellazione account Netlog" href="http://it.netlog.com/go/settings/account/view=delete" target="_blank">http://it.netlog.com/go/settings/account/view=delete</a></strong>
+  <strong>http://it.netlog.com/go/settings/account/view=delete</strong>
 </h3>

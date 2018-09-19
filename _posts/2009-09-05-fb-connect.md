@@ -4,11 +4,13 @@ title: fb-Connect
 date: 2009-09-05T15:34:17+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=427
-permalink: /fb-connect-09-2009.html
+guid: https://www.uncledan.it/?p=427
+permalink: /2009-09-05-fb-connect.html
+mytory_md_visits_count:
+  - "68"
 categories:
   - Miscellanea
 ---
 <p style="text-align: justify;">
-  Per vivacizzare un po&#8217; il sito oggi ho provato ad installare <strong><a title="Sociable! the social media blog" href="http://www.sociable.es/facebook-connect/" target="_blank">Facebook Connect</a></strong>, simpatico plugin che consente di commentare e condividere senza far nulla se non essere connessi a <a title="facebook" href="http://www.facebook.com/" target="_blank">facebook</a>. Tutto molto liscio utilizzando <a title="Tutorial: Come integrare Facebook Connect su WordPress |  BigThink" href="http://www.bigthink.it/tutorial/come-integrare-facebook-connect-su-wordpress/" target="_blank">questo tutorial</a> molto completo: unica parziale delusione il layout grafico parecchio scarno. Vabbè, mi toccherà lavorarci un po&#8217; su 🙂
+  Per vivacizzare un po&#8217; il sito oggi ho provato ad installare <strong><a title="Sociable! the social media blog" href="http://www.sociable.es/facebook-connect/" target="_blank">Facebook Connect</a></strong>, simpatico plugin che consente di commentare e condividere senza far nulla se non essere connessi a <a title="facebook" href="http://www.facebook.com/" target="_blank">facebook</a>. Tutto molto liscio utilizzando questo tutorial molto completo: unica parziale delusione il layout grafico parecchio scarno. Vabbè, mi toccherà lavorarci un po&#8217; su 🙂
 </p>

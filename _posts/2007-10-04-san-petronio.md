@@ -4,8 +4,10 @@ title: San Petronio
 date: 2007-10-04T16:49:27+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=21
-permalink: /san-petronio-10-2007.html
+guid: https://www.uncledan.it/blog/?p=21
+permalink: /2007-10-04-san-petronio.html
+mytory_md_visits_count:
+  - "38"
 categories:
   - Miscellanea
 tags:
@@ -19,7 +21,7 @@ tags:
 </p>
 
 <p align="center">
-  <img title="San Petronio" src="http://www.danielelolli.it/wp-content/uploads/2007/10/sanpetronio.png" border="0" alt="San Petronio" />
+  <img title="San Petronio" src="https://www.uncledan.it/wp-content/uploads/2007/10/sanpetronio.png" border="0" alt="San Petronio" />
 </p>
 
 <p align="justify">

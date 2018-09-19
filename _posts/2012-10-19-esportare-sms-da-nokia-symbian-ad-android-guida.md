@@ -4,8 +4,10 @@ title: Esportare sms da Nokia Symbian ad Android (Guida)
 date: 2012-10-19T13:00:41+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1683
-permalink: /esportare-sms-da-nokia-symbian-ad-android-guida-10-2012.html
+guid: https://www.uncledan.it/?p=1683
+permalink: /2012-10-19-esportare-sms-da-nokia-symbian-ad-android-guida.html
+mytory_md_visits_count:
+  - "50"
 categories:
   - Android
 tags:

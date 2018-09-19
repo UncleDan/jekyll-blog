@@ -4,8 +4,10 @@ title: Nova Basket
 date: 2007-12-14T12:43:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=91
-permalink: /nova-basket-12-2007.html
+guid: https://www.uncledan.it/blog/?p=91
+permalink: /2007-12-14-nova-basket.html
+mytory_md_visits_count:
+  - "52"
 categories:
   - Miscellanea
 tags:
@@ -21,7 +23,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a title="Nova Basket Page" href="http://www.danielelolli.it/blog/?page_id=88"><img title="Nova Basket Page" src="http://www.danielelolli.it/wp-content/uploads/2007/12/08122007232.jpg" alt="Nova Basket Page" width="240" height="180" /></a>
+  <a title="Nova Basket Page" href="https://www.uncledan.it/blog/?page_id=88"><img title="Nova Basket Page" src="https://www.uncledan.it/wp-content/uploads/2007/12/08122007232.jpg" alt="Nova Basket Page" width="240" height="180" /></a>
 </p>
 
 <p align="justify">

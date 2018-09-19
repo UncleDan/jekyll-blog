@@ -4,8 +4,10 @@ title: 'JTV &#8211; Primo Raduno in Alta Quota'
 date: 2009-09-22T21:27:25+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=431
-permalink: /jtv-primo-raduno-in-alta-quota-09-2009.html
+guid: https://www.uncledan.it/?p=431
+permalink: /2009-09-22-jtv-primo-raduno-in-alta-quota.html
+mytory_md_visits_count:
+  - "43"
 categories:
   - Miscellanea
 tags:

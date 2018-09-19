@@ -4,8 +4,10 @@ title: Upgrade impossibile
 date: 2011-09-03T17:02:22+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1469
-permalink: /upgrade-impossibile-09-2011.html
+guid: https://www.uncledan.it/?p=1469
+permalink: /2011-09-03-upgrade-impossibile.html
+mytory_md_visits_count:
+  - "50"
 categories:
   - Web
 ---

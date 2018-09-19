@@ -4,8 +4,10 @@ title: osTicket Plus
 date: 2011-05-03T20:09:32+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=785
-permalink: /osticket-plus-05-2011.html
+guid: https://www.uncledan.it/?p=785
+permalink: /2011-05-03-osticket-plus.html
+mytory_md_visits_count:
+  - "105"
 categories:
   - Web
 tags:
@@ -26,7 +28,7 @@ tags:
 </p>
 
 <h3 style="text-align: center;">
-  <a href="http://www.danielelolli.it/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip">osticketplus_1.6.0_138</a>
+  <a href="https://www.uncledan.it/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip">osticketplus_1.6.0_138</a>
 </h3>
 
 _Note: I do not claim any credit on this work, which is GPL as the original osTicket. These are just the latest sources for those not familiar with Launchpad and bzr._
@@ -35,4 +37,4 @@ _Note: I do not claim any credit on this work, which is GPL as the original osTi
 
   * <a href="https://launchpad.net/osticketplus" target="_blank">OSTicket Plus @ Launchpad</a>
   * <a href="http://osticket.com/forums/showthread.php?t=4688&highlight=osticketplus" target="_blank">OSTicket Plus Thread @ osTicket Official Forum</a>
-  * <a href="http://www.danielelolli.it/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip" target="_blank">Zip with latest sources <em>(packaged by Uncledan)</em></a>
+  * <a href="https://www.uncledan.it/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip" target="_blank">Zip with latest sources <em>(packaged by Uncledan)</em></a>

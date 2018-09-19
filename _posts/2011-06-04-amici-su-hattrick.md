@@ -4,8 +4,10 @@ title: Amici su Hattrick
 date: 2011-06-04T14:07:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1357
-permalink: /amici-su-hattrick-06-2011.html
+guid: https://www.uncledan.it/?p=1357
+permalink: /2011-06-04-amici-su-hattrick.html
+mytory_md_visits_count:
+  - "36"
 categories:
   - Hattrick
 tags:

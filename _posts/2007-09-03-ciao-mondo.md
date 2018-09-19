@@ -4,7 +4,9 @@ title: Ciao mondo!!
 date: 2007-09-03T14:01:48+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-permalink: /ciao-mondo-09-2007.html
+permalink: /2007-09-03-ciao-mondo.html
+mytory_md_visits_count:
+  - "73"
 categories:
   - Miscellanea
 tags:

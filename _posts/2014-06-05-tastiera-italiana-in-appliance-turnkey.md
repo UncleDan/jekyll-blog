@@ -4,8 +4,10 @@ title: Tastiera italiana in appliance Turnkey
 date: 2014-06-05T20:00:16+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1803
-permalink: /tastiera-italiana-in-appliance-turnkey-06-2014.html
+guid: https://www.uncledan.it/?p=1803
+permalink: /2014-06-05-tastiera-italiana-in-appliance-turnkey.html
+mytory_md_visits_count:
+  - "54"
 categories:
   - Linux
   - Tech

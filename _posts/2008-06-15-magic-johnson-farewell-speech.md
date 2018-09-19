@@ -4,8 +4,10 @@ title: Magic Johnson Farewell Speech
 date: 2008-06-15T13:08:54+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/blog/?p=110
-permalink: /magic-johnson-farewell-speech-06-2008.html
+guid: https://www.uncledan.it/blog/?p=110
+permalink: /2008-06-15-magic-johnson-farewell-speech.html
+mytory_md_visits_count:
+  - "25"
 categories:
   - Miscellanea
 tags:

@@ -4,8 +4,10 @@ title: Plop Boot Manager avviare da USB anche su pc che non supportano questa fu
 date: 2014-08-16T09:18:40+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=1847
-permalink: /plop-boot-manager-avviare-da-usb-anche-su-pc-che-non-supportano-questa-funzionalita-08-2014.html
+guid: https://www.uncledan.it/?p=1847
+permalink: /2014-08-16-plop-boot-manager-avviare-da-usb-anche-su-pc-che-non-supportano-questa-funzionalita.html
+mytory_md_visits_count:
+  - "92"
 categories:
   - PC
   - Tech

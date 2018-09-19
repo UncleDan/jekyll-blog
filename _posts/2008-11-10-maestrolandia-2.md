@@ -4,8 +4,10 @@ title: MaestroLandia
 date: 2008-11-10T11:59:49+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: http://www.danielelolli.it/?p=126
-permalink: /maestrolandia-2-11-2008.html
+guid: https://www.uncledan.it/?p=126
+permalink: /2008-11-10-maestrolandia-2.html
+mytory_md_visits_count:
+  - "37"
 categories:
   - Miscellanea
 tags:
