@@ -4,8 +4,6 @@ title: Basket
 date: 2007-12-14T12:23:42+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-menu: true
-order: 2
 guid: https://www.uncledan.it/blog/?page_id=87
 mytory_md_visits_count:
   - "260"
