@@ -1,0 +1,16 @@
+[06-Sep-2018 10:38:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php on line 7
+[06-Sep-2018 10:48:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php on line 7
+[06-Sep-2018 10:51:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php on line 7
+[07-Sep-2018 06:21:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-opensystem/index.php on line 7

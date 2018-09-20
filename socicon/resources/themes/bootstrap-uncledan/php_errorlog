@@ -1,0 +1,16 @@
+[06-Sep-2018 10:38:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php on line 7
+[06-Sep-2018 10:48:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php on line 7
+[06-Sep-2018 10:51:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php on line 7
+[07-Sep-2018 06:21:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getListedPath() on null in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/danie725/public_html/danielelolli.it/socicon/resources/themes/bootstrap-uncledan/index.php on line 7
