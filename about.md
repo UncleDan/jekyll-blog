@@ -1,4 +1,8 @@
 ---
+title: about
+date: 2018-09-20T18:01:00+00:00
+author: Daniele Lolli (UncleDan)
+layout: page
 menu: true
 order: 1
 ---
