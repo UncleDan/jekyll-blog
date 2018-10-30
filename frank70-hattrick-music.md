@@ -58,6 +58,7 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 * ~~**Copertine PROVVISORIE** *(file ZIP da 1,74MB circa) - checksum BFF4B676AA3F76CC758BD8BA5FB8B8AB*~~
 * ~~**Immagine CD [Formato IMG]** *(file ZIP da 634,7MB circa) - checksum 7C7CB5B8BF92628CD23C106264959C7D*~~
 * ~~**Immagine CD [Formato NRG]** *(file ZIP da 632,2MB circa) - checksum 30A383342D51BE069868CB2AD2C8F768*~~
+
 ---
 ## Altro:
 
