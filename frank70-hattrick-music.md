@@ -53,7 +53,7 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 ---
 ## Album:
 
-* [**Testi**](https://www.uncledan.it/frank70-hattrick-music/lyrics/) *(originali e "hattrickiani")*
+* [**Testi**](lyrics/) *(originali e "hattrickiani")*
 * [**Album completo**](http://www.danielelolli.it/files/frank70/frank70-Hokulo%20-%202007%20-%20Nick%20E%20Password%20%28Hattrick%20Revisited%29.zip) *(file ZIP da 82,5MB circa) - checksum E1610C42F9C45FABE36CEBC3E3BB4D06*
 * ~~**Copertine PROVVISORIE** *(file ZIP da 1,74MB circa) - checksum BFF4B676AA3F76CC758BD8BA5FB8B8AB*~~
 * ~~**Immagine CD [Formato IMG]** *(file ZIP da 634,7MB circa) - checksum 7C7CB5B8BF92628CD23C106264959C7D*~~
@@ -62,10 +62,10 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 ## Altro:
 
 * [**Checksum singole canzoni**](https://www.danielelolli.it/files/frank70/checksum-md5.txt) *(file TXT da 1,77KB circa)*
-* [**Pre-release**](https://www.uncledan.it/frank70-hattrick-music/pre-release/)
-* [**Singoli e Inediti**](https://www.uncledan.it/frank70-hattrick-music/singoli-e-inediti/)
-* [**Singoli e Inediti (Quite Old Version)**](https://www.uncledan.it/frank70-hattrick-music/singoli-e-inediti-quite-old-version/)
-* [**Singoli e Inediti (Very Old Version)**](https://www.uncledan.it/frank70-hattrick-music/singoli-e-inediti-very-old-version/)
+* [**Pre-release**](pre-release/)
+* [**Singoli e Inediti**](singoli-e-inediti/)
+* [**Singoli e Inediti (Quite Old Version)**](singoli-e-inediti-quite-old-version/)
+* [**Singoli e Inediti (Very Old Version)**](singoli-e-inediti-very-old-version/)
 
 ---
 ## frank70-Hokulo (Franco Turra) - Collegamenti:
