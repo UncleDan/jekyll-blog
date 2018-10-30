@@ -1,6 +1,5 @@
 ---
 title: Contatti
-date: 2018-10-30T16:64:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
 menu: true
@@ -43,12 +42,6 @@ order: 2
 ### Coding
 ![GitHub](/socicon/32/github.png) [**GitHub** /UncleDan](https://github.com/UncleDan)
 
----
-  
-~~![Del.icio.us](/wp-content/uploads/showyourself_images/delicious.png) **Del.icio.us** /uncledan74~~
-  
-~~![Digg](/wp-content/uploads/showyourself_images/digg.png) **Digg** /uncledan74~~
-
 ![Launchpad](/wp-content/uploads/2011/06/launchpad.png) [**Launchpad** /~uncledan](https://launchpad.net/~uncledan)
 
 ---
@@ -61,6 +54,14 @@ order: 2
 ~~![Pardus(Artemis)](/wp-content/uploads/showyourself_images/pardus_artemis.png) [**Pardus(Artemis)** /Larry Legend](http://artemis.pardus.at/sendmsg.php?to=Larry%20Legend)~~
 
 ~~![Pardus(Pegasus)](/wp-content/uploads/showyourself_images/pardus_artemis.png) [**Pardus(Pegasus)** /Cyan Bloodbane](http://pegasus.pardus.at/sendmsg.php?to=Cyan%20Bloodbane)~~
+
+---
+
+### Other
+  
+~~![Del.icio.us](/wp-content/uploads/showyourself_images/delicious.png) **Del.icio.us** /uncledan74~~
+  
+~~![Digg](/wp-content/uploads/showyourself_images/digg.png) **Digg** /uncledan74~~
 
 *More fixes coming soon...*
 
