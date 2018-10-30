@@ -8,14 +8,12 @@ order: 2
 
 ## Daniele Lolli (UncleDan)
 
----
 ### Blog
 
 [**Jekyll Blog** www.uncledan.it](https://www.uncledan.it)
 
 [**WordPress Blog** www.danielelolli.it](https://www.danielelolli.it) *(Works in progress...)*
 
----
 ### Social
 
 ![Facebook](/socicon/32/facebook.png) [**Facebook** /uncledan](http://facebook.com/uncledan)
@@ -26,7 +24,6 @@ order: 2
 
 ![Google+](/wp-content/uploads/2011/06/googleplus.png) [**Google+** /+DanieleLolli74](https://plus.google.com/+DanieleLolli74)
 
----
 ### Communication
 ![e-mail](/socicon/32/mail.png) [**e-mail** /danielelolli](mailto:posta@danielelolli.it)
 
@@ -38,13 +35,11 @@ order: 2
 
 ![Skype](/socicon/32/skype.png) [**Skype** /uncledan74](skype:uncledan74?chat)
 
----
 ### Coding
 ![GitHub](/socicon/32/github.png) [**GitHub** /UncleDan](https://github.com/UncleDan)
 
 ![Launchpad](/wp-content/uploads/2011/06/launchpad.png) [**Launchpad** /~uncledan](https://launchpad.net/~uncledan)
 
----
 ### Gaming
 
 ![Hattrick](/wp-content/uploads/showyourself_images/hattrick.png) [**Hattrick** /UncleDan](http://www.hattrick.org/Club/Manager/?userId=2195308)
@@ -55,7 +50,6 @@ order: 2
 
 ~~![Pardus(Pegasus)](/wp-content/uploads/showyourself_images/pardus_artemis.png) [**Pardus(Pegasus)** /Cyan Bloodbane](http://pegasus.pardus.at/sendmsg.php?to=Cyan%20Bloodbane)~~
 
----
 
 ### Other
   
