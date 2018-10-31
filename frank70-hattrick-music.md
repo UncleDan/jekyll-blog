@@ -75,8 +75,8 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 * ~~**Sito Ufficiale**~~
 * ~~**Sito Personale**~~
 * [**Franco Turra on Facebook**](http://www.facebook.com/francoturra)
----
 
+---
 Sono lieto di dare visibilità (per quel poco che posso) all'ultima fatica, questa volta non "hattrickiana" del mitico **frank70-Hokulo** (al secolo Franco Turra). Nell'attesa del sito ufficiale, ecco una gustosa anteprima su MySpace.
 
 ***Aggiornamenti:*** disponibili ora anche il sito ufficiale di **Pedale Baroque** e quello personale di Franco Turra (a.k.a. **frank70**)!
