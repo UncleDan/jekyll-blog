@@ -28,33 +28,33 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 
 [06 - Spammerò *(Lyrics By Signoignazio)*](https://www.danielelolli.it/files/frank70/06%20-%20Spammero%27%20%28Lyrics%20By%20Signoignazio%29.mp3)
 
-[07 - Macao Ti Motserò *(Lyrics By Marrundo, Supervising Realbonarda)*](http://www.danielelolli.it/files/frank70/07%20-%20Macao%20Ti%20Motsero%27%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3)
+[07 - Macao Ti Motserò *(Lyrics By Marrundo, Supervising Realbonarda)*](https://www.danielelolli.it/files/frank70/07%20-%20Macao%20Ti%20Motsero%27%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3)
 
-[08 - Soka Soka *(Lyrics By Duca_Barthleby)*](http://www.danielelolli.it/files/frank70/08%20-%20Soka%20Soka%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
+[08 - Soka Soka *(Lyrics By Duca_Barthleby)*](https://www.danielelolli.it/files/frank70/08%20-%20Soka%20Soka%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
 
-[09 - Il Tuo Scarso Difensore *(Lyrics By Mancio-BSK)*](http://www.danielelolli.it/files/frank70/09%20-%20Il%20Tuo%20Scarso%20Difensore%20%28Lyrics%20By%20Mancio-BSK%29.mp3)
+[09 - Il Tuo Scarso Difensore *(Lyrics By Mancio-BSK)*](https://www.danielelolli.it/files/frank70/09%20-%20Il%20Tuo%20Scarso%20Difensore%20%28Lyrics%20By%20Mancio-BSK%29.mp3)
 
-[10 - Applausi Per zio_pey *(Lyrics By Ignaxio-HIO)*](http://www.danielelolli.it/files/frank70/10%20-%20Applausi%20Per%20zio_pey%20%28Lyrics%20By%20Ignaxio-HIO%29.mp3)
+[10 - Applausi Per zio_pey *(Lyrics By Ignaxio-HIO)*](https://www.danielelolli.it/files/frank70/10%20-%20Applausi%20Per%20zio_pey%20%28Lyrics%20By%20Ignaxio-HIO%29.mp3)
 
-[11 - Con Generale (Hattrick Music Awards 2006 Winner) *(Lyrics By ghazarian)*](http://www.danielelolli.it/files/frank70/11%20-%20Con%20Generale%20%28Hattrick%20Music%20Awards%202006%20Winner%29%20%28Lyrics%20By%20ghazarian%29.mp3)
+[11 - Con Generale (Hattrick Music Awards 2006 Winner) *(Lyrics By ghazarian)*](https://www.danielelolli.it/files/frank70/11%20-%20Con%20Generale%20%28Hattrick%20Music%20Awards%202006%20Winner%29%20%28Lyrics%20By%20ghazarian%29.mp3)
 
-[12 - Ti Rivendo *(Lyrics By Tabani)*](http://www.danielelolli.it/files/frank70/12%20-%20Ti%20Rivendo%20%28Lyrics%20By%20Tabani%29.mp3)
+[12 - Ti Rivendo *(Lyrics By Tabani)*](https://www.danielelolli.it/files/frank70/12%20-%20Ti%20Rivendo%20%28Lyrics%20By%20Tabani%29.mp3)
 
-[13 - That's Azione  *(Lyrics By Duca_Barthleby)*](http://www.danielelolli.it/files/frank70/13%20-%20That%27s%20Azione%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
+[13 - That's Azione  *(Lyrics By Duca_Barthleby)*](https://www.danielelolli.it/files/frank70/13%20-%20That%27s%20Azione%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
 
-[14 - Promozione  *(Lyrics By Duca_Barthleby)*](http://www.danielelolli.it/files/frank70/14%20-%20Promozione%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
+[14 - Promozione  *(Lyrics By Duca_Barthleby)*](https://www.danielelolli.it/files/frank70/14%20-%20Promozione%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
 
-[15 - Spunta Marrundo Dal Monte  *(Original Idea By Kurt_Is_Alive)*](http://www.danielelolli.it/files/frank70/15%20-%20Spunta%20Marrundo%20Dal%20Monte%20%28Original%20Idea%20By%20Kurt_Is_Alive%29.mp3)
+[15 - Spunta Marrundo Dal Monte  *(Original Idea By Kurt_Is_Alive)*](https://www.danielelolli.it/files/frank70/15%20-%20Spunta%20Marrundo%20Dal%20Monte%20%28Original%20Idea%20By%20Kurt_Is_Alive%29.mp3)
 
-[16 - Quando I Niubbini Fanno Oh (Baby Mix) *(Lyrics By pelo82)*](http://www.danielelolli.it/files/frank70/16%20-%20Quando%20I%20Niubbini%20Fanno%20Oh%20%28Baby%20Mix%29%20%28Lyrics%20By%20pelo82%29.mp3)
+[16 - Quando I Niubbini Fanno Oh (Baby Mix) *(Lyrics By pelo82)*](https://www.danielelolli.it/files/frank70/16%20-%20Quando%20I%20Niubbini%20Fanno%20Oh%20%28Baby%20Mix%29%20%28Lyrics%20By%20pelo82%29.mp3)
 
-[17 - Regia (Un, Dos, Tres, Un Scattito Allenante Regia) *(Bonus Track)*](http://www.danielelolli.it/files/frank70/17%20-%20Regia%20%20%28Un%2C%20Dos%2C%20Tres%2C%20Un%20Scattito%20Allenante%20Regia%29%20%28Bonus%20Track%29.mp3)
+[17 - Regia (Un, Dos, Tres, Un Scattito Allenante Regia) *(Bonus Track)*](https://www.danielelolli.it/files/frank70/17%20-%20Regia%20%20%28Un%2C%20Dos%2C%20Tres%2C%20Un%20Scattito%20Allenante%20Regia%29%20%28Bonus%20Track%29.mp3)
 
 ---
 ## Album:
 
 * [**Testi**](lyrics/) *(originali e "hattrickiani")*
-* [**Album completo**](http://www.danielelolli.it/files/frank70/frank70-Hokulo%20-%202007%20-%20Nick%20E%20Password%20%28Hattrick%20Revisited%29.zip) *(file ZIP da 82,5MB circa) - checksum E1610C42F9C45FABE36CEBC3E3BB4D06*
+* [**Album completo**](https://www.danielelolli.it/files/frank70/frank70-Hokulo%20-%202007%20-%20Nick%20E%20Password%20%28Hattrick%20Revisited%29.zip) *(file ZIP da 82,5MB circa) - checksum E1610C42F9C45FABE36CEBC3E3BB4D06*
 * ~~**Copertine PROVVISORIE** *(file ZIP da 1,74MB circa) - checksum BFF4B676AA3F76CC758BD8BA5FB8B8AB*~~
 * ~~**Immagine CD [Formato IMG]** *(file ZIP da 634,7MB circa) - checksum 7C7CB5B8BF92628CD23C106264959C7D*~~
 * ~~**Immagine CD [Formato NRG]** *(file ZIP da 632,2MB circa) - checksum 30A383342D51BE069868CB2AD2C8F768*~~
