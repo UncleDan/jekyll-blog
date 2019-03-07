@@ -16,9 +16,7 @@ tags:
   - open-vm-tools-desktop
 ---
 *[...]*
-
 # *[VMware Tools]* The Open Source Version
-
 Alternatively, you can install the **opensource version of VMware Tools**... however, I’ve found that the official tools are better for VMware Workstation’s guest machine operating systems. You can test it out to see if it works in your environment.
 
 To install the tool, run the commands below:
@@ -31,4 +29,4 @@ Enjoy!
 
 Congratulations! You’ve successfully installed VMware Tools on Ubuntu guest machine.
 
-Source: https://websiteforstudents.com/install-vmware-tools-on-ubuntu-18-04-beta-desktop/
+*Source: [https://websiteforstudents.com/install-vmware-tools-on-ubuntu-18-04-beta-desktop/]*
