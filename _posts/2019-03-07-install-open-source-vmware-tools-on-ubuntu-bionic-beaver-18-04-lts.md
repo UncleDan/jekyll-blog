@@ -29,4 +29,4 @@ Enjoy!
 
 Congratulations! You’ve successfully installed VMware Tools on Ubuntu guest machine.
 
-*Source: [https://websiteforstudents.com/install-vmware-tools-on-ubuntu-18-04-beta-desktop/]*
+*Source: [https://websiteforstudents.com/install-vmware-tools-on-ubuntu-18-04-beta-desktop/](https://websiteforstudents.com/install-vmware-tools-on-ubuntu-18-04-beta-desktop/)*
