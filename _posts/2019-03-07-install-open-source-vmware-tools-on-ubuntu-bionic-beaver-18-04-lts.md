@@ -3,7 +3,7 @@ title: 'Install open source VMware tools on Ubuntu Bionic Beaver 18.04 LTS'
 date: 2019-07-03T13:00:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-permalink: /2019-03-07-install-open-source-vmware-tools-on-ubuntu-bionic-beaver-18-04-lts.html
+permalink: /2019-07-03-install-open-source-vmware-tools-on-ubuntu-bionic-beaver-18-04-lts.html
 categories:
   - Tech
   - Linux
