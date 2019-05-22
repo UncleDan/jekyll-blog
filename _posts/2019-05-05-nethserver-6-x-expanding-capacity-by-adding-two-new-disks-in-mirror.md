@@ -16,7 +16,7 @@ tags:
 ---
 ```
 THIS ARTICLE IS STILL IN BETA STAGE! (although the first tests gave encouraging results)
-Use the informations at AT YOUR OWN. I am not responsible of any damage to you system,
+Use the informations at AT YOUR OWN RISK. I am not responsible of any damage to you system,
 data loss or any other occurrence. 
 ```
 # Nethserver 6.x - Expanding capacity by adding two new disks in mirror
