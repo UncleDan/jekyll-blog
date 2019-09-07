@@ -24,5 +24,5 @@ Grazie al servizio di hosting gratuito <a title="ilbello.com" href="http://www.i
 Non è detto che quello che vedete lì, un domani non lo vediate qui [;)]
 
 <p align="center">
-  <a title="ilbello.com" href="http://www.ilbello.com/" target="_blank"><img src="https://www.uncledan.it/wp-content/uploads/2008/05/ilbello.png" alt="ilbello.com" /></a>
+  <a title="ilbello.com" href="http://www.ilbello.com/" target="_blank"><img src="/wp-content/uploads/2008/05/ilbello.png" alt="ilbello.com" /></a>
 </p>

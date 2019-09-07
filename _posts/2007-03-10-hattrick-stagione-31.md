@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 31 - Classifica](https://www.uncledan.it/wp-content/uploads/2007/10/31-1-classifica.png)
+![Stagione 31 - Classifica](/wp-content/uploads/2007/10/31-1-classifica.png)
 
-![Stagione 31 - Calendario](https://www.uncledan.it/wp-content/uploads/2007/10/31-2-calendario.png)
+![Stagione 31 - Calendario](/wp-content/uploads/2007/10/31-2-calendario.png)
 
-![Stagione 31 - Marcatori](https://www.uncledan.it/wp-content/uploads/2007/10/31-3-marcatori.png)
+![Stagione 31 - Marcatori](/wp-content/uploads/2007/10/31-3-marcatori.png)

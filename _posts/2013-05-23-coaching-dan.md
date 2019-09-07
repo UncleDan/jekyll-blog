@@ -15,4 +15,4 @@ tags:
   - coaching
   - dan
 ---
-© 2013 Paolo Rendina &#8211; 21/05/2013 &#8211; <a title="Coaching Dan (Full Size)" href="https://www.uncledan.it/wp-content/uploads/2013/05/AmichevoleCASTENASO21_05_2013-134.jpg" target="_blank">[Full size]</a>
+© 2013 Paolo Rendina &#8211; 21/05/2013 &#8211; <a title="Coaching Dan (Full Size)" href="/wp-content/uploads/2013/05/AmichevoleCASTENASO21_05_2013-134.jpg" target="_blank">[Full size]</a>

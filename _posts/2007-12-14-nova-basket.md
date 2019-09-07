@@ -23,7 +23,7 @@ tags:
 </p>
 
 <p style="text-align: center">
-  <a title="Nova Basket Page" href="https://www.uncledan.it/blog/?page_id=88"><img title="Nova Basket Page" src="https://www.uncledan.it/wp-content/uploads/2007/12/08122007232.jpg" alt="Nova Basket Page" width="240" height="180" /></a>
+  <a title="Nova Basket Page" href="https://www.uncledan.it/blog/?page_id=88"><img title="Nova Basket Page" src="/wp-content/uploads/2007/12/08122007232.jpg" alt="Nova Basket Page" width="240" height="180" /></a>
 </p>
 
 <p align="justify">

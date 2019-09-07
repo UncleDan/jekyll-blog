@@ -20,5 +20,5 @@ tags:
 </h1>
 
 <p style="text-align: center;">
-  <img title="Download Day" src="https://www.uncledan.it/wp-content/uploads/2008/06/dday_badge_fox.png" border="0" alt="Download Day" />
+  <img title="Download Day" src="/wp-content/uploads/2008/06/dday_badge_fox.png" border="0" alt="Download Day" />
 </p>

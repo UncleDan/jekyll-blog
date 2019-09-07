@@ -46,13 +46,13 @@ Ora tagliamo corto e vi posto le schermate. Da fare su GitHub nel repository del
 
 <!-- wp:paragraph -->
 
-[<img class="alignnone size-medium wp-image-2614" src="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-300x152.png" alt="" width="300" height="152" srcset="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-300x152.png 300w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-768x388.png 768w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-1024x518.png 1024w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options.png 1060w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options.png)
+[<img class="alignnone size-medium wp-image-2614" src="/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-300x152.png" alt="" width="300" height="152" srcset="/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-300x152.png 300w, /wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-768x388.png 768w, /wp-content/uploads/2018/09/2018-09-07-18_00_12-Options-1024x518.png 1024w, /wp-content/uploads/2018/09/2018-09-07-18_00_12-Options.png 1060w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2018/09/2018-09-07-18_00_12-Options.png)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-[<img class="alignnone size-medium wp-image-2615" src="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-300x176.png" alt="" width="300" height="176" srcset="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-300x176.png 300w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-768x451.png 768w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-1024x601.png 1024w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options.png 1059w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options.png)
+[<img class="alignnone size-medium wp-image-2615" src="/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-300x176.png" alt="" width="300" height="176" srcset="/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-300x176.png 300w, /wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-768x451.png 768w, /wp-content/uploads/2018/09/2018-09-07-18_02_48-Options-1024x601.png 1024w, /wp-content/uploads/2018/09/2018-09-07-18_02_48-Options.png 1059w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2018/09/2018-09-07-18_02_48-Options.png)
 
 <!-- /wp:paragraph -->
 
@@ -64,7 +64,7 @@ Da fare nella Gestione DNS di Aruba:
 
 <!-- wp:paragraph -->
 
-[<img class="alignnone size-medium wp-image-2616" src="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-300x257.png" alt="" width="300" height="257" srcset="https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-300x257.png 300w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-768x659.png 768w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-1024x879.png 1024w, https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva.png 1077w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.danielelolli.it/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva.png)
+[<img class="alignnone size-medium wp-image-2616" src="/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-300x257.png" alt="" width="300" height="257" srcset="/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-300x257.png 300w, /wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-768x659.png 768w, /wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva-1024x879.png 1024w, /wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva.png 1077w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2018/09/2018-09-07-18_07_21-Visualizza-impostazioni-e-salva.png)
 
 <!-- /wp:paragraph -->
 

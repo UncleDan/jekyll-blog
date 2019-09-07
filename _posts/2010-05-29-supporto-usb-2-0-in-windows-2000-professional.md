@@ -24,7 +24,7 @@ categories:
     Assicurarsi di avere installato il Service Pack 4 di Windows 2000 <em>(Frank, tranquillo da te è già installato! 😉 )</em>
   </li>
   <li>
-    Installare il driver sottoindicato:<a href="https://www.uncledan.it/files/archive/Articles/ramdisk-04-2010/Gavotte_RAMDisk_1.0.4096.5_200811130.zip">Microsoft Corporation &#8211; Other Hardware &#8211; NEC PCI to USB Enhanced Host Controller B0</a><br /> <em>(non trovando alcuna spiegazione sull&#8217;installazione deduco che vada scompattato per poi specificare la cartella decompressa quando Windows chiederà dove si trova il file &#8220;usbehci.sys&#8221;)</em>
+    Installare il driver sottoindicato:<a href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/archive/Articles/ramdisk-04-2010/Gavotte_RAMDisk_1.0.4096.5_200811130.zip">Microsoft Corporation &#8211; Other Hardware &#8211; NEC PCI to USB Enhanced Host Controller B0</a><br /> <em>(non trovando alcuna spiegazione sull&#8217;installazione deduco che vada scompattato per poi specificare la cartella decompressa quando Windows chiederà dove si trova il file &#8220;usbehci.sys&#8221;)</em>
   </li>
 </ul>
 

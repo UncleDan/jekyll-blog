@@ -20,5 +20,5 @@ tags:
 A chi come me odia che le copertine non si vedano mai sul lettore MP3, ma ama _<a href="http://www.apple.com/it/itunes/" target="_blank">iTunes</a>_, consiglio un link imperdibile: **Teridon&#8217;s iTunes Scripts**.
 
 <p style="text-align: center;">
-  <strong>Home Page</strong> | <strong>Download Diretto</strong> | <a href="https://www.uncledan.it/files/archive/Articles/album-art-e-itunes-10-2009/teridons_itunes_scripts.zip"><strong>Mirror</strong></a>
+  <strong>Home Page</strong> | <strong>Download Diretto</strong> | <a href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/archive/Articles/album-art-e-itunes-10-2009/teridons_itunes_scripts.zip"><strong>Mirror</strong></a>
 </p>

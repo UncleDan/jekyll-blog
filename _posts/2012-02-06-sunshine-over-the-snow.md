@@ -16,4 +16,4 @@ tags:
   - snow
 format: image
 ---
-<img class="alignnone" title="" src="https://www.uncledan.it/wp-content/uploads/2012/02/wpid-2012-02-05_10-00-26_346.jpg" alt="image" />
+<img class="alignnone" title="" src="/wp-content/uploads/2012/02/wpid-2012-02-05_10-00-26_346.jpg" alt="image" />

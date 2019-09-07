@@ -18,4 +18,4 @@ tags:
 ---
 © 2005-2011 Uncledan &#8211; 26/08/2005
   
-<a title="St. Bernard" href="https://www.uncledan.it/wp-content/uploads/2011/05/26-Aout-2005_011.jpg" target="_blank">[Full size]</a>
+<a title="St. Bernard" href="/wp-content/uploads/2011/05/26-Aout-2005_011.jpg" target="_blank">[Full size]</a>

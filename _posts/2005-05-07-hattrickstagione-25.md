@@ -14,10 +14,10 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 25 - Classifica](https://www.uncledan.it/wp-content/uploads/2007/10/25-1-classifica.png)
+![Stagione 25 - Classifica](/wp-content/uploads/2007/10/25-1-classifica.png)
 
-![Stagione 25 - Calendario](https://www.uncledan.it/wp-content/uploads/2007/10/25-2-calendario.png)
+![Stagione 25 - Calendario](/wp-content/uploads/2007/10/25-2-calendario.png)
 
-![Stagione 25 - Marcatori](https://www.uncledan.it/wp-content/uploads/2007/10/25-3-marcatori.png)
+![Stagione 25 - Marcatori](/wp-content/uploads/2007/10/25-3-marcatori.png)
 
 **Note:** Gian Maria Desogus trasferito da **Felsina Celtics** a Borussia Ocio il 30/04/2005 per 214 001 € (TSI allora 1 030)

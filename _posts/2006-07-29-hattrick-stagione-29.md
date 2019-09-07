@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 29 - Classifica](https://www.uncledan.it/wp-content/uploads/2007/10/29-1-classifica.png)
+![Stagione 29 - Classifica](/wp-content/uploads/2007/10/29-1-classifica.png)
 
-![Stagione 29 - Calendario](https://www.uncledan.it/wp-content/uploads/2007/10/29-2-calendario.png)
+![Stagione 29 - Calendario](/wp-content/uploads/2007/10/29-2-calendario.png)
 
-![Stagione 29 - Marcatori](https://www.uncledan.it/wp-content/uploads/2007/10/29-3-marcatori.png)
+![Stagione 29 - Marcatori](/wp-content/uploads/2007/10/29-3-marcatori.png)

@@ -21,5 +21,5 @@ tags:
 Basato su uno dei mitici script di <a title="Rhindon's Pardus Webpage" href="http://pardus.tylerinternet.com/" target="_blank">Rhindon</a>, ecco una versione &#8220;grafica&#8221; del <a title="Rhindon's original Pardus Multi-Messager" href="http://pardus.tylerinternet.com/pardusMessages.html" target="_blank">Pardus Multi-Messager</a>:
 
 <p style="text-align: center;">
-  <strong><a title="Pardus Multi-Messager (Standard Image Pack)" href="https://www.uncledan.it/files/archive/Web/Pardus/PardusMultiMessager.php" target="_blank">Standard Image Pack</a> | <a title="Pardus Multi-Messager (UncleDan's Image Pack)" href="https://www.uncledan.it/files/archive/Web/Pardus/PardusMultiMessagerUncledanIP.php" target="_blank">UncleDan&#8217;s Image Pack</a></strong>
+  <strong><a title="Pardus Multi-Messager (Standard Image Pack)" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/archive/Web/Pardus/PardusMultiMessager.php" target="_blank">Standard Image Pack</a> | <a title="Pardus Multi-Messager (UncleDan's Image Pack)" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/archive/Web/Pardus/PardusMultiMessagerUncledanIP.php" target="_blank">UncleDan&#8217;s Image Pack</a></strong>
 </p>

@@ -20,7 +20,7 @@ tags:
   - windows
 ---
 <p style="text-align: right;">
-  <small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple/">Versione Italiana</a> </strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple/"><img class="alignnone size-full wp-image-149" title="it-flag-xsmall" src="https://www.uncledan.it/wp-content/uploads/2009/03/it-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
+  <small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple/">Versione Italiana</a> </strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple/"><img class="alignnone size-full wp-image-149" title="it-flag-xsmall" src="/wp-content/uploads/2009/03/it-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
 </p>
 
 <p style="text-align: justify;">
@@ -121,7 +121,7 @@ Now I think it&#8217;s everything. The next solution!
 * * *
 
 <p style="text-align: center;">
-  <a title="grub.cfg.ORIGINAL" href="http://translate.googleusercontent.com/translate_c?ie=UTF8&rurl=translate.google.com&sl=it&tl=en&twu=1&u=https://www.uncledan.it/wp-content/uploads/2011/06/grub.cfg_.ORIGINAL.txt&usg=ALkJrhhrOmh7J5lUQsSCt65ssb6AzhUXEA" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="http://translate.googleusercontent.com/translate_c?ie=UTF8&rurl=translate.google.com&sl=it&tl=en&twu=1&u=https://www.uncledan.it/wp-content/uploads/2011/06/grub.cfg_.txt&usg=ALkJrhhcdnXgkqMtmYkB8sxB5Pk5pX6EGA" target="_blank">grub.cfg</a> | <a title="Partitions" href="https://www.uncledan.it/wp-content/uploads/2011/06/screenshot.png" target="_blank"><em>Partitions</em></a>
+  <a title="grub.cfg.ORIGINAL" href="http://translate.googleusercontent.com/translate_c?ie=UTF8&rurl=translate.google.com&sl=it&tl=en&twu=1&u=/wp-content/uploads/2011/06/grub.cfg_.ORIGINAL.txt&usg=ALkJrhhrOmh7J5lUQsSCt65ssb6AzhUXEA" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="http://translate.googleusercontent.com/translate_c?ie=UTF8&rurl=translate.google.com&sl=it&tl=en&twu=1&u=/wp-content/uploads/2011/06/grub.cfg_.txt&usg=ALkJrhhcdnXgkqMtmYkB8sxB5Pk5pX6EGA" target="_blank">grub.cfg</a> | <a title="Partitions" href="/wp-content/uploads/2011/06/screenshot.png" target="_blank"><em>Partitions</em></a>
 </p>
 
 <p style="text-align: center;">

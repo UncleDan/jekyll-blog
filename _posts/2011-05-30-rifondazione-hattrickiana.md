@@ -16,4 +16,4 @@ tags:
   - hattrick
   - rifondazione
 ---
-<a title="Rifondazione Hattrickiana" href="https://www.uncledan.it/wp-content/uploads/2011/05/30-05-2011-Hattrick-Rifondazione.png" target="_blank">Si ricomincia? Boh, stay tuned.</a>
+<a title="Rifondazione Hattrickiana" href="/wp-content/uploads/2011/05/30-05-2011-Hattrick-Rifondazione.png" target="_blank">Si ricomincia? Boh, stay tuned.</a>
