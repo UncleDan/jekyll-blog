@@ -28,7 +28,7 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 
 [06 - Spammerò *(Lyrics By Signoignazio)*](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/06%20-%20Spammero%27%20%28Lyrics%20By%20Signoignazio%29.mp3)
 
-[07 - Macao Ti Motserò *(Lyrics By Marrundo, Supervising Realbonarda)*](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/07%20-%20Macao%20Ti%20Motsero%27%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3)
+[07 - Macao Ti Motsero' *(Lyrics By Marrundo, Supervising Realbonarda)*](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/07%20-%20Macao%20Ti%20Motsero%27%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3)
 
 [08 - Soka Soka *(Lyrics By Duca_Barthleby)*](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/08%20-%20Soka%20Soka%20%28Lyrics%20By%20Duca_Barthleby%29.mp3)
 
@@ -58,6 +58,7 @@ La pagina **Immagini CD** contiene le immagini già pronte da masterizzare nei f
 * ~~**Copertine PROVVISORIE** *(file ZIP da 1,74MB circa) - checksum BFF4B676AA3F76CC758BD8BA5FB8B8AB*~~
 * ~~**Immagine CD [Formato IMG]** *(file ZIP da 634,7MB circa) - checksum 7C7CB5B8BF92628CD23C106264959C7D*~~
 * ~~**Immagine CD [Formato NRG]** *(file ZIP da 632,2MB circa) - checksum 30A383342D51BE069868CB2AD2C8F768*~~
+* [**MP3 Directory List**](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/)
 
 ---
 ## Altro:

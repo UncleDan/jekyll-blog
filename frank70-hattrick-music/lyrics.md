@@ -23,7 +23,7 @@ layout: page
 
 6. [Spammerò](#anchor_Spammero)
 
-7. [Macao Ti Motserò](#anchor_MacaoTiMotsero)
+7. [Macao Ti Motsero'](#anchor_MacaoTiMotsero)
 
 8. [Soka Soka](#anchor_SokaSoka)
 
@@ -2887,7 +2887,7 @@ layout: page
                                                                   <tr>
                                                                     <td style="text-align: left;">
                                                                       <h2>
-                                                                        <a title="Macao Ti Motserò" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/07%20-%20Macao%20Ti%20Motser%F2%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="https://www.uncledan.it/wp-content/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Macao Ti Motserò<a class="mozTocH2" name="anchor_MacaoTiMotsero"></a>
+                                                                        <a title="Macao Ti Motsero'" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/07%20-%20Macao%20Ti%20Motsero'%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="https://www.uncledan.it/wp-content/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Macao Ti Motsero'<a class="mozTocH2" name="anchor_MacaoTiMotsero"></a>
                                                                       </h2>
                                                                     </td>
                                                                     
@@ -2915,7 +2915,7 @@ layout: page
                                                                       </p>
                                                                       
                                                                       <p>
-                                                                        <small> </small><small></small><small></small><small> <span style="font-weight: bold;">Title:</span> Ti Lascerò</small>
+                                                                        <small> </small><small></small><small></small><small> <span style="font-weight: bold;">Title:</span> Ti Lascero'</small>
                                                                       </p>
                                                                       
                                                                       <p>
@@ -3061,7 +3061,7 @@ layout: page
                                                                           </p>
                                                                           
                                                                           <p>
-                                                                            <small> </small><small></small><small> <span style="font-weight: bold;">Title:</span> Macao Ti Motserò<span style="font-style: italic;"> (… e pollo alò!)</span></small><small></small>
+                                                                            <small> </small><small></small><small> <span style="font-weight: bold;">Title:</span> Macao Ti Motsero'<span style="font-style: italic;"> (… e pollo alò!)</span></small><small></small>
                                                                           </p>
                                                                           
                                                                           <p>
