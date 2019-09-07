@@ -20,5 +20,5 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.uncledan.it/gallery/?dir=31-Snowy%20Night%20%28Bologna%2C%2018-12-2009%29"><br /> <img class="aligncenter" title="Neve!!!" src="/wp-content/uploads/2009/12/2009-12-18-P1010132-400x300.jpg" alt="" width="400" height="300" /></a>
+  <a href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/gallery/31-Snowy-Night-Bologna,-18-12-2009.html"><br /> <img class="aligncenter" title="Neve!!!" src="/wp-content/uploads/2009/12/2009-12-18-P1010132-400x300.jpg" alt="" width="400" height="300" /></a>
 </p>
