@@ -102,7 +102,7 @@ _Liberamente tratto da: <a href="http://blogging.dragon.org.uk/howto-setup-a-pxe
 # PXE Boot: configurare syslinux e dnsmasq
 
 <p style="text-align: left;">
-  <em>Originale: <a href="http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1" target="_blank" rel="noopener">http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1</a></em><br /> <em> Adattamento a Ubuntu di UncleDan: <a href="https://www.uncledan.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/" target="_blank" rel="noopener">https://www.uncledan.it/2014/07/howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04/</a></em>
+  <em>Originale: <a href="http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1" target="_blank" rel="noopener">http://danielboca.blogspot.it/2012/02/boot-linux-from-network-using-pxe-and.html?m=1</a></em><br /> <em> Adattamento a Ubuntu di UncleDan: <a href="/2014-07-25-howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04.html" target="_blank" rel="noopener">/2014-07-25-howto-boot-linux-from-network-using-pxe-and-dnsmasq-proxy-ubuntu-14-04.html</a></em>
 </p>
 
 <div>

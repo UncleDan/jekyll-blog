@@ -44,4 +44,4 @@ tags:
 
 ## Altri articoli sui loghi:
 
-  1. [Loghi speciali](https://www.uncledan.it/2009/03/hattrick-felsina-celtics-loghi-speciali/ "Loghi speciali")
+  1. [Loghi speciali](/2009-03-30-hattrick-felsina-celtics-loghi-speciali.html "Loghi speciali")

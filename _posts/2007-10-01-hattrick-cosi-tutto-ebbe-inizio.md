@@ -18,7 +18,7 @@ La malattia per il gestionale di calcio <a title="Hattrick" href="http://www.hat
 
 ## Altri articoli su Hattrick:
 
-  1. <a title="Felsina Celtics - Loghi" href="https://www.uncledan.it/hattrick-felsina-celtics-loghi-10-2007.html" target="_self">Felsina Celtics &#8211; Loghi</a>
+  1. <a title="Felsina Celtics - Loghi" href="/2007-10-01-hattrick-felsina-celtics-loghi.html" target="_self">Felsina Celtics &#8211; Loghi</a>
   2. [frank70 &#8211; Hattrick Music](https://www.uncledan.it/frank70-hattrick-music/ "frank70 - Hattrick Music")
 
 **

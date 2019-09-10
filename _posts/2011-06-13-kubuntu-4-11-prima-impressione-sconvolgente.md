@@ -37,9 +37,9 @@ tags:
   <strong>Non funziona:</strong>
 </p>
 
-  * <span style="text-decoration: line-through;">tastiera settata con mappatura US invece che IT (@ sopra il 2, accentate non funzionanti, ecc.)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: mappatura tastiera italiana" href="https://www.uncledan.it/2011/06/kubuntu-4-11-mappatura-tastiera-italiana/">-link-</a></small>
-  * <span style="text-decoration: line-through;">avvio di Windows da GRUB (dual boot o meglio trial boot)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple/">-link-</a></small>
-  * <span style="text-decoration: line-through;">le due partizioni Windows non sono montate automaticamente (erano nascoste all&#8217;installazione)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple" href="https://www.uncledan.it/2011/06/kubuntu-4-11-grub2-e-installazioni-windows-multiple#unhide_windows">-link-</a></small>
+  * <span style="text-decoration: line-through;">tastiera settata con mappatura US invece che IT (@ sopra il 2, accentate non funzionanti, ecc.)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: mappatura tastiera italiana" href="/2011-06-15-kubuntu-4-11-mappatura-tastiera-italiana.html">-link-</a></small>
+  * <span style="text-decoration: line-through;">avvio di Windows da GRUB (dual boot o meglio trial boot)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html">-link-</a></small>
+  * <span style="text-decoration: line-through;">le due partizioni Windows non sono montate automaticamente (erano nascoste all&#8217;installazione)</span> <small><strong>RISOLTO</strong> <a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html#unhide_windows">-link-</a></small>
   * il secondo hard disk non contiene partizioni riconosciute come valide (ce ne sono due invece)
   * montaggio automatico chiavette USB
 
