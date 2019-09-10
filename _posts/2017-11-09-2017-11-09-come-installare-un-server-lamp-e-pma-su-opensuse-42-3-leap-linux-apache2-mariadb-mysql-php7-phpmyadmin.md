@@ -102,7 +102,7 @@ Anche in questo caso creiamo un piccolo file di test:
     <?php phpinfo(); ?>
     EOF'
 
-Ora, sempre con il browser che preferiamo, colleghiamoci a <http://localhost/phpinfo.php>.
+Ora, sempre con il browser che preferiamo, colleghiamoci a `http://localhost/phpinfo.php`.
 
 [<img class="alignnone size-full wp-image-2532" src="/wp-content/uploads/2017/11/PHP7.png" alt="" width="800" height="600" srcset="/wp-content/uploads/2017/11/PHP7.png 800w, /wp-content/uploads/2017/11/PHP7-300x225.png 300w, /wp-content/uploads/2017/11/PHP7-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" />](/wp-content/uploads/2017/11/PHP7.png)
 
@@ -211,7 +211,7 @@ e riavviare il server _web_:
 
     sudo systemctl restart apache2
 
-Ora per accedere all&#8217;interfaccia colleghiamoci, sempre con il browser preferito, all&#8217;indirizzo <http://localhost/phpMyAdmin/> da locale oppure a **http://_indirizzo_ip_/phpMyAdmin/** da remoto.
+Ora per accedere all&#8217;interfaccia colleghiamoci, sempre con il browser preferito, all&#8217;indirizzo `http://localhost/phpMyAdmin/` da locale oppure a `http://_indirizzo_ip_/phpMyAdmin/` da remoto.
 
 [<img class="alignnone size-full wp-image-2531" src="/wp-content/uploads/2017/11/phpMyAdmin.png" alt="" width="800" height="600" srcset="/wp-content/uploads/2017/11/phpMyAdmin.png 800w, /wp-content/uploads/2017/11/phpMyAdmin-300x225.png 300w, /wp-content/uploads/2017/11/phpMyAdmin-768x576.png 768w" sizes="(max-width: 800px) 100vw, 800px" />](/wp-content/uploads/2017/11/phpMyAdmin.png)
 

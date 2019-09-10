@@ -11,4 +11,4 @@ mytory_md_visits_count:
 categories:
   - Linux
 ---
-<http://www.tommyblue.it/2011/02/14/realizzare-un-dominio-con-samba-3-come-pdc>
+~~http://www.tommyblue.it/2011/02/14/realizzare-un-dominio-con-samba-3-come-pdc~~

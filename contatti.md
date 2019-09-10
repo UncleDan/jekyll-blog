@@ -73,7 +73,7 @@ order: 2
   
 <a rel="me communication" href="msnim:chat?contact=uncledan@uncledan.it" target="_blank"><img src="/wp-content/uploads/showyourself_images/msn.png" alt="MSN" /> **MSN** /uncledan@uncledan.it</a>
   
-<a rel="me blog" href="http://www.myspace.com/uncledan74" target="_blank"><img src="/wp-content/uploads/showyourself_images/myspace.png" alt="MySpace" /> **MySpace** /uncledan74</a>
+~~<img src="/wp-content/uploads/showyourself_images/myspace.png" alt="MySpace" /> **MySpace** /uncledan74~~
   
 <a rel="me photos" href="http://s689.photobucket.com/albums/vv254/uncledan74/" target="_blank"><img src="/wp-content/uploads/showyourself_images/photobucket.png" alt="Photobucket" width="16" height="16" /> **Photobucket** /uncledan74</a>
   
