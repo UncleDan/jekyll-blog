@@ -10,7 +10,7 @@ mytory_md_visits_count:
 ---
 # Menu Hattrick Music
 
-  * [Hattrick Music](/frank70-hattrick-music) 
+  * [Hattrick Music](/frank70-hattrick-music/) 
       * [Lyrics](/frank70-hattrick-music/lyrics)
       * [Pre-release](/frank70-hattrick-music/pre-release)
       * [Singoli e Inediti](/frank70-hattrick-music/singoli-e-inediti)

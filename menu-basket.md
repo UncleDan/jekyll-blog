@@ -11,7 +11,7 @@ mytory_md_visits_count:
 # Menu Basket
 
   * [Basket](/basket/) 
-      * [2004/2005 Polisportiva Lame](/basket/2004-2005-polisportiva-lame)
-      * [2006/2007 Polisportiva Lame](/basket/2006-2007-polisportiva-lame)
-      * [2007/2008 Nova Basket Castenaso](/basket/2007-2008-nova-basket-castenaso)
-      * [2008/2009 Nova Basket Castenaso](/basket/2008-2009-nova-basket-castenaso)
+      * [2004/2005 Polisportiva Lame](/basket/2004-2005-polisportiva-lame/)
+      * [2006/2007 Polisportiva Lame](/basket/2006-2007-polisportiva-lame/)
+      * [2007/2008 Nova Basket Castenaso](/basket/2007-2008-nova-basket-castenaso/)
+      * [2008/2009 Nova Basket Castenaso](/basket/2008-2009-nova-basket-castenaso/)
