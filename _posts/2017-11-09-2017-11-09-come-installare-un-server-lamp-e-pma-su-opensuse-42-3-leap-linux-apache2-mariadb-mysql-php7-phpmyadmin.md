@@ -4,7 +4,7 @@ title: Come installare un server LAMP e pMA su openSUSE 42.3 Leap (Linux, Apache
 date: 2017-11-09T18:35:35+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.danielelolli.it/?p=2528
+guid: old-wordpress-guid=2528
 permalink: /2017-11-09-2017-11-09-come-installare-un-server-lamp-e-pma-su-opensuse-42-3-leap-linux-apache2-mariadb-mysql-php7-phpmyadmin.html
 mytory_md_path:
   - https://raw.githubusercontent.com/UncleDan/uncledan.github.io/master/_posts/2017-11-09-come-installare-un-server-lamp-e-pma-su-opensuse-42-3-leap-linux-apache2-mariadb-mysql-php7-phpmyadmin.md

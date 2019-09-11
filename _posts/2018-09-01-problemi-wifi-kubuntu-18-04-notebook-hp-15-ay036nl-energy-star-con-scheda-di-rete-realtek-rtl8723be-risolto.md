@@ -4,7 +4,7 @@ title: 'Problemi WiFi (K)Ubuntu 18.04 notebook HP 15-ay036nl (Energy Star) con s
 date: 2018-09-01T15:54:16+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.danielelolli.it/?p=2608
+guid: old-wordpress-guid=2608
 permalink: /2018-09-01-problemi-wifi-kubuntu-18-04-notebook-hp-15-ay036nl-energy-star-con-scheda-di-rete-realtek-rtl8723be-risolto.html
 categories:
   - Linux

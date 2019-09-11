@@ -4,7 +4,7 @@ title: 'GitHub Pages con DNS Aruba: SI PUO&#8217; FARE!!!'
 date: 2018-09-07T18:22:53+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.danielelolli.it/?p=2613
+guid: old-wordpress-guid=2613
 permalink: /2018-09-07-github-pages-con-dns-aruba-si-puo-fare.html
 categories:
   - Tech

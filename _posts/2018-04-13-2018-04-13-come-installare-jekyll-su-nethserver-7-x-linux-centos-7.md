@@ -4,7 +4,7 @@ title: Come installare Jekyll su NethServer 7.x (Linux Centos 7)
 date: 2018-04-13T18:35:57+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.danielelolli.it/?p=2547
+guid: old-wordpress-guid=2547
 permalink: /2018-04-13-2018-04-13-come-installare-jekyll-su-nethserver-7-x-linux-centos-7.html
 mytory_md_path:
   - https://raw.githubusercontent.com/UncleDan/uncledan.github.io/master/_posts/2018-04-13-come-installare-jekyll-su-nethserver-7-x-linux-centos-7.md
