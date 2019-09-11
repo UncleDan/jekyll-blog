@@ -16,27 +16,27 @@ order: 2
 
 ### Social
 
-![Facebook](/socicon/32/facebook.png) [**Facebook** /uncledan](http://facebook.com/uncledan)
+![Facebook](/uploads/socicon/32/facebook.png) [**Facebook** /uncledan](http://facebook.com/uncledan)
 
-![Twitter](/socicon/32/twitter.png) [**Twitter** /uncledan74](http://www.twitter.com/uncledan74)
+![Twitter](/uploads/socicon/32/twitter.png) [**Twitter** /uncledan74](http://www.twitter.com/uncledan74)
 
-![LinkedIn](/socicon/32/linkedin.png) [**LinkedIn** /danielelolli](http://www.linkedin.com/in/danielelolli)
+![LinkedIn](/uploads/socicon/32/linkedin.png) [**LinkedIn** /danielelolli](http://www.linkedin.com/in/danielelolli)
 
 ![Google+](/uploads/2011/06/googleplus.png) [**Google+** /+DanieleLolli74](https://plus.google.com/+DanieleLolli74)
 
 ### Communication
-![e-mail](/socicon/32/mail.png) [**e-mail** /danielelolli](mailto:posta@danielelolli.it)
+![e-mail](/uploads/socicon/32/mail.png) [**e-mail** /danielelolli](mailto:posta@danielelolli.it)
 
 ![Gmail](/uploads/2011/06/google.png) [**Gmail** /danielelolli74](mailto:danielelolli74@gmail.com)
 
-![e-mail](/socicon/32/mail.png) [**e-mail** /uncledan](mailto:uncledan@uncledan.it)
+![e-mail](/uploads/socicon/32/mail.png) [**e-mail** /uncledan](mailto:uncledan@uncledan.it)
 
 ![Gmail](/uploads/2011/06/google.png) [**Gmail** /uncledan74](mailto:uncledan74@gmail.com)
 
-![Skype](/socicon/32/skype.png) [**Skype** /uncledan74](skype:uncledan74?chat)
+![Skype](/uploads/socicon/32/skype.png) [**Skype** /uncledan74](skype:uncledan74?chat)
 
 ### Coding
-![GitHub](/socicon/32/github.png) [**GitHub** /UncleDan](https://github.com/UncleDan)
+![GitHub](/uploads/socicon/32/github.png) [**GitHub** /UncleDan](https://github.com/UncleDan)
 
 ![Launchpad](/uploads/2011/06/launchpad.png) [**Launchpad** /~uncledan](https://launchpad.net/~uncledan)
 
