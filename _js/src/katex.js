@@ -1,5 +1,4 @@
-// # src / katex.js
-// Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+// Copyright (c) 2019 Florian Klampfer <https://qwtel.com/>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -14,50 +13,53 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import "core-js/fn/array/for-each";
-
-import { hasFeatures, hide } from "./common";
+import { hasFeatures } from "./common";
 
 const REQUIREMENTS = ["classlist", "eventlistener", "queryselector"];
 
 const featuresOk = hasFeatures(REQUIREMENTS);
-let katexJSLoaded = false;
-let katexCSSLoaded = false;
+let loaded;
 
 function renderKatex(el) {
   try {
     let prev = el.previousElementSibling;
-    while (prev && !prev.classList.contains("MathJax_Preview")) prev = prev.previousElementSibling;
+    while (prev && !prev.classList.contains("MathJax_Preview"))
+      prev = prev.previousElementSibling;
 
     const tex = el.textContent.replace("% <![CDATA[", "").replace("%]]>", "");
 
     el.outerHTML = window.katex.renderToString(tex, {
-      displayMode: el.type === "math/tex; mode=display",
+      displayMode: el.type === "math/tex; mode=display"
     });
 
-    if (prev) hide.call(prev);
+    if (prev) prev.parentNode.removeChild(prev);
   } catch (e) {
     if (process.env.DEBUG) console.error(e);
   }
 }
+
+const promisify = (f, href) =>
+  new Promise(resolve => f(href).addEventListener("load", resolve));
 
 export const upgradeMathBlocks = !featuresOk
   ? () => {}
   : () => {
       const mathBlocks = document.querySelectorAll('script[type^="math/tex"]');
       if (mathBlocks.length) {
-        if (katexJSLoaded && katexCSSLoaded) {
-          Array.from(mathBlocks).forEach(renderKatex);
-        } else {
-          loadJS(document.getElementById("_hrefKatexJS").href).addEventListener("load", () => {
-            katexJSLoaded = true;
-            if (katexJSLoaded && katexCSSLoaded) upgradeMathBlocks();
-          });
-          loadCSS(document.getElementById("_hrefKatexCSS").href).addEventListener("load", () => {
-            katexCSSLoaded = true;
-            if (katexJSLoaded && katexCSSLoaded) upgradeMathBlocks();
-          });
+        if (!loaded) {
+          loaded = Promise.all([
+            promisify(loadJS, document.getElementById("_hrefKatexJS").href),
+            promisify(loadCSS, document.getElementById("_hrefKatexCSS").href),
+            promisify(loadJS, document.getElementById("_hrefKatexCopyJS").href),
+            promisify(
+              loadCSS,
+              document.getElementById("_hrefKatexCopyCSS").href
+            )
+          ]);
         }
+        loaded.then(() => {
+          Array.from(mathBlocks).forEach(renderKatex);
+        });
       }
     };
 
