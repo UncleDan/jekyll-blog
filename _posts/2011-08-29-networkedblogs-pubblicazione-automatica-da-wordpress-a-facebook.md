@@ -18,7 +18,7 @@ tags:
   - wordpress
 ---
 <p style="text-align: justify;">
-  Sto testando una applicazione di cui ho scovato l&#8217;esistenza tramite il forum di <em>wordpress-it</em> (<a title="wordpress-it" href="http://www.wordpress-it.it/forum/topic.php?id=13690" target="_blank">post</a>). Si chiama <em><a title="NetworkedBlogs" href="http://www.networkedblogs.com/" target="_blank">NetworkedBlogs</a></em> e pubblica automaticamente su un profilo o una pagina facebook i post di un blog <em>WordPress</em> self-hosted o dei principali provider.
+  Sto testando una applicazione di cui ho scovato l&#8217;esistenza tramite il forum di <em>wordpress-it</em> (<a title="wordpress-it" href="http://www.wordpress-it.it/forum/topic.php?id=13690" target="_blank">post</a>). Si chiama ~~*NetworkedBlogs*~~ e pubblica automaticamente su un profilo o una pagina facebook i post di un blog <em>WordPress</em> self-hosted o dei principali provider.
 </p>
 
 <p style="text-align: justify;">

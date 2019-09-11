@@ -14,4 +14,4 @@ tags:
   - pardus
   - tools
 ---
-Aggiornato l&#8217;articolo dei **[Pardus Tools](https://www.uncledan.it/2009/04/pardus-tools/ "Pardus Tools")****,** chissà che non mi venga voglia di sistemarne qualcun&#8217;altro, boh 😀 _(Ri-edit 2011, ndr)_
+Aggiornato l&#8217;articolo dei **[Pardus Tools](/2009-04-04-pardus-tools.html "Pardus Tools")****,** chissà che non mi venga voglia di sistemarne qualcun&#8217;altro, boh 😀 _(Ri-edit 2011, ndr)_

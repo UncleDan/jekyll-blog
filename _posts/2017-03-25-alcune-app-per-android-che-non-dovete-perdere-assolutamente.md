@@ -20,7 +20,7 @@ categories:
   Lista personalissima, in rigoroso ordine alfabetico. Segnalerò tra parentesi quali sono gratuite e quali a pagamento. Se sono qui però, vuol dire che penso che valgano assolutamente i pochi euro che si pagano (ho comprato 4 app in tutta la mia vita, quindi non ho l&#8217;abitudine di acquistare App &#8220;a casaccio&#8221;).
 </p>
 
-[**ES File Explorer/Manager PRO**](https://play.google.com/store/apps/details?id=com.estrongs.android.pop.pro&hl=it)  
+~~[**ES File Explorer/Manager PRO**]~~(*)
 _(a pagamento)_
 
 [**Facebook**](https://play.google.com/store/apps/details?id=com.facebook.katana&hl=it)  
@@ -46,3 +46,5 @@ _(a pagamento, richiede_ _root e che sia installata prima la versione gratuita)_
 
 [**WhatsApp Messenger**](https://play.google.com/store/apps/details?id=com.whatsapp&hl=it)  
 _(gratuita)_
+
+(*) *ES File Explorer/Manager PRO* was banned from *Play Store* for ads abusing (I never experienced any problem because I bought the full version)

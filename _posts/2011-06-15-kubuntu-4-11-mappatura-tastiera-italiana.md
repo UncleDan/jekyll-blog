@@ -20,7 +20,7 @@ tags:
   - tastiera
 ---
 <p style="text-align: justify;">
-  Ad imperitura memoria del sottoscritto e dei neofiti che come lui cercano le soluzioni più improbabili quando quella giusta è la più banale ed evidente. Dopo aver <a title="Kubuntu 4.11: prima impressione… sconvolgente!" href="https://www.uncledan.it/2011/06/kubuntu-4-11-prima-impressione-sconvolgente/">installato Kubuntu 4.11 sul mio Toshiba Qosmio</a> uno dei problemi più fastidiosi era la mappatura sbagliata della tastiera. Infatti io digito su un layout italiano, mentre Linux pensava di usarne uno americano, con conseguente malfunzionamento di tutte le lettere accentate e di tutti i tasti che si ottengono con Alt Gr. Dopo aver riconfigurato, disinstallato e reinstallato quintali di pacchetto la soluzione era&#8230; <strong>un check</strong>!
+  Ad imperitura memoria del sottoscritto e dei neofiti che come lui cercano le soluzioni più improbabili quando quella giusta è la più banale ed evidente. Dopo aver <a title="Kubuntu 4.11: prima impressione… sconvolgente!" href="/2011-06-13-kubuntu-4-11-prima-impressione-sconvolgente.html">installato Kubuntu 4.11 sul mio Toshiba Qosmio</a> uno dei problemi più fastidiosi era la mappatura sbagliata della tastiera. Infatti io digito su un layout italiano, mentre Linux pensava di usarne uno americano, con conseguente malfunzionamento di tutte le lettere accentate e di tutti i tasti che si ottengono con Alt Gr. Dopo aver riconfigurato, disinstallato e reinstallato quintali di pacchetto la soluzione era&#8230; <strong>un check</strong>!
 </p>
 
 <p style="text-align: justify;">
