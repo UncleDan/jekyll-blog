@@ -1,5 +1,5 @@
 ---
-title: File Archive going static
+title: File Archive moves
 date: 2019-09-07T14:10:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
