@@ -519,4 +519,4 @@ ARRAY /dev/md3 metadata=1.2 name=ns6-extend.danielelolli.it:3 UUID=0711509f:7bf8
 
 *[https://www.linuxquestions.org/questions/linux-general-1/using-parted-command-to-create-lvm-partitions-4175533903/](https://www.linuxquestions.org/questions/linux-general-1/using-parted-command-to-create-lvm-partitions-4175533903/)*
 
-***[Download this article in PDF](pdf/2019-05-05-nethserver-6-x-expanding-capacity-by-adding-two-new-disks-in-mirror.pdf)***
+***[Download this article in PDF](/uploads/pdf/2019-05-05-nethserver-6-x-expanding-capacity-by-adding-two-new-disks-in-mirror.pdf)***

@@ -606,4 +606,4 @@ ARRAY /dev/md3 metadata=1.2 name=localhost.localdomain:3 UUID=ecc8ed5f:716cdcde:
 
 *[https://www.linuxquestions.org/questions/linux-general-1/using-parted-command-to-create-lvm-partitions-4175533903/](https://www.linuxquestions.org/questions/linux-general-1/using-parted-command-to-create-lvm-partitions-4175533903/)*
 
-***[Download this article in PDF](pdf/2019-06-11-nethserver-6-x-expanding-capacity-by-moving-ibay-to-two-new-disks-in-mirror.pdf) - [Complete console log](logs/2019-06-11-nethserver-6-x-expanding-capacity-by-moving-ibay-to-two-new-disks-in-mirror.console.txt)***
+***[Download this article in PDF](/uploads/pdf/2019-06-11-nethserver-6-x-expanding-capacity-by-moving-ibay-to-two-new-disks-in-mirror.pdf) - [Complete console log](/uploads/logs/2019-06-11-nethserver-6-x-expanding-capacity-by-moving-ibay-to-two-new-disks-in-mirror.console.txt)***
