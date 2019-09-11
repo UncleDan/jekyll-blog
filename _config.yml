@@ -6,15 +6,11 @@ title:               Daniele Lolli (UncleDan)
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-##REMOTE
 url:    https://www.uncledan.it
-##LOCAL url:    http://testsite.dan
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-##REMOTE
 baseurl:    ''
-##LOCAL baseurl:    '/uncledan.github.io'
 
 # A very short description of your page
 tagline:             Diario personale di un webmaster a tempo perso.
@@ -31,7 +27,6 @@ author:
   email:             uncledan@uncledan.it
 
 # Fallback image and color
-##image:               /hydejack/assets/img/nap.jpg
 color:               '#169b62'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
