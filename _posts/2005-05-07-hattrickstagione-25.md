@@ -4,7 +4,7 @@ title: Stagione 25
 date: 2005-05-07T14:30:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1032
+guid: old-wordpress-guid=1032
 permalink: /2005-05-07-hattrickstagione-25.html
 mytory_md_visits_count:
   - "56"

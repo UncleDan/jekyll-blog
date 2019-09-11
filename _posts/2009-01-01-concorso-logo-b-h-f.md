@@ -4,7 +4,7 @@ title: Concorso Logo B.H.F.
 date: 2009-01-01T23:59:37+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1211
+guid: old-wordpress-guid=1211
 permalink: /2009-01-01-concorso-logo-b-h-f.html
 mytory_md_visits_count:
   - "50"

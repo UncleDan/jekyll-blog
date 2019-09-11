@@ -4,7 +4,7 @@ title: 'Installare Windows Seven (7)  Professional 32 bit su Toshiba Qosmio G20'
 date: 2014-08-13T15:56:24+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1837
+guid: old-wordpress-guid=1837
 permalink: /2014-08-13-installare-windows-seven-7-professional-32-bit-su-toshiba-qosmio-g20.html
 mytory_md_visits_count:
   - "392"

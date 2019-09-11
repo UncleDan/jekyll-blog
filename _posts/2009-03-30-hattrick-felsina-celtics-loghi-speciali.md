@@ -4,7 +4,7 @@ title: 'Felsina Celtics &#8211; Loghi Speciali'
 date: 2009-03-30T23:12:27+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1105
+guid: old-wordpress-guid=1105
 permalink: /2009-03-30-hattrick-felsina-celtics-loghi-speciali.html
 mytory_md_visits_count:
   - "601"

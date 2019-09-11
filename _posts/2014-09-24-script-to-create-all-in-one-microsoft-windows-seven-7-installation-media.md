@@ -4,7 +4,7 @@ title: Script To Create All In One Microsoft Windows Seven (7) Installation Medi
 date: 2014-09-24T19:00:46+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1886
+guid: old-wordpress-guid=1886
 permalink: /2014-09-24-script-to-create-all-in-one-microsoft-windows-seven-7-installation-media.html
 mytory_md_visits_count:
   - "262"

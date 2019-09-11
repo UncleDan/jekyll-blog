@@ -4,7 +4,7 @@ title: 'osTicketPlus &#8211; New and (maybe) Final Version &#8211; 1.6.0 Revisio
 date: 2012-03-15T18:39:01+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1624
+guid: old-wordpress-guid=1624
 permalink: /2012-03-15-osticketplus-new-and-maybe-final-version-1-6-0-revision-3.html
 mytory_md_visits_count:
   - "218"

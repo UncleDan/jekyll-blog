@@ -4,7 +4,7 @@ title: Palestre basket Bologna e provincia
 date: 2011-09-24T12:06:12+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1475
+guid: old-wordpress-guid=1475
 permalink: /2011-09-24-palestre-basket-bologna-e-provincia.html
 mytory_md_visits_count:
   - "52"

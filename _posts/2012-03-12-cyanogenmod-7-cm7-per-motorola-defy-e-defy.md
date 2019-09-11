@@ -4,7 +4,7 @@ title: 'Cyanogenmod 7 [CM7] per Motorola Defy e Defy+'
 date: 2012-03-12T23:24:27+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1615
+guid: old-wordpress-guid=1615
 permalink: /2012-03-12-cyanogenmod-7-cm7-per-motorola-defy-e-defy.html
 mytory_md_visits_count:
   - "48"

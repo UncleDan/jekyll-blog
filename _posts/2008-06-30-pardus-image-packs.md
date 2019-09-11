@@ -4,7 +4,7 @@ title: Pardus Image Packs
 date: 2008-06-30T12:56:29+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1263
+guid: old-wordpress-guid=1263
 permalink: /2008-06-30-pardus-image-packs.html
 mytory_md_visits_count:
   - "240"

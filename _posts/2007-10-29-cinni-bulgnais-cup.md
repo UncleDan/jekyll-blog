@@ -4,7 +4,7 @@ title: Cinni Bulgnais Cup
 date: 2007-10-29T13:53:57+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1085
+guid: old-wordpress-guid=1085
 permalink: /2007-10-29-cinni-bulgnais-cup.html
 mytory_md_visits_count:
   - "41"

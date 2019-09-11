@@ -4,7 +4,7 @@ title: Stagione 26
 date: 2005-08-27T14:00:33+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1037
+guid: old-wordpress-guid=1037
 permalink: /2005-08-27-hattrick-stagione-26.html
 mytory_md_visits_count:
   - "37"

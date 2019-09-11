@@ -4,7 +4,7 @@ title: Goodnight Songs
 date: 2011-10-06T21:09:29+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1481
+guid: old-wordpress-guid=1481
 permalink: /2011-10-06-goodnight-songs.html
 mytory_md_visits_count:
   - "43"

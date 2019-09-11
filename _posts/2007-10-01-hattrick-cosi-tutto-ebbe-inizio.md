@@ -4,7 +4,7 @@ title: Così tutto ebbe inizio
 date: 2007-10-01T18:12:05+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1094
+guid: old-wordpress-guid=1094
 permalink: /2007-10-01-hattrick-cosi-tutto-ebbe-inizio.html
 mytory_md_visits_count:
   - "197"
@@ -19,7 +19,7 @@ La malattia per il gestionale di calcio <a title="Hattrick" href="http://www.hat
 ## Altri articoli su Hattrick:
 
   1. <a title="Felsina Celtics - Loghi" href="/2007-10-01-hattrick-felsina-celtics-loghi.html" target="_self">Felsina Celtics &#8211; Loghi</a>
-  2. [frank70 &#8211; Hattrick Music](https://www.uncledan.it/frank70-hattrick-music/ "frank70 - Hattrick Music")
+  2. [frank70 &#8211; Hattrick Music](/frank70-hattrick-music/ "frank70 - Hattrick Music")
 
 **
   

@@ -4,7 +4,7 @@ title: 2008/2009 Nova Basket Castenaso
 date: 2009-10-18T15:43:05+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/?page_id=535
+guid: old-wordpress-guid=535
 ---
 <p style="text-align: center;">
   <p style="text-align: center;">

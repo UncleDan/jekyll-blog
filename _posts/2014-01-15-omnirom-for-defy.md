@@ -4,7 +4,7 @@ title: OmniROM for Defy(+)
 date: 2014-01-15T22:57:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1774
+guid: old-wordpress-guid=1774
 permalink: /2014-01-15-omnirom-for-defy.html
 mytory_md_visits_count:
   - "61"

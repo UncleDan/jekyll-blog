@@ -4,7 +4,7 @@ title: Android Devices Codename
 date: 2012-12-21T21:12:05+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1702
+guid: old-wordpress-guid=1702
 permalink: /2012-12-21-android-devices-codename.html
 mytory_md_visits_count:
   - "50"

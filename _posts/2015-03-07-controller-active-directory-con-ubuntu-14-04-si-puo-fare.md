@@ -4,7 +4,7 @@ title: 'Controller Active Directory con Ubuntu 14.04? Si&#8230; Può&#8230; Fare
 date: 2015-03-07T16:14:40+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1953
+guid: old-wordpress-guid=1953
 permalink: /2015-03-07-controller-active-directory-con-ubuntu-14-04-si-puo-fare.html
 mytory_md_visits_count:
   - "318"

@@ -4,7 +4,7 @@ title: Stagione 29
 date: 2006-07-29T14:00:17+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1053
+guid: old-wordpress-guid=1053
 permalink: /2006-07-29-hattrick-stagione-29.html
 mytory_md_visits_count:
   - "42"

@@ -4,7 +4,7 @@ title: Neve a Bologna!
 date: 2009-12-19T17:16:01+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=578
+guid: old-wordpress-guid=578
 permalink: /2009-12-19-neve-a-bologna.html
 mytory_md_visits_count:
   - "55"

@@ -4,7 +4,6 @@ title: Supporto USB 2.0 in Windows 2000 Professional
 date: 2010-05-29T20:44:20+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/2010/05/29/supporto-usb-2-0-in-windows-2000-professional/
 permalink: /2010-05-29-supporto-usb-2-0-in-windows-2000-professional.html
 mytory_md_visits_count:
   - "105"

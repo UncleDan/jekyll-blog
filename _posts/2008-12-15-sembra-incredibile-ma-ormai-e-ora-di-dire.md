@@ -4,7 +4,7 @@ title: 'Sembra incredibile, ma ormai è ora di dire&#8230;'
 date: 2008-12-15T14:43:02+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=133
+guid: old-wordpress-guid=133
 permalink: /2008-12-15-sembra-incredibile-ma-ormai-e-ora-di-dire.html
 mytory_md_visits_count:
   - "45"

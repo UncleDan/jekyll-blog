@@ -4,7 +4,7 @@ title: Amici su Hattrick
 date: 2011-06-04T14:07:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1357
+guid: old-wordpress-guid=1357
 permalink: /2011-06-04-amici-su-hattrick.html
 mytory_md_visits_count:
   - "36"

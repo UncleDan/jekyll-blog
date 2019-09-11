@@ -4,7 +4,7 @@ title: St. Bernard
 date: 2005-08-26T23:59:03+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1007
+guid: old-wordpress-guid=1007
 permalink: /2005-08-26-st-bernard.html
 mytory_md_visits_count:
   - "39"

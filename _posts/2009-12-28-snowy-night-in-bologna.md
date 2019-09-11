@@ -4,7 +4,7 @@ title: Snowy night in Bologna
 date: 2009-12-28T23:59:44+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=992
+guid: old-wordpress-guid=992
 permalink: /2009-12-28-snowy-night-in-bologna.html
 mytory_md_visits_count:
   - "47"

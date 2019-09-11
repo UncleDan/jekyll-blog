@@ -4,7 +4,7 @@ title: Singoli e Inediti
 date: 2011-06-02T22:13:29+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/?page_id=1313
+guid: old-wordpress-guid=1313
 ---
 <img class="aligncenter" style="width: 200px; height: 200px;" src="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/Singoli e Inediti/banner.png" alt="banner" />
 

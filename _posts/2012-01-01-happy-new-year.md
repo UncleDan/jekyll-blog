@@ -4,7 +4,7 @@ title: Happy New Year!
 date: 2012-01-01T00:00:07+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1518
+guid: old-wordpress-guid=1518
 permalink: /2012-01-01-happy-new-year.html
 mytory_md_visits_count:
   - "54"

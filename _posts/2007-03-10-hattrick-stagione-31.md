@@ -4,7 +4,7 @@ title: Stagione 31
 date: 2007-03-10T14:00:17+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1062
+guid: old-wordpress-guid=1062
 permalink: /2007-03-10-hattrick-stagione-31.html
 mytory_md_visits_count:
   - "40"

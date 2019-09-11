@@ -4,7 +4,7 @@ title: 'Senza parole&#8230;'
 date: 2008-03-25T17:44:05+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=96
+guid: old-wordpress-guid=96
 permalink: /2008-03-25-senza-parole.html
 mytory_md_visits_count:
   - "70"

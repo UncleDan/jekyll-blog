@@ -4,7 +4,7 @@ title: 'Condividere un video da YouTube a Facebook &#8211; Guida illustrata'
 date: 2011-10-08T00:14:14+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1485
+guid: old-wordpress-guid=1485
 permalink: /2011-10-08-condividere-un-video-da-youtube-a-facebook-guida-illustrata.html
 mytory_md_visits_count:
   - "46"

@@ -4,7 +4,7 @@ title: Flag Chasing
 date: 2007-10-13T15:44:15+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1200
+guid: old-wordpress-guid=1200
 permalink: /2007-10-13-hattrick-flag-chasing-2.html
 mytory_md_visits_count:
   - "388"

@@ -4,7 +4,7 @@ title: Finalmente online!!
 date: 2007-09-26T13:03:48+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=14
+guid: old-wordpress-guid=14
 permalink: /2007-09-26-finalmente-online.html
 mytory_md_visits_count:
   - "45"

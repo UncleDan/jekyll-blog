@@ -4,7 +4,7 @@ title: 'A Memory Comparison of Light Linux Desktops | l3net &#8211; a layer 3 ne
 date: 2014-03-28T23:50:20+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1782
+guid: old-wordpress-guid=1782
 permalink: /2014-03-28-a-memory-comparison-of-light-linux-desktops-l3net-a-layer-3-networking-blog.html
 mytory_md_visits_count:
   - "63"

@@ -4,7 +4,7 @@ title: San Petronio
 date: 2007-10-04T16:49:27+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=21
+guid: old-wordpress-guid=21
 permalink: /2007-10-04-san-petronio.html
 mytory_md_visits_count:
   - "38"

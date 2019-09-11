@@ -4,7 +4,7 @@ title: 'osTicket Plus &#8211; Nuova Versione'
 date: 2011-05-12T23:13:11+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=792
+guid: old-wordpress-guid=792
 permalink: /2011-05-12-osticket-plus-nuova-versione.html
 mytory_md_visits_count:
   - "47"

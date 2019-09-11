@@ -4,7 +4,7 @@ title: 'osTicketPlus &#8211; New Version &#8211; Commit 144'
 date: 2011-07-11T14:40:56+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1434
+guid: old-wordpress-guid=1434
 permalink: /2011-07-11-osticketplus-new-version-commit-144.html
 mytory_md_visits_count:
   - "31"

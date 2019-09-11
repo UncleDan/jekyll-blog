@@ -4,7 +4,7 @@ title: Rifondazione Hattrickiana
 date: 2011-05-30T20:46:54+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1027
+guid: old-wordpress-guid=1027
 permalink: /2011-05-30-rifondazione-hattrickiana.html
 mytory_md_visits_count:
   - "64"

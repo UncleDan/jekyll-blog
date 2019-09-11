@@ -4,7 +4,7 @@ title: Balumba Tombo Reloaded
 date: 2007-11-27T13:19:47+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=86
+guid: old-wordpress-guid=86
 permalink: /2007-11-27-balumba-tombo-reloaded.html
 mytory_md_visits_count:
   - "41"

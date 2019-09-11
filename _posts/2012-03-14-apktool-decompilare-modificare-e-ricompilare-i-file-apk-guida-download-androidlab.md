@@ -4,7 +4,7 @@ title: 'ApkTool: Decompilare, modificare e ricompilare i file apk [Guida + Downl
 date: 2012-03-14T00:22:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1621
+guid: old-wordpress-guid=1621
 permalink: /2012-03-14-apktool-decompilare-modificare-e-ricompilare-i-file-apk-guida-download-androidlab.html
 dsq_thread_id:
   - "6163778392"

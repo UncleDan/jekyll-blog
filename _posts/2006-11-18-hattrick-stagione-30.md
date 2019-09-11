@@ -4,7 +4,7 @@ title: Stagione 30
 date: 2006-11-18T14:00:41+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1057
+guid: old-wordpress-guid=1057
 permalink: /2006-11-18-hattrick-stagione-30.html
 mytory_md_visits_count:
   - "43"

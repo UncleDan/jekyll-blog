@@ -4,7 +4,7 @@ title: Aggiungere driver di rete Realtek e Marvell a ESXi 5.5 Update 2
 date: 2015-03-16T21:55:50+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1958
+guid: old-wordpress-guid=1958
 permalink: /2015-03-16-aggiungere-driver-di-rete-realtek-e-marvell-a-esxi-5-5-update-2.html
 dsq_thread_id:
   - "6155964386"

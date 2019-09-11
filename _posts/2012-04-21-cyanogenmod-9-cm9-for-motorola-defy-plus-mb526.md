@@ -4,7 +4,7 @@ title: 'CyanogenMod 9 [CM9] for Motorola Defy+ [MB526]'
 date: 2012-04-21T12:17:33+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1645
+guid: old-wordpress-guid=1645
 permalink: /2012-04-21-cyanogenmod-9-cm9-for-motorola-defy-plus-mb526.html
 mytory_md_visits_count:
   - "36"

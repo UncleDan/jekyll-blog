@@ -4,7 +4,7 @@ title: 'Kubuntu 4.11: prima impressione&#8230; sconvolgente!'
 date: 2011-06-13T18:26:58+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1374
+guid: old-wordpress-guid=1374
 permalink: /2011-06-13-kubuntu-4-11-prima-impressione-sconvolgente.html
 mytory_md_visits_count:
   - "91"

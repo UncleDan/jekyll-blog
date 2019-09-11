@@ -4,7 +4,7 @@ title: Ancora qualche modifica
 date: 2009-05-02T14:14:24+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=336
+guid: old-wordpress-guid=336
 permalink: /2009-05-02-ancora-qualche-modifica.html
 mytory_md_visits_count:
   - "51"

@@ -4,7 +4,7 @@ title: Firefox Download Day
 date: 2008-06-04T11:04:55+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=108
+guid: old-wordpress-guid=108
 permalink: /2008-06-04-firefox-download-day.html
 mytory_md_visits_count:
   - "31"

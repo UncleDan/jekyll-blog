@@ -4,7 +4,6 @@ title: Album Art e iTunes
 date: 2009-10-21T21:39:28+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/2009/10/21/album-art/
 permalink: /2009-10-21-album-art-e-itunes.html
 mytory_md_visits_count:
   - "49"

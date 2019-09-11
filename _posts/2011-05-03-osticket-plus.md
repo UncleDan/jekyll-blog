@@ -4,7 +4,7 @@ title: osTicket Plus
 date: 2011-05-03T20:09:32+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=785
+guid: old-wordpress-guid=785
 permalink: /2011-05-03-osticket-plus.html
 mytory_md_visits_count:
   - "105"

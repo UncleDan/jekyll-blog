@@ -4,7 +4,7 @@ title: Storia del Club
 date: 2007-10-04T19:47:41+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1089
+guid: old-wordpress-guid=1089
 permalink: /2007-10-04-hattrick-storia-del-club.html
 mytory_md_visits_count:
   - "251"

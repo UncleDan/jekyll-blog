@@ -4,7 +4,7 @@ title: Come installare Invoicex in rete con server Windows MySQL
 date: 2016-11-12T16:07:29+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=2346
+guid: old-wordpress-guid=2346
 permalink: /2016-11-12-come-installare-invoicex-in-rete-con-server-windows-mysql.html
 dsq_thread_id:
   - "6161912748"

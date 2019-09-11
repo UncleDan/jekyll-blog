@@ -4,7 +4,7 @@ title: Mobile Friendly
 date: 2009-10-11T15:45:39+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=459
+guid: old-wordpress-guid=459
 permalink: /2009-10-11-mobile-friendly.html
 mytory_md_visits_count:
   - "49"
@@ -15,4 +15,4 @@ categories:
   * **<a href="http://www.google.it/" target="_self">Google</a>**
   * **<a href="http://m.ebuddy.com/" target="_self">e-buddy</a>**
   * **Nova Basket**
-  * **<a href="https://www.uncledan.it/?mobile" target="_self">UncleDan</a>**
+  * **<a href="/" target="_self">UncleDan</a>**

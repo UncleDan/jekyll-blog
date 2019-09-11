@@ -4,7 +4,7 @@ title: 2007/2008 Nova Basket Castenaso
 date: 2007-12-14T12:36:36+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/blog/?page_id=88
+guid: old-wordpress-guid=88
 mytory_md_visits_count:
   - "18"
 ---
@@ -17,7 +17,7 @@ mytory_md_visits_count:
 </p>
 
 <p style="text-align: center;">
-  <a title="Foto Nova Basket n. 1" href="https://www.uncledan.it/wp-content/uploads/2007/12/08122007230.jpg"><img title="Foto Nova Basket n. 1" src="https://www.uncledan.it/wp-content/uploads/2007/12/08122007230.jpg" alt="Foto Nova Basket n. 1" width="400" height="300" /></a>
+  <a title="Foto Nova Basket n. 1" href="/wp-content/uploads/2007/12/08122007230.jpg"><img title="Foto Nova Basket n. 1" src="/wp-content/uploads/2007/12/08122007230.jpg" alt="Foto Nova Basket n. 1" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -25,7 +25,7 @@ mytory_md_visits_count:
 </p>
 
 <p style="text-align: center;">
-  <a title="Foto Nova Basket n. 2" href="https://www.uncledan.it/wp-content/uploads/2007/12/08122007232.jpg"><img title="Foto Nova Basket n. 2" src="https://www.uncledan.it/wp-content/uploads/2007/12/08122007232.jpg" alt="Foto Nova Basket n. 2" width="400" height="300" /></a>
+  <a title="Foto Nova Basket n. 2" href="/wp-content/uploads/2007/12/08122007232.jpg"><img title="Foto Nova Basket n. 2" src="/wp-content/uploads/2007/12/08122007232.jpg" alt="Foto Nova Basket n. 2" width="400" height="300" /></a>
 </p>
 
 <p style="text-align: justify;">

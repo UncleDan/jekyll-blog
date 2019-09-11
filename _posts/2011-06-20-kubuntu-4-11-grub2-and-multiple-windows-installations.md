@@ -4,7 +4,7 @@ title: 'Kubuntu 4.11: GRUB2 and multiple Windows installations'
 date: 2011-06-20T19:28:59+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1420
+guid: old-wordpress-guid=1420
 permalink: /2011-06-20-kubuntu-4-11-grub2-and-multiple-windows-installations.html
 mytory_md_visits_count:
   - "193"
@@ -91,7 +91,7 @@ Save everything and reboot.
 
 You&#8217;re done.
 
-While I was there I made two small changes useful in my case: it is said to serve to you, but now that I have come this far, might as well say a few more lines, no? ![:-)](https://www.uncledan.it/wp-includes/images/smilies/icon_smile.gif)
+While I was there I made two small changes useful in my case: it is said to serve to you, but now that I have come this far, might as well say a few more lines, no? ![:-)](/wp-content/uploads/icon_smile.gif)
 
 * * *
 

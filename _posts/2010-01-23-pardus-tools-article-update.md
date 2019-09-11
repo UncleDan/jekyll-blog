@@ -4,7 +4,7 @@ title: Pardus Tools Update
 date: 2010-01-23T14:38:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=604
+guid: old-wordpress-guid=604
 permalink: /2010-01-23-pardus-tools-article-update.html
 mytory_md_visits_count:
   - "126"

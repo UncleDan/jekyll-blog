@@ -4,7 +4,7 @@ title: 'Nuovo &#8220;parco giochi&#8221;'
 date: 2008-05-10T17:24:47+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=100
+guid: old-wordpress-guid=100
 permalink: /2008-05-10-nuovo-parco-giochi.html
 mytory_md_visits_count:
   - "56"

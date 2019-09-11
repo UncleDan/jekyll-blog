@@ -4,7 +4,7 @@ title: MaestroLandia
 date: 2008-11-10T11:59:49+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=126
+guid: old-wordpress-guid=126
 permalink: /2008-11-10-maestrolandia-2.html
 mytory_md_visits_count:
   - "37"

@@ -4,7 +4,7 @@ title: 'Kubuntu 4.11: GRUB2 e installazioni Windows multiple'
 date: 2011-06-16T22:06:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1409
+guid: old-wordpress-guid=1409
 permalink: /2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html
 mytory_md_visits_count:
   - "374"

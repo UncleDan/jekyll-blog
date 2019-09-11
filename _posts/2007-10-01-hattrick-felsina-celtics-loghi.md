@@ -4,7 +4,7 @@ title: 'Felsina Celtics &#8211; Loghi'
 date: 2007-10-01T18:41:54+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1100
+guid: old-wordpress-guid=1100
 permalink: /2007-10-01-hattrick-felsina-celtics-loghi.html
 mytory_md_visits_count:
   - "194"

@@ -4,7 +4,7 @@ title: Protests against SOPA and PIPA
 date: 2012-01-21T19:18:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1598
+guid: old-wordpress-guid=1598
 permalink: /2012-01-21-protests-against-sopa-and-pipa.html
 mytory_md_visits_count:
   - "44"

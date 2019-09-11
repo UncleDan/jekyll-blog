@@ -4,7 +4,7 @@ title: Condividere lo spazio di swap tra Linux e Windows
 date: 2014-12-24T14:06:19+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1944
+guid: old-wordpress-guid=1944
 permalink: /2014-12-24-condividere-lo-spazio-di-swap-tra-linux-e-windows.html
 mytory_md_visits_count:
   - "202"

@@ -4,7 +4,7 @@ title: Programmi essenziali freeware o open source per Windows 7 (64-bit)
 date: 2017-07-14T10:13:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=2485
+guid: old-wordpress-guid=2485
 permalink: /2017-07-14-programmi-essenziali-freeware-o-open-source-per-windows-7-64-bit.html
 mytory_md_visits_count:
   - "272"

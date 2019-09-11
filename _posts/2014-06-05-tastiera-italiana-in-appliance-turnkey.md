@@ -4,7 +4,7 @@ title: Tastiera italiana in appliance Turnkey
 date: 2014-06-05T20:00:16+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1803
+guid: old-wordpress-guid=1803
 permalink: /2014-06-05-tastiera-italiana-in-appliance-turnkey.html
 mytory_md_visits_count:
   - "54"

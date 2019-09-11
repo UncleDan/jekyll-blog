@@ -4,7 +4,7 @@ title: Pardus Tools
 date: 2009-04-04T10:46:08+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1269
+guid: old-wordpress-guid=1269
 permalink: /2009-04-04-pardus-tools.html
 dsq_thread_id:
   - "6164294117"

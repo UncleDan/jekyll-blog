@@ -4,7 +4,7 @@ title: How To Backup Your Android Phone’s Boot, Recovery And System Partition 
 date: 2012-01-22T21:51:43+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1605
+guid: old-wordpress-guid=1605
 permalink: /2012-01-22-how-to-backup-your-android-phones-boot-recovery-and-system-partition-images.html
 mytory_md_visits_count:
   - "35"

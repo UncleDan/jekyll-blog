@@ -4,7 +4,7 @@ title: Come creare un server PXE per tutte le esigenze (Ubuntu 14.04.5)
 date: 2014-08-23T09:52:59+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1861
+guid: old-wordpress-guid=1861
 permalink: /2014-08-23-come-creare-un-server-pxe-per-tutte-le-esigenze-ubuntu-14-04.html
 dsq_thread_id:
   - "6158418475"

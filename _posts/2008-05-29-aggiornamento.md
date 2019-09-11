@@ -4,7 +4,7 @@ title: Aggiornamento WordPress
 date: 2008-05-29T12:28:19+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=103
+guid: old-wordpress-guid=103
 permalink: /2008-05-29-aggiornamento.html
 mytory_md_visits_count:
   - "53"

@@ -4,7 +4,7 @@ title: Ultima fatica “Pardusiana”
 date: 2010-08-25T22:41:49+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=734
+guid: old-wordpress-guid=734
 permalink: /2010-08-25-ultima-fatica-pardusiana.html
 mytory_md_visits_count:
   - "48"

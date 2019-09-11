@@ -4,7 +4,7 @@ title: 'Pian piano&#8230;'
 date: 2007-10-13T16:03:06+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=64
+guid: old-wordpress-guid=64
 permalink: /2007-10-13-pian-piano.html
 mytory_md_visits_count:
   - "57"

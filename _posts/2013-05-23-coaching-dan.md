@@ -4,7 +4,7 @@ title: Coaching Dan
 date: 2013-05-23T12:09:18+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1729
+guid: old-wordpress-guid=1729
 permalink: /2013-05-23-coaching-dan.html
 mytory_md_visits_count:
   - "47"

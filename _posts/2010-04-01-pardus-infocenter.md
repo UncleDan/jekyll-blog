@@ -4,7 +4,7 @@ title: Pardus Infocenter
 date: 2010-04-01T18:43:26+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=620
+guid: old-wordpress-guid=620
 permalink: /2010-04-01-pardus-infocenter.html
 categories:
   - Pardus

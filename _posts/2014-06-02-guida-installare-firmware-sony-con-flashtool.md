@@ -4,7 +4,7 @@ title: '[GUIDA] Installare firmware Sony con Flashtool'
 date: 2014-06-02T21:34:30+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1800
+guid: old-wordpress-guid=1800
 permalink: /2014-06-02-guida-installare-firmware-sony-con-flashtool.html
 mytory_md_visits_count:
   - "45"

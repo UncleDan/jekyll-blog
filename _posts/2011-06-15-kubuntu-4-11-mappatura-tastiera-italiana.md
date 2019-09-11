@@ -4,7 +4,7 @@ title: 'Kubuntu 4.11: mappatura tastiera italiana'
 date: 2011-06-15T20:14:06+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1391
+guid: old-wordpress-guid=1391
 permalink: /2011-06-15-kubuntu-4-11-mappatura-tastiera-italiana.html
 mytory_md_visits_count:
   - "116"

@@ -4,7 +4,7 @@ title: 'Setting up an Android Build Server –  Part 3: Installing the Android S
 date: 2012-04-25T15:23:28+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1654
+guid: old-wordpress-guid=1654
 permalink: /2012-04-25-setting-up-an-android-build-server-part-3-installing-the-android-sdk-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures.html
 mytory_md_visits_count:
   - "77"

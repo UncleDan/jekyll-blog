@@ -4,7 +4,7 @@ title: Giro di valzer
 date: 2009-03-26T19:38:35+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=139
+guid: old-wordpress-guid=139
 permalink: /2009-03-26-giro-di-valzer.html
 mytory_md_visits_count:
   - "51"

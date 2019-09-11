@@ -4,7 +4,7 @@ title: Upgrade impossibile
 date: 2011-09-03T17:02:22+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1469
+guid: old-wordpress-guid=1469
 permalink: /2011-09-03-upgrade-impossibile.html
 mytory_md_visits_count:
   - "50"

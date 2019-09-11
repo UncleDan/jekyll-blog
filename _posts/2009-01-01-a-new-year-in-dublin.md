@@ -4,7 +4,7 @@ title: A New Year in Dublin
 date: 2009-01-01T02:30:32+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1012
+guid: old-wordpress-guid=1012
 permalink: /2009-01-01-a-new-year-in-dublin.html
 mytory_md_visits_count:
   - "41"

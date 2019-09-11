@@ -4,7 +4,7 @@ title: fb-Connect
 date: 2009-09-05T15:34:17+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=427
+guid: old-wordpress-guid=427
 permalink: /2009-09-05-fb-connect.html
 mytory_md_visits_count:
   - "68"

@@ -4,7 +4,7 @@ title: 'Setting up an Android Build Server – Part 4: Communicating With Github
 date: 2012-04-25T19:52:34+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1661
+guid: old-wordpress-guid=1661
 permalink: /2012-04-25-setting-up-an-android-build-server-part-4-communicating-with-github-donn-felker.html
 mytory_md_visits_count:
   - "58"

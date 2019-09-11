@@ -4,7 +4,7 @@ title: MyIP
 date: 2017-08-01T16:36:35+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/?page_id=2492
+guid: old-wordpress-guid=2492
 mytory_md_visits_count:
   - "104"
 ---

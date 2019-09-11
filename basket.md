@@ -4,7 +4,7 @@ title: Basket
 date: 2007-12-14T12:23:42+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/blog/?page_id=87
+guid: old-wordpress-guid=87
 mytory_md_visits_count:
   - "260"
 ---
@@ -19,11 +19,11 @@ mytory_md_visits_count:
 E ora un piccolo _recap_ delle ultime annate di basket reale&#8230;
 
   * **2003/2004** Polisportiva Lame, capo allenatore
-  * **2004/2005** <a href="https://www.uncledan.it/basket/2004-2005-polisportiva-lame/" target="_self">Polisportiva Lame</a>, capo allenatore
+  * **2004/2005** <a href="/basket/2004-2005-polisportiva-lame/" target="_self">Polisportiva Lame</a>, capo allenatore
   * **2005/2006** Polisportiva Lame, capo allenatore
-  * **2006/2007** <a href="https://www.uncledan.it/basket/2006-2007-polisportiva-lame/" target="_self">Polisportiva Lame</a>, vice allenatore
-  * **2007/2008** <a href="https://www.uncledan.it/basket/2007-2008-nova-basket-castenaso/" target="_self">Nova Basket Castenaso</a>, capo allenatore
-  * **2008/2009** <a href="https://www.uncledan.it/basket/2008-2009-nova-basket-castenaso/" target="_self">Nova Basket Castenaso</a>, allenatore part-time
+  * **2006/2007** <a href="/basket/2006-2007-polisportiva-lame/" target="_self">Polisportiva Lame</a>, vice allenatore
+  * **2007/2008** <a href="/basket/2007-2008-nova-basket-castenaso/" target="_self">Nova Basket Castenaso</a>, capo allenatore
+  * **2008/2009** <a href="/basket/2008-2009-nova-basket-castenaso/" target="_self">Nova Basket Castenaso</a>, allenatore part-time
   * **2009/2010** Nova Basket Castenaso, giocatore
   * **2010/2011** Nova Basket Castenaso, giocatore
   * **2011/2012** Nova Basket Castenaso, giocatore

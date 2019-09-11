@@ -4,7 +4,7 @@ title: Progetti
 date: 2014-12-05T16:10:35+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
-guid: https://www.uncledan.it/?page_id=1927
+guid: old-wordpress-guid=1927
 mytory_md_visits_count:
   - "38"
 ---

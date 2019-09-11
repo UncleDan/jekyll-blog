@@ -4,7 +4,7 @@ title: Chromizziamo Firefox
 date: 2009-12-11T23:34:41+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=572
+guid: old-wordpress-guid=572
 permalink: /2009-12-11-chromizziamo-firefox.html
 mytory_md_visits_count:
   - "42"

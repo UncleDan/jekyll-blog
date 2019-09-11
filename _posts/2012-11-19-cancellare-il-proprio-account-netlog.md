@@ -4,7 +4,7 @@ title: Cancellare il proprio account Netlog
 date: 2012-11-19T08:31:57+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1691
+guid: old-wordpress-guid=1691
 permalink: /2012-11-19-cancellare-il-proprio-account-netlog.html
 mytory_md_visits_count:
   - "53"

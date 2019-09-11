@@ -4,7 +4,7 @@ title: Buona Pasqua
 date: 2008-03-20T19:17:03+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/blog/?p=93
+guid: old-wordpress-guid=93
 permalink: /2008-03-20-buona-pasqua.html
 mytory_md_visits_count:
   - "56"

@@ -4,7 +4,7 @@ title: 'Setting up an Android Build Server – Part 2: Installing Hudson « Donn
 date: 2012-04-25T15:20:32+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1652
+guid: old-wordpress-guid=1652
 permalink: /2012-04-25-setting-up-an-android-build-server-part-2-installing-hudson-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tec.html
 mytory_md_visits_count:
   - "52"

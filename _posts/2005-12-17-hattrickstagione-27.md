@@ -4,7 +4,7 @@ title: Stagione 27
 date: 2005-12-17T14:00:52+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1041
+guid: old-wordpress-guid=1041
 permalink: /2005-12-17-hattrickstagione-27.html
 mytory_md_visits_count:
   - "35"

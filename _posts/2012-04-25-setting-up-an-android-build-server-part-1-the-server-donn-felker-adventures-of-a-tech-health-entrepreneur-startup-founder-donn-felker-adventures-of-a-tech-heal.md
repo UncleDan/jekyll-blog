@@ -4,7 +4,7 @@ title: 'Setting up an Android Build Server – Part 1: The Server « Donn Felker
 date: 2012-04-25T15:19:43+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1650
+guid: old-wordpress-guid=1650
 permalink: /2012-04-25-setting-up-an-android-build-server-part-1-the-server-donn-felker-adventures-of-a-tech-health-entrepreneur-startup-founder-donn-felker-adventures-of-a-tech-heal.html
 mytory_md_visits_count:
   - "35"

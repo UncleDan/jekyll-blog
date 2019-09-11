@@ -4,7 +4,7 @@ title: Stagione 28
 date: 2006-04-08T14:00:33+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1047
+guid: old-wordpress-guid=1047
 permalink: /2006-04-08-hattrickstagione-28.html
 mytory_md_visits_count:
   - "34"

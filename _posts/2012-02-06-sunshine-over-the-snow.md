@@ -4,7 +4,7 @@ title: Sunshine over the snow.
 date: 2012-02-06T14:46:10+00:00
 author: Daniele Lolli (UncleDan)
 layout: post
-guid: https://www.uncledan.it/?p=1608
+guid: old-wordpress-guid=1608
 permalink: /2012-02-06-sunshine-over-the-snow.html
 mytory_md_visits_count:
   - "44"
