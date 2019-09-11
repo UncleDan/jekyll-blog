@@ -16,4 +16,4 @@ tags:
 ---
 In realtà ho già detto quasi tutto nell&#8217;introduzione, quindi visto che (come si suol dire) un&#8217;immagine vale più di mille parole, eccovi una bella screenshot _(ri-edit 2011, ndr)_.
 
-[![Felsina Celtics - Storia del Club](/wp-content/uploads/2007/10/storia-del-club.png)](/wp-content/uploads/2007/10/hattrick_1191148404171.png "Felsina Celtics - Storia del Club")
+[![Felsina Celtics - Storia del Club](/uploads/2007/10/storia-del-club.png)](/uploads/2007/10/hattrick_1191148404171.png "Felsina Celtics - Storia del Club")

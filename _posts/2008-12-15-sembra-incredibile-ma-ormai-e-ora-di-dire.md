@@ -16,7 +16,7 @@ tags:
   - natale
 ---
 <p style="text-align: center;">
-  <a href="/wp-content/uploads/2008/12/buon-natale-in-tutte-le-lingue.jpg"><img class="size-medium wp-image-134 alignnone" title="buon-natale-in-tutte-le-lingue" src="/wp-content/uploads/2008/12/buon-natale-in-tutte-le-lingue-300x300.jpg" alt="" width="300" height="300" /></a>
+  <a href="/uploads/2008/12/buon-natale-in-tutte-le-lingue.jpg"><img class="size-medium wp-image-134 alignnone" title="buon-natale-in-tutte-le-lingue" src="/uploads/2008/12/buon-natale-in-tutte-le-lingue-300x300.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: center;">

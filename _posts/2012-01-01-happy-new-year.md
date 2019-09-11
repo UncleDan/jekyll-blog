@@ -48,7 +48,7 @@ tags:
   - نايا سال مبارک هو
 ---
 <p style="text-align: center;">
-  <img class="alignnone aligncenter" title="Happy New Year 2012!" src="/wp-content/uploads/2012/01/HAPPY-NEW-YEAR-2012-BEAUTIFUL-600px.jpeg" alt="Happy-New-Year-2012" width="600" height="402" />
+  <img class="alignnone aligncenter" title="Happy New Year 2012!" src="/uploads/2012/01/HAPPY-NEW-YEAR-2012-BEAUTIFUL-600px.jpeg" alt="Happy-New-Year-2012" width="600" height="402" />
 </p>
 
 &nbsp;

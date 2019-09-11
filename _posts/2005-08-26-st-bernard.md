@@ -8,7 +8,7 @@ guid: old-wordpress-guid=1007
 permalink: /2005-08-26-st-bernard.html
 mytory_md_visits_count:
   - "39"
-image: /wp-content/uploads/2011/05/26-Aout-2005_011_TN.png
+image: /uploads/2011/05/26-Aout-2005_011_TN.png
 categories:
   - Photography
 tags:
@@ -18,4 +18,4 @@ tags:
 ---
 © 2005-2011 Uncledan &#8211; 26/08/2005
   
-<a title="St. Bernard" href="/wp-content/uploads/2011/05/26-Aout-2005_011.jpg" target="_blank">[Full size]</a>
+<a title="St. Bernard" href="/uploads/2011/05/26-Aout-2005_011.jpg" target="_blank">[Full size]</a>

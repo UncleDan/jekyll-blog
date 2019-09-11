@@ -38,31 +38,31 @@ _**In parole:**_
     <figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/01youtube.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/01youtube-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/01youtube.png'><img width="150" height="150" src="/uploads/2011/10/01youtube-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/02search.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/02search-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/02search.png'><img width="150" height="150" src="/uploads/2011/10/02search-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/03see.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/03see-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/03see.png'><img width="150" height="150" src="/uploads/2011/10/03see-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/04share.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/04share-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/04share.png'><img width="150" height="150" src="/uploads/2011/10/04share-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/05login.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/05login-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/05login.png'><img width="150" height="150" src="/uploads/2011/10/05login-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/06comment.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/06comment-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/06comment.png'><img width="150" height="150" src="/uploads/2011/10/06comment-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure><figure class='gallery-item'> 
     
     <div class='gallery-icon landscape'>
-      <a href='/wp-content/uploads/2011/10/07done.png'><img width="150" height="150" src="/wp-content/uploads/2011/10/07done-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/uploads/2011/10/07done.png'><img width="150" height="150" src="/uploads/2011/10/07done-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </div></figure>
   </div>
 </div>

@@ -14,7 +14,7 @@ mytory_md_mode:
   - url
 mytory_md_visits_count:
   - "157"
-image: /wp-content/uploads/2018/04/2018-04-13-009-my-first-jekyll-site.png
+image: /uploads/2018/04/2018-04-13-009-my-first-jekyll-site.png
 categories:
   - Linux
   - PC

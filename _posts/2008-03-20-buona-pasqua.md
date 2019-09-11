@@ -15,5 +15,5 @@ tags:
   - buona pasqua
 ---
 <p style="text-align: center;">
-  <img src="/wp-content/uploads/2008/03/easter_egg_284x271.jpg" alt="" border="0" /><br /> <img title="Buona Pasqua!" src="/wp-content/uploads/2008/03/buonapasqua1.png" alt="Buona Pasqua!" border="0" /><br /> (thanks to Homo Noeticus [;)] )
+  <img src="/uploads/2008/03/easter_egg_284x271.jpg" alt="" border="0" /><br /> <img title="Buona Pasqua!" src="/uploads/2008/03/buonapasqua1.png" alt="Buona Pasqua!" border="0" /><br /> (thanks to Homo Noeticus [;)] )
 </p>

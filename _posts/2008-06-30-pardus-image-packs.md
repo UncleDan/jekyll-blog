@@ -14,7 +14,7 @@ tags:
   - image pack
   - pardus
 ---
-_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/wp-content/uploads/2009/03/uk-flag-xsmall.gif" alt="uk-flag-xsmall" width="20" height="15" />Only English version available._
+_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/uploads/2009/03/uk-flag-xsmall.gif" alt="uk-flag-xsmall" width="20" height="15" />Only English version available._
 
 This is an image pack collection for the online game <a href="http://www.pardus.at/" target="_blank"><span style="font-weight: bold;">Pardus</span></a>. I made it originally for personal use, but then I decided I won&#8217;t be bothered if someone else uses it.
 
@@ -63,7 +63,7 @@ I think that&#8217;s all, now&#8230; have fun!
     </td>
     
     <td>
-      <span style="font-weight: bold;">Pardus Official Image Pack</span> (experience gain shown on NPCs, this is my only real mod &#8211; <strong><a href="/wp-content/uploads/2008/06/opponents_xp.zip">ZIP of opponents Classic with experience shown</a></strong>)
+      <span style="font-weight: bold;">Pardus Official Image Pack</span> (experience gain shown on NPCs, this is my only real mod &#8211; <strong><a href="/uploads/2008/06/opponents_xp.zip">ZIP of opponents Classic with experience shown</a></strong>)
     </td>
   </tr>
   

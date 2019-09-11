@@ -8,7 +8,7 @@ guid: old-wordpress-guid=1496
 permalink: /2011-11-30-come-rendere-wordpress-mobile-in-15-minuti.html
 mytory_md_visits_count:
   - "39"
-image: /wp-content/uploads/2011/11/qr_uncledan-it.png
+image: /uploads/2011/11/qr_uncledan-it.png
 categories:
   - Web
 tags:

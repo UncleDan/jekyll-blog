@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 32 - Classifica](/wp-content/uploads/2007/10/32-1-classifica.png)
+![Stagione 32 - Classifica](/uploads/2007/10/32-1-classifica.png)
 
-![Stagione 32 - Calendario](/wp-content/uploads/2007/10/32-2-calendario.png)
+![Stagione 32 - Calendario](/uploads/2007/10/32-2-calendario.png)
 
-![Stagione 32 - Marcatori](/wp-content/uploads/2007/10/32-3-marcatori.png)
+![Stagione 32 - Marcatori](/uploads/2007/10/32-3-marcatori.png)

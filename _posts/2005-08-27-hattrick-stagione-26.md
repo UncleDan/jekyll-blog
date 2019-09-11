@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 26 - Classifica](/wp-content/uploads/2007/10/26-1-classifica.png)
+![Stagione 26 - Classifica](/uploads/2007/10/26-1-classifica.png)
 
-![Stagione 26 - Calendario](/wp-content/uploads/2007/10/26-2-calendario.png)
+![Stagione 26 - Calendario](/uploads/2007/10/26-2-calendario.png)
 
-![Stagione 26 - Marcatori](/wp-content/uploads/2007/10/26-3-marcatori.png)
+![Stagione 26 - Marcatori](/uploads/2007/10/26-3-marcatori.png)

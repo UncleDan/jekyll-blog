@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 33 - Classifica](/wp-content/uploads/2007/10/33-1-classifica.png)
+![Stagione 33 - Classifica](/uploads/2007/10/33-1-classifica.png)
 
-![Stagione 33 - Calendario](/wp-content/uploads/2007/10/33-2-calendario.png)
+![Stagione 33 - Calendario](/uploads/2007/10/33-2-calendario.png)
 
-![Stagione 33 - marcatori](/wp-content/uploads/2007/10/33-3-marcatori.png)
+![Stagione 33 - marcatori](/uploads/2007/10/33-3-marcatori.png)

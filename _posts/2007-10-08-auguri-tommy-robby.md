@@ -17,5 +17,5 @@ tags:
   - tommy
 ---
 <p style="text-align: center">
-  <img title="Auguri Tommy & Robby!" src="/wp-content/uploads/2009/03/tommyrobby2.png" border="0" alt="Auguri Tommy & Robby!" width="290" height="402" />
+  <img title="Auguri Tommy & Robby!" src="/uploads/2009/03/tommyrobby2.png" border="0" alt="Auguri Tommy & Robby!" width="290" height="402" />
 </p>

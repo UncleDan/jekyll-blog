@@ -8,7 +8,7 @@ guid: old-wordpress-guid=992
 permalink: /2009-12-28-snowy-night-in-bologna.html
 mytory_md_visits_count:
   - "47"
-image: /wp-content/uploads/2009/12/2009-12-18-P1010100-TN.png
+image: /uploads/2009/12/2009-12-18-P1010100-TN.png
 categories:
   - Photography
 tags:

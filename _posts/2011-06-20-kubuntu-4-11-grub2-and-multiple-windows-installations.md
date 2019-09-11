@@ -20,7 +20,7 @@ tags:
   - windows
 ---
 <p style="text-align: right;">
-  <small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html">Versione Italiana</a> </strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html"><img class="alignnone size-full wp-image-149" title="it-flag-xsmall" src="/wp-content/uploads/2009/03/it-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
+  <small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html">Versione Italiana</a> </strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 e installazioni Windows multiple - Versione Italiana" href="/2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html"><img class="alignnone size-full wp-image-149" title="it-flag-xsmall" src="/uploads/2009/03/it-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
 </p>
 
 <p style="text-align: justify;">
@@ -91,7 +91,7 @@ Save everything and reboot.
 
 You&#8217;re done.
 
-While I was there I made two small changes useful in my case: it is said to serve to you, but now that I have come this far, might as well say a few more lines, no? ![:-)](/wp-content/uploads/icon_smile.gif)
+While I was there I made two small changes useful in my case: it is said to serve to you, but now that I have come this far, might as well say a few more lines, no? ![:-)](/uploads/icon_smile.gif)
 
 * * *
 
@@ -121,7 +121,7 @@ Now I think it&#8217;s everything. The next solution!
 * * *
 
 <p style="text-align: center;">
-  <a title="grub.cfg.ORIGINAL" href="wp-content/uploads/2011/06/grub.cfg_.ORIGINAL.txt" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="/wp-content/uploads/2011/06/grub.cfg_.txt>grub.cfg</a> | <a title="Partitions" href="/wp-content/uploads/2011/06/screenshot.png" target="_blank"><em>Partitions</em></a>
+  <a title="grub.cfg.ORIGINAL" href="wp-content/uploads/2011/06/grub.cfg_.ORIGINAL.txt" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="/uploads/2011/06/grub.cfg_.txt>grub.cfg</a> | <a title="Partitions" href="/uploads/2011/06/screenshot.png" target="_blank"><em>Partitions</em></a>
 </p>
 
 <p style="text-align: center;">

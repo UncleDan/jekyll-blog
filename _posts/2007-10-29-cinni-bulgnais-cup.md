@@ -16,6 +16,6 @@ tags:
 ---
 ### **Giovanili &#8211; Primo esperimento**
   
-![Giovanili - Stagione 1 - Classifica](/wp-content/uploads/2007/10/cinni1-classifica.png)
+![Giovanili - Stagione 1 - Classifica](/uploads/2007/10/cinni1-classifica.png)
 
-![Giovanili - Stagione 1 - Calendario](/wp-content/uploads/2007/10/cinni2-calendario.png)
+![Giovanili - Stagione 1 - Calendario](/uploads/2007/10/cinni2-calendario.png)

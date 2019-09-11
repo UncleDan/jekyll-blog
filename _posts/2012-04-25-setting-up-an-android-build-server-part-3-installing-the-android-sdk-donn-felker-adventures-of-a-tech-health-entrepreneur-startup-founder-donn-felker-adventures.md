@@ -127,7 +127,7 @@ wget http://dl.google.com/android/android-sdk_r07-linux_x86.tgz</pre>
 > 
 > This will start the Android SDK manager and it will look something like this:
 > 
-> [<img title="Screen shot 2010-10-22 at 1.31.32 PM" src="http://blog.donnfelker.com/wp-content/uploads/2010/10/Screen-shot-2010-10-22-at-1.31.32-PM-300x173.png" alt="" width="300" height="173" />](http://blog.donnfelker.com/wp-content/uploads/2010/10/Screen-shot-2010-10-22-at-1.31.32-PM.png)
+> [<img title="Screen shot 2010-10-22 at 1.31.32 PM" src="http://blog.donnfelker.com/uploads/2010/10/Screen-shot-2010-10-22-at-1.31.32-PM-300x173.png" alt="" width="300" height="173" />](http://blog.donnfelker.com/uploads/2010/10/Screen-shot-2010-10-22-at-1.31.32-PM.png)
 > 
 > Notice how the screens resemble the X Window system? This is because your tunneling the windows from a headless server down to your local machine.
 > 

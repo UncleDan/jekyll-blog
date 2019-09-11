@@ -8,7 +8,7 @@ guid: old-wordpress-guid=984
 permalink: /2011-05-28-iac-infocenter.html
 mytory_md_visits_count:
   - "47"
-image: /wp-content/uploads/2011/05/IACS_Infocenter_Screenshot.png
+image: /uploads/2011/05/IACS_Infocenter_Screenshot.png
 categories:
   - Pardus
 tags:

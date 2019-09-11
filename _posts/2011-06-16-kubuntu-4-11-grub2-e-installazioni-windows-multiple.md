@@ -8,7 +8,7 @@ guid: old-wordpress-guid=1409
 permalink: /2011-06-16-kubuntu-4-11-grub2-e-installazioni-windows-multiple.html
 mytory_md_visits_count:
   - "374"
-image: /wp-content/uploads/2011/06/screenshot.png
+image: /uploads/2011/06/screenshot.png
 categories:
   - PC
 tags:
@@ -21,7 +21,7 @@ tags:
   - windows
 ---
 <p style="text-align: right;">
-  <small><em><strong><a title="Kubuntu 4.11: GRUB2 and multiple Windows installations - English Version" href="/2011-06-20-kubuntu-4-11-grub2-and-multiple-windows-installations.html">English Version </a></strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 and multiple Windows installations - English Version" href="/2011-06-20-kubuntu-4-11-grub2-and-multiple-windows-installations.html"><img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/wp-content/uploads/2009/03/uk-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
+  <small><em><strong><a title="Kubuntu 4.11: GRUB2 and multiple Windows installations - English Version" href="/2011-06-20-kubuntu-4-11-grub2-and-multiple-windows-installations.html">English Version </a></strong></em></small><em><strong><a title="Kubuntu 4.11: GRUB2 and multiple Windows installations - English Version" href="/2011-06-20-kubuntu-4-11-grub2-and-multiple-windows-installations.html"><img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/uploads/2009/03/uk-flag-xsmall.gif" alt="" width="20" height="15" /></a> </strong></em>
 </p>
 
 <p style="text-align: justify;">
@@ -122,7 +122,7 @@ Adesso penso che sia proprio tutto. Alla prossima soluzione!
 * * *
 
 <p style="text-align: center;">
-  <a title="grub.cfg.ORIGINAL" href="/wp-content/uploads/2011/06/grub.cfg_.ORIGINAL.txt" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="/wp-content/uploads/2011/06/grub.cfg_.txt" target="_blank">grub.cfg</a> | <em><a title="Partitions" href="/wp-content/uploads/2011/06/screenshot.png" target="_blank">Partitions</a></em>
+  <a title="grub.cfg.ORIGINAL" href="/uploads/2011/06/grub.cfg_.ORIGINAL.txt" target="_blank">grub.cfg.ORIGINAL</a> | <a title="grub.cfg" href="/uploads/2011/06/grub.cfg_.txt" target="_blank">grub.cfg</a> | <em><a title="Partitions" href="/uploads/2011/06/screenshot.png" target="_blank">Partitions</a></em>
 </p>
 
 * * *

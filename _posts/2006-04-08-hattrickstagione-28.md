@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 28 - Classifica](/wp-content/uploads/2007/10/28-1-classifica.png)
+![Stagione 28 - Classifica](/uploads/2007/10/28-1-classifica.png)
 
-![Stagione 28 - Calendario](/wp-content/uploads/2007/10/28-2-calendario.png)
+![Stagione 28 - Calendario](/uploads/2007/10/28-2-calendario.png)
 
-![Stagione 28 - Marcatori](/wp-content/uploads/2007/10/28-3-marcatori.png)
+![Stagione 28 - Marcatori](/uploads/2007/10/28-3-marcatori.png)

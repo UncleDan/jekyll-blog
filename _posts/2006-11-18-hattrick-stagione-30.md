@@ -14,8 +14,8 @@ tags:
   - felsina celtics
   - hattrick
 ---
-![Stagione 30 - Classifica](/wp-content/uploads/2007/10/30-1-classifica.png)
+![Stagione 30 - Classifica](/uploads/2007/10/30-1-classifica.png)
 
-![Stagione 30 - Calendario](/wp-content/uploads/2007/10/30-2-calendario.png)
+![Stagione 30 - Calendario](/uploads/2007/10/30-2-calendario.png)
 
-![Stagione 30 - Marcatori](/wp-content/uploads/2007/10/30-3-marcatori.png)
+![Stagione 30 - Marcatori](/uploads/2007/10/30-3-marcatori.png)

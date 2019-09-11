@@ -19,5 +19,5 @@ tags:
 Nuova versione:
 
 <h3 style="text-align: center;">
-  <a href="/wp-content/uploads/2011/05/osticketplus_1.6.0_139.zip">osticketplus_1.6.0_139</a>
+  <a href="/uploads/2011/05/osticketplus_1.6.0_139.zip">osticketplus_1.6.0_139</a>
 </h3>

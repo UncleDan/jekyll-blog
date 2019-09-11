@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p align="center">
-  <img title="San Petronio" src="/wp-content/uploads/2007/10/sanpetronio.png" border="0" alt="San Petronio" />
+  <img title="San Petronio" src="/uploads/2007/10/sanpetronio.png" border="0" alt="San Petronio" />
 </p>
 
 <p align="justify">

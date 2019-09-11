@@ -44,29 +44,29 @@ Il primo scoglio è stato il driver del controller SATA dei dischi: è molto par
 
 Avviata l&#8217;installazione sulla partizione dove già risiedeva XP, senza alcun download possibile, l&#8217;installazione è terminata con un paio di riavvii e senza particolari problemi. Ecco il risultato&#8230; niente male
 
-<img src="/wp-content/uploads/2014/08/Immagine1.png" alt="Immagine1.png" width="800" height="600" />
+<img src="/uploads/2014/08/Immagine1.png" alt="Immagine1.png" width="800" height="600" />
 
 Il punto interrogativo sul _TOSHIBA Virtual Device SCSI Processor Drive_ può essere facilmente risolto fornendo la &#8220;seconda parte&#8221; del driver precedentemente estratto.
   
-[<img class="alignnone size-full wp-image-1854" src="/wp-content/uploads/2014/08/virtual.png" alt="virtual" width="530" height="486" srcset="/wp-content/uploads/2014/08/virtual.png 530w, /wp-content/uploads/2014/08/virtual-300x275.png 300w" sizes="(max-width: 530px) 100vw, 530px" />](/wp-content/uploads/2014/08/virtual.png)
+[<img class="alignnone size-full wp-image-1854" src="/uploads/2014/08/virtual.png" alt="virtual" width="530" height="486" srcset="/uploads/2014/08/virtual.png 530w, /uploads/2014/08/virtual-300x275.png 300w" sizes="(max-width: 530px) 100vw, 530px" />](/uploads/2014/08/virtual.png)
 
 ## 2 &#8211; Scheda Video NVIDIA GeForce Go 6600
 
 Anche per la scheda video può (almeno in prima battuta) essere fornito il driver estratto dall&#8217;installazione XP: in realtà l&#8217;accelerazione hardware non mi pare attiva ma almeno ci consentirà di impostare la risoluzione video 1440&#215;900. Poi vedremo se si può fare di meglio. _(EDIT: effettivamente cercando in rete ho trovato un <a title="driverscape.com" href="http://www.driverscape.com/download/nvidia-geforce-go-6600" target="_blank">driver più recente</a> e nettamente più performante)_.
   
-[<img class="alignnone size-full wp-image-1852" src="/wp-content/uploads/2014/08/video.png" alt="video" width="187" height="37" />](/wp-content/uploads/2014/08/video.png)
+[<img class="alignnone size-full wp-image-1852" src="/uploads/2014/08/video.png" alt="video" width="187" height="37" />](/uploads/2014/08/video.png)
 
 ## 3 &#8211; Scheda di rete wireless Intel PRO/Wireless 2200BG
 
 In questo caso, anche se la Intel si premura di avvisarci che Seven non è supportato, il driver per Vista 32 bit funziona ragionevolmente bene (non riesco ancora ad avere una completa individuazione delle reti, ma procedendo con session ID e password la connessione funziona perfettamente.
   
-[<img class="alignnone size-full wp-image-1851" src="/wp-content/uploads/2014/08/wireless.png" alt="wireless" width="326" height="71" srcset="/wp-content/uploads/2014/08/wireless.png 326w, /wp-content/uploads/2014/08/wireless-300x65.png 300w" sizes="(max-width: 326px) 100vw, 326px" />](/wp-content/uploads/2014/08/wireless.png)
+[<img class="alignnone size-full wp-image-1851" src="/uploads/2014/08/wireless.png" alt="wireless" width="326" height="71" srcset="/uploads/2014/08/wireless.png 326w, /uploads/2014/08/wireless-300x65.png 300w" sizes="(max-width: 326px) 100vw, 326px" />](/uploads/2014/08/wireless.png)
 
 ## 4 &#8211; Toshiba PCI DVB-T/Analog Hybrid Tuner
 
 Il _Controller video multimediale_ altro non è che il sintonizzatore. Dato per impossibile che si potesse trovare un driver per Seven, ho tentato la carta del driver XP estratto con Driver Backup! Anche in questo caso il driver pare funzionare (o almeno consente di togliere la periferica dalla lista di quelle sconosciute, perché in realtà non ho nessun software in grado di sfruttarlo installato per ora.)
   
-<span style="color: #ff0000;"><strong><a href="/wp-content/uploads/2014/08/tuner.png"><img class="alignnone size-full wp-image-1850" src="/wp-content/uploads/2014/08/tuner.png" alt="tuner" width="280" height="54" /></a></strong></span>
+<span style="color: #ff0000;"><strong><a href="/uploads/2014/08/tuner.png"><img class="alignnone size-full wp-image-1850" src="/uploads/2014/08/tuner.png" alt="tuner" width="280" height="54" /></a></strong></span>
 
 &nbsp;
 
@@ -74,13 +74,13 @@ Il _Controller video multimediale_ altro non è che il sintonizzatore. Dato per 
 
 Probabilmente anche in questo caso il driver XP estratto dalla precedente installazione era compatibile già di suo, comunque ho preferito riscaricarlo dal <a title="Driver Toshiba Italia" href="http://www.toshiba.it/innovation/download_drivers_bios.jsp?service=IT" target="_blank">sito Toshiba</a> (dove comunque viene indicato funzionante solo fini a XP).
 
-[<img class="alignnone size-full wp-image-1868" src="/wp-content/uploads/2014/08/audio.png" alt="audio" width="282" height="55" />](/wp-content/uploads/2014/08/audio.png)
+[<img class="alignnone size-full wp-image-1868" src="/uploads/2014/08/audio.png" alt="audio" width="282" height="55" />](/uploads/2014/08/audio.png)
 
 ##  6 &#8211; Lettore SD Card
 
 In questo caso l&#8217;installazione del solo driver estratto dall&#8217;installazione non è stata sufficiente, ma ho dovuto installare anche l&#8217;utilità di formattazione SD Card (di per sé inutile in quanto formatta al massimo schede da 2GB!!!) per far funzionare il tutto, L&#8217;ho recuperato, per velocità, dal <a title="Vista on Qosmio G20" href="http://forums.computers.toshiba-europe.com/forums/thread.jspa?threadID=20494" target="_blank">topic sull&#8217;installazione di Vista su Qosmio G20</a> a cui ho già fatto cenno.
 
-[<img class="alignnone size-full wp-image-1870" src="/wp-content/uploads/2014/08/card.png" alt="card" width="373" height="34" srcset="/wp-content/uploads/2014/08/card.png 373w, /wp-content/uploads/2014/08/card-300x27.png 300w" sizes="(max-width: 373px) 100vw, 373px" />](/wp-content/uploads/2014/08/card.png)
+[<img class="alignnone size-full wp-image-1870" src="/uploads/2014/08/card.png" alt="card" width="373" height="34" srcset="/uploads/2014/08/card.png 373w, /uploads/2014/08/card-300x27.png 300w" sizes="(max-width: 373px) 100vw, 373px" />](/uploads/2014/08/card.png)
 
 ## 7 &#8211; Bluetooth Stack
 

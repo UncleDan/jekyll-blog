@@ -158,7 +158,7 @@ sudo dpkg --install /tmp/hudson.deb</pre>
 > 
 > &nbsp;
 > 
-> [<img class="alignleft" style="border-image: initial; border-width: 5px; border-color: black; border-style: solid;" title="hudson" src="http://blog.donnfelker.com/wp-content/uploads/2010/10/hudson-300x209.jpg" alt="" width="300" height="209" />](http://blog.donnfelker.com/wp-content/uploads/2010/10/hudson.jpg)
+> [<img class="alignleft" style="border-image: initial; border-width: 5px; border-color: black; border-style: solid;" title="hudson" src="http://blog.donnfelker.com/uploads/2010/10/hudson-300x209.jpg" alt="" width="300" height="209" />](http://blog.donnfelker.com/uploads/2010/10/hudson.jpg)
 > 
 > &nbsp;
 > 

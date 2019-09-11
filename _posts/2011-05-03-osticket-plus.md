@@ -28,7 +28,7 @@ tags:
 </p>
 
 <h3 style="text-align: center;">
-  <a href="/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip">osticketplus_1.6.0_138</a>
+  <a href="/uploads/2011/05/osticketplus_1.6.0_138.zip">osticketplus_1.6.0_138</a>
 </h3>
 
 _Note: I do not claim any credit on this work, which is GPL as the original osTicket. These are just the latest sources for those not familiar with Launchpad and bzr._
@@ -37,4 +37,4 @@ _Note: I do not claim any credit on this work, which is GPL as the original osTi
 
   * <a href="https://launchpad.net/osticketplus" target="_blank">OSTicket Plus @ Launchpad</a>
   * <a href="http://osticket.com/forums/showthread.php?t=4688&highlight=osticketplus" target="_blank">OSTicket Plus Thread @ osTicket Official Forum</a>
-  * <a href="/wp-content/uploads/2011/05/osticketplus_1.6.0_138.zip" target="_blank">Zip with latest sources <em>(packaged by Uncledan)</em></a>
+  * <a href="/uploads/2011/05/osticketplus_1.6.0_138.zip" target="_blank">Zip with latest sources <em>(packaged by Uncledan)</em></a>

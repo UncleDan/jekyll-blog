@@ -12,7 +12,7 @@ categories:
   - Web
 ---
 <p style="text-align: center;">
-  <a href="/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship.png"><img class="alignnone size-medium wp-image-1599" title="UncleDan’s Corner has gone dark from Wednesday 18 January 2012 at 8-00 until Wednesday 18 January 2012 at 20-00 to protest SOPA-PIPA and Internet Censorship. Learn More Here »" src="/wp-content/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship-300x159.png" alt="" width="300" height="159" /></a>
+  <a href="/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship.png"><img class="alignnone size-medium wp-image-1599" title="UncleDan’s Corner has gone dark from Wednesday 18 January 2012 at 8-00 until Wednesday 18 January 2012 at 20-00 to protest SOPA-PIPA and Internet Censorship. Learn More Here »" src="/uploads/2012/01/protest-SOPA-PIPA-and-Internet-Censorship-300x159.png" alt="" width="300" height="159" /></a>
 </p>
 
 <p style="text-align: center;">

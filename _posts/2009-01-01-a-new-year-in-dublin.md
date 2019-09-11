@@ -8,7 +8,7 @@ guid: old-wordpress-guid=1012
 permalink: /2009-01-01-a-new-year-in-dublin.html
 mytory_md_visits_count:
   - "41"
-image: /wp-content/uploads/2011/05/Capodanno2009-2009-01-01-023036-DAN-P1010241-TN.png
+image: /uploads/2011/05/Capodanno2009-2009-01-01-023036-DAN-P1010241-TN.png
 categories:
   - Photography
 tags:
@@ -19,4 +19,4 @@ tags:
 ---
 © 2009-2011 Uncledan &#8211; 01/01/2009 2:30AM
   
-[<a title="A New Year in Dublin" href="/wp-content/uploads/2011/05/Capodanno2009-2009-01-01-023036-DAN-P1010241.jpg" target="_blank">Full size</a>]
+[<a title="A New Year in Dublin" href="/uploads/2011/05/Capodanno2009-2009-01-01-023036-DAN-P1010241.jpg" target="_blank">Full size</a>]

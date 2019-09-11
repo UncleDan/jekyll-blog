@@ -19,11 +19,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Logo originale.</strong> Questo logo è l&#8217;unico realizzato interamente da me&#8230; e si vede. I tratti incerti e &#8220;pixelati&#8221; dovuti all&#8217;utilizzo del professionalissimo Microsoft® Paint 😀 sono quelli che mi hanno convinto a cambiarlo. L&#8217;idea però era molto carina, con le Due Torri a richiamare la città di Bologna ed il pallone da calcio a sostituire quello da basket. Il resto è &#8220;clonato&#8221; dal logo dei <a title="Boston Celtics" href="http://www.nba.com/celtics/" target="_blank">Boston Celtics</a> 😛<br /> <a title="Felsina Celtics - Logo originale" href="/wp-content/uploads/2007/10/mylogo.gif"></a>
+  <strong>Logo originale.</strong> Questo logo è l&#8217;unico realizzato interamente da me&#8230; e si vede. I tratti incerti e &#8220;pixelati&#8221; dovuti all&#8217;utilizzo del professionalissimo Microsoft® Paint 😀 sono quelli che mi hanno convinto a cambiarlo. L&#8217;idea però era molto carina, con le Due Torri a richiamare la città di Bologna ed il pallone da calcio a sostituire quello da basket. Il resto è &#8220;clonato&#8221; dal logo dei <a title="Boston Celtics" href="http://www.nba.com/celtics/" target="_blank">Boston Celtics</a> 😛<br /> <a title="Felsina Celtics - Logo originale" href="/uploads/2007/10/mylogo.gif"></a>
 </p>
 
 <p style="text-align: center;">
-  <a title="Felsina Celtics - Logo originale" href="/wp-content/uploads/2007/10/mylogo.gif"><img title="Felsina Celtics - Logo originale" src="/wp-content/uploads/2007/10/mylogo.gif" border="0" alt="Felsina Celtics - Logo originale" /></a>
+  <a title="Felsina Celtics - Logo originale" href="/uploads/2007/10/mylogo.gif"><img title="Felsina Celtics - Logo originale" src="/uploads/2007/10/mylogo.gif" border="0" alt="Felsina Celtics - Logo originale" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a title="Felsina Celtics - Logo by papclems" href="/wp-content/uploads/2007/10/paplogotowers_big.gif"><img class="aligncenter" title="Felsina Celtics - Logo by papclems" src="/wp-content/uploads/2007/10/paplogotowers_big.gif" border="0" alt="Felsina Celtics - Logo by papclems" /></a>
+  <a title="Felsina Celtics - Logo by papclems" href="/uploads/2007/10/paplogotowers_big.gif"><img class="aligncenter" title="Felsina Celtics - Logo by papclems" src="/uploads/2007/10/paplogotowers_big.gif" border="0" alt="Felsina Celtics - Logo by papclems" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a title="Logo by MaDFeRReT" href="/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif"><img class="aligncenter" title="Logo by MaDFeRReT" src="/wp-content/uploads/2007/10/madlogotowers_big_transparent.gif" border="0" alt="Logo by MaDFeRReT" /></a>
+  <a title="Logo by MaDFeRReT" href="/uploads/2007/10/madlogotowers_big_transparent.gif"><img class="aligncenter" title="Logo by MaDFeRReT" src="/uploads/2007/10/madlogotowers_big_transparent.gif" border="0" alt="Logo by MaDFeRReT" /></a>
 </p>
 
 ## Altri articoli sui loghi:

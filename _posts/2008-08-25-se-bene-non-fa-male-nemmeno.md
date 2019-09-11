@@ -15,7 +15,7 @@ tags:
   - smettere
 ---
 <p style="text-align: center;">
-  <img src="http://www.easywayitalia.com/wp-content/uploads/due_libri_fumo.jpg" alt="" width="123" height="187" />
+  <img src="http://www.easywayitalia.com/uploads/due_libri_fumo.jpg" alt="" width="123" height="187" />
 </p>
 
 <p style="text-align: center;">

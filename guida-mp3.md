@@ -12,7 +12,7 @@ dsq_thread_id:
 mytory_md_visits_count:
   - "1970"
 ---
-_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/wp-content/uploads/2009/03/it-flag-xsmall.gif" alt="it-flag-xsmall" width="20" height="15" />Disponibile solo in versione Italiana._
+_ <img class="alignnone size-full wp-image-149" title="uk-flag-xsmall" src="/uploads/2009/03/it-flag-xsmall.gif" alt="it-flag-xsmall" width="20" height="15" />Disponibile solo in versione Italiana._
 
 <p style="text-align: center;">
   <strong><big>Guida quintessenziale&#8230;<br /> &#8230;per creare i migliori MP3 sul pianeta!</big></strong>
@@ -137,7 +137,7 @@ Allora qual è questo switch magico?
 
 Ascolta il suono. Meno Meno Alt Meno Preset Spazio Standard.
 
-Per LAME, questa semplice linea di comando rappresenta il valore di migliaia di ore di lavoro degli audiofili, quindi rispettalo  <img class="wp-smiley" src="/wp-content/uploads/icon_smile.gif" alt=":)" />Quello che questo switch fa è creare un MP3 di qualità incredibilmente alta, utilizzando un bit-rate variabile. La maggior parte della musica che codifichi con questo switch sarà ad un bit-rate di 190-200kb/s.
+Per LAME, questa semplice linea di comando rappresenta il valore di migliaia di ore di lavoro degli audiofili, quindi rispettalo  <img class="wp-smiley" src="/uploads/icon_smile.gif" alt=":)" />Quello che questo switch fa è creare un MP3 di qualità incredibilmente alta, utilizzando un bit-rate variabile. La maggior parte della musica che codifichi con questo switch sarà ad un bit-rate di 190-200kb/s.
 
 Non aver paura se non hai alcuna idea di come si usa LAME, o i parametri da linea di comando, e qualsiasi altra cosa, perché è già stato tutto preparato per te. LAME si integra quasi perfettamente con EAC, così ti sembrerà di usare un pacchetto “tutto-in-uno”.
 
@@ -155,7 +155,7 @@ Ecco quindi che vi presento…
 
 #### 1° passo: installare EAC
 
-<img style="border: 0px solid; width: 300px; height: 265px; float: right;" src="/wp-content/uploads/eac1.gif" alt="EAC1" width="300" height="265" border="0" hspace="10" vspace="10" />Utilizzare un buon ripper per estrarre l&#8217;audio dal CD è importante almeno quanto l&#8217;encoder MP3 che usa, se non di più. C&#8217;è solo un ripper che devi considerare seriamente ed è Exact Audio Copy. Il motivo è che EAC usa un <span style="font-style: italic;">secure mode</span> per verificare che le tue estrazioni audio siano copie esatte al 100% del CD originale. Quindi vai a scaricarti <a href="http://www.exactaudiocopy.de/eac6.html" target="_blank">EAC</a> e installalo.
+<img style="border: 0px solid; width: 300px; height: 265px; float: right;" src="/uploads/eac1.gif" alt="EAC1" width="300" height="265" border="0" hspace="10" vspace="10" />Utilizzare un buon ripper per estrarre l&#8217;audio dal CD è importante almeno quanto l&#8217;encoder MP3 che usa, se non di più. C&#8217;è solo un ripper che devi considerare seriamente ed è Exact Audio Copy. Il motivo è che EAC usa un <span style="font-style: italic;">secure mode</span> per verificare che le tue estrazioni audio siano copie esatte al 100% del CD originale. Quindi vai a scaricarti <a href="http://www.exactaudiocopy.de/eac6.html" target="_blank">EAC</a> e installalo.
 
 #### 2° passo: Installare l&#8217;encoder MP3 LAME
 
@@ -171,7 +171,7 @@ Scarica la libreria <a href="ftp://ftp6.nero.com/wnaspi32.dll" target="_blank">N
 
 #### 3° Passo: Download del file di configurazione
 
-<img style="border: 0px solid; width: 300px; height: 267px; float: right;" src="/wp-content/uploads/eac2.gif" alt="EAC3" width="300" height="267" border="0" hspace="10" vspace="10" />Api Exact Audio Copy. Vedrai una schermata come quella a destra. Dal menu a tendina, scegli il drive che vuoi utilizzare con EAC e prendi nota del canale (in inglese <span style="font-style: italic;">Adapter, ndt</span>).
+<img style="border: 0px solid; width: 300px; height: 267px; float: right;" src="/uploads/eac2.gif" alt="EAC3" width="300" height="267" border="0" hspace="10" vspace="10" />Api Exact Audio Copy. Vedrai una schermata come quella a destra. Dal menu a tendina, scegli il drive che vuoi utilizzare con EAC e prendi nota del canale (in inglese <span style="font-style: italic;">Adapter, ndt</span>).
 
 In base all&#8217;<span style="font-style: italic;">Adapter</span> che utilizza il tuo drive, scarica il file di configurazione per EAC corrispondente:
   
@@ -181,7 +181,7 @@ Salva questo file .CFG nella cartella profili di EAC (di solito C:ProgrammiExact
 
 #### 4° passo: Caricare il file .CFG
 
-<img style="border: 0px solid; width: 300px; height: 144px; float: right;" src="/wp-content/uploads/eac3.gif" alt="EAC4" width="300" height="144" border="0" hspace="10" vspace="10" />Chiudi EAC e poi riaprilo. Il profilo che hai scaricato al 3° passo dovrebbe essere disponibile nel menu profili in basso a destra dello schermo (come mostrato nella figura a destra). Col profilo corretto selezionato, assicurati che EAC stia effettivamente puntando all&#8217;eseguibile di LAME. Se hai salvato il file lame.exe nella cartella C:Program FilesExact Audio Copy non devi fare nulla (<span style="font-style: italic;">ma per noi italiani la cartella, di solito è C:ProgrammiExact Audio Copy</span> <span style="font-style: italic;">quindi continua a leggere! ndt</span>). Altrimenti, dal menu di EAC scegli Compression Options -> External Compression, premi il tasto Browse, punta EAC a lame.exe e scegli OK.
+<img style="border: 0px solid; width: 300px; height: 144px; float: right;" src="/uploads/eac3.gif" alt="EAC4" width="300" height="144" border="0" hspace="10" vspace="10" />Chiudi EAC e poi riaprilo. Il profilo che hai scaricato al 3° passo dovrebbe essere disponibile nel menu profili in basso a destra dello schermo (come mostrato nella figura a destra). Col profilo corretto selezionato, assicurati che EAC stia effettivamente puntando all&#8217;eseguibile di LAME. Se hai salvato il file lame.exe nella cartella C:Program FilesExact Audio Copy non devi fare nulla (<span style="font-style: italic;">ma per noi italiani la cartella, di solito è C:ProgrammiExact Audio Copy</span> <span style="font-style: italic;">quindi continua a leggere! ndt</span>). Altrimenti, dal menu di EAC scegli Compression Options -> External Compression, premi il tasto Browse, punta EAC a lame.exe e scegli OK.
 
 #### 5° passo: usare LAME
 
