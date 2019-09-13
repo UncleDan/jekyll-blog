@@ -1,4 +1,7 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.ZIP filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.MP3 filter=lfs diff=lfs merge=lfs -text
+files/*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+files/*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
+gallery/*.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
+gallery/*.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
+gallery/thumbsup.* filter=lfs diff=lfs merge=lfs -text
+uploads/*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+uploads/*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
