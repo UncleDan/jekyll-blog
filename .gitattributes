@@ -1,3 +1,0 @@
-gallery/*.jpg filter=lfs diff=lfs merge=lfs -text
-thumbsup.db filter=lfs diff=lfs merge=lfs -text
-thumbsup.log filter=lfs diff=lfs merge=lfs -text
