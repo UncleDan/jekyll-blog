@@ -18,4 +18,4 @@ tags:
 ---
 © 2009-2011 Uncledan &#8211; 28/12/2009
   
-[[Full size](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/gallery/31-Snowy%20Night%20%28Bologna%2C%2018-12-2009%29/2009-12-18%20P1010100.JPG "Snowy night in Bologna") &#8211; [Gallery](https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/gallery/31-Snowy-Night-Bologna,-18-12-2009.html "Gallery")]
+[[Full size](/gallery/31-Snowy%20Night%20%28Bologna%2C%2018-12-2009%29/2009-12-18%20P1010100.JPG "Snowy night in Bologna") &#8211; [Gallery](/gallery/31-Snowy-Night-Bologna,-18-12-2009.html "Gallery")]

@@ -51,7 +51,7 @@ layout: page
   <tr>
     <td style="text-align: left;">
       <h2>
-        <a class="mozTocH2" name="anchor_VorreiVincerLoScudetto"></a><span style="font-style: italic;"> </span><a title="Vorrei Vincer Lo Scudetto" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/01%20-%20Vorrei%20Vincer%20Lo%20Scudetto%20(zio_pey%20Musical%20Tribute)%20(Lyrics%20By%20pelo82).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Vorrei Vincer Lo Scudetto <span style="font-style: italic;">(zio_pey Musical Trubute)</span>
+        <a class="mozTocH2" name="anchor_VorreiVincerLoScudetto"></a><span style="font-style: italic;"> </span><a title="Vorrei Vincer Lo Scudetto" href="/files/frank70/01%20-%20Vorrei%20Vincer%20Lo%20Scudetto%20(zio_pey%20Musical%20Tribute)%20(Lyrics%20By%20pelo82).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Vorrei Vincer Lo Scudetto <span style="font-style: italic;">(zio_pey Musical Trubute)</span>
       </h2>
     </td>
     
@@ -435,7 +435,7 @@ layout: page
               <tr>
                 <td style="text-align: left;">
                   <h2>
-                    <a class="mozTocH2" name="anchor_AlSabatoSiSoca"></a><a title="Al Sabato Si Soca" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/02%20-%20Al%20Sabato%20Si%20Soca.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Al Sabato Si Soca
+                    <a class="mozTocH2" name="anchor_AlSabatoSiSoca"></a><a title="Al Sabato Si Soca" href="/files/frank70/02%20-%20Al%20Sabato%20Si%20Soca.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Al Sabato Si Soca
                   </h2>
                 </td>
                 
@@ -933,7 +933,7 @@ layout: page
                       <tr>
                         <td style="text-align: left;">
                           <h2>
-                            <a class="mozTocH2" name="anchor_Economia"></a><a title="Economia" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/03%20-%20Economia%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Economia
+                            <a class="mozTocH2" name="anchor_Economia"></a><a title="Economia" href="/files/frank70/03%20-%20Economia%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Economia
                           </h2>
                         </td>
                         
@@ -1315,7 +1315,7 @@ layout: page
                                   <tr>
                                     <td style="text-align: left;">
                                       <h2>
-                                        <a class="mozTocH2" name="anchor_LaTerraDeiCheaters"></a><a title="La Terra Dei Cheaters" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/04%20-%20La%20Terra%20Dei%20Cheaters%20(Lyrics%20By%20Mancio85).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> La Terra Dei Cheaters
+                                        <a class="mozTocH2" name="anchor_LaTerraDeiCheaters"></a><a title="La Terra Dei Cheaters" href="/files/frank70/04%20-%20La%20Terra%20Dei%20Cheaters%20(Lyrics%20By%20Mancio85).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> La Terra Dei Cheaters
                                       </h2>
                                     </td>
                                     
@@ -1737,7 +1737,7 @@ layout: page
                                               <tr>
                                                 <td style="text-align: left;">
                                                   <h2>
-                                                    <a title="Pensiero Stipendio" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/05%20-%20Pensiero%20Stipendio%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Pensiero Stipendio<a class="mozTocH2" name="anchor_PensieroStipendio"></a>
+                                                    <a title="Pensiero Stipendio" href="/files/frank70/05%20-%20Pensiero%20Stipendio%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Pensiero Stipendio<a class="mozTocH2" name="anchor_PensieroStipendio"></a>
                                                   </h2>
                                                 </td>
                                                 
@@ -2255,7 +2255,7 @@ layout: page
                                                           <tr>
                                                             <td style="text-align: left;">
                                                               <h2>
-                                                                <a title="Spammerò" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/06%20-%20Spammero'%20%28Lyrics%20By%20Signoignazio%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Spammerò<a class="mozTocH2" name="anchor_Spammero"></a>
+                                                                <a title="Spammerò" href="/files/frank70/06%20-%20Spammero'%20%28Lyrics%20By%20Signoignazio%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Spammerò<a class="mozTocH2" name="anchor_Spammero"></a>
                                                               </h2>
                                                             </td>
                                                             
@@ -2887,7 +2887,7 @@ layout: page
                                                                   <tr>
                                                                     <td style="text-align: left;">
                                                                       <h2>
-                                                                        <a title="Macao Ti Motsero'" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/07%20-%20Macao%20Ti%20Motsero'%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Macao Ti Motsero'<a class="mozTocH2" name="anchor_MacaoTiMotsero"></a>
+                                                                        <a title="Macao Ti Motsero'" href="/files/frank70/07%20-%20Macao%20Ti%20Motsero'%20%28Lyrics%20By%20Marrundo%2C%20Supervising%20Realbonarda%29.mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Macao Ti Motsero'<a class="mozTocH2" name="anchor_MacaoTiMotsero"></a>
                                                                       </h2>
                                                                     </td>
                                                                     
@@ -3209,7 +3209,7 @@ layout: page
                                                                               <tr>
                                                                                 <td style="text-align: left;">
                                                                                   <h2>
-                                                                                    <a title="Soka Soka" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/08%20-%20Soka%20Soka%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Soka Soka<a class="mozTocH2" name="anchor_SokaSoka"></a>
+                                                                                    <a title="Soka Soka" href="/files/frank70/08%20-%20Soka%20Soka%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Soka Soka<a class="mozTocH2" name="anchor_SokaSoka"></a>
                                                                                   </h2>
                                                                                 </td>
                                                                                 
@@ -3531,7 +3531,7 @@ layout: page
                                                                                           <tr>
                                                                                             <td style="text-align: left;">
                                                                                               <h2>
-                                                                                                <a title="Il Tuo Scarso Difensore" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/09%20-%20Il%20Tuo%20Scarso%20Difensore%20(Lyrics%20By%20Mancio-BSK).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Il Tuo Scarso Difensore<a class="mozTocH2" name="anchor_IlTuoScarsoDifensore"></a>
+                                                                                                <a title="Il Tuo Scarso Difensore" href="/files/frank70/09%20-%20Il%20Tuo%20Scarso%20Difensore%20(Lyrics%20By%20Mancio-BSK).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Il Tuo Scarso Difensore<a class="mozTocH2" name="anchor_IlTuoScarsoDifensore"></a>
                                                                                               </h2>
                                                                                             </td>
                                                                                             
@@ -3885,7 +3885,7 @@ layout: page
                                                                                                       <tr>
                                                                                                         <td style="text-align: left;">
                                                                                                           <h2>
-                                                                                                            <a title="Applausi Per zio_pey" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/10%20-%20Applausi%20Per%20zio_pey%20(Lyrics%20By%20Ignaxio-HIO).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Applausi Per zio_pey<a class="mozTocH2" name="anchor_ApplausiPerZioPey"></a>
+                                                                                                            <a title="Applausi Per zio_pey" href="/files/frank70/10%20-%20Applausi%20Per%20zio_pey%20(Lyrics%20By%20Ignaxio-HIO).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Applausi Per zio_pey<a class="mozTocH2" name="anchor_ApplausiPerZioPey"></a>
                                                                                                           </h2>
                                                                                                         </td>
                                                                                                         
@@ -4363,7 +4363,7 @@ layout: page
                                                                                                                   <tr>
                                                                                                                     <td style="text-align: left;">
                                                                                                                       <h2>
-                                                                                                                        <a title="Con Generale" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/11%20-%20Con%20Generale%20(Hattrick%20Music%20Awards%202006%20Winner)%20(Lyrics%20By%20ghazarian).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Con Generale <span style="font-style: italic;">(Hattrick Music Awards 2006 Winner)</span><a class="mozTocH2" name="anchor_ConGenerale"></a>
+                                                                                                                        <a title="Con Generale" href="/files/frank70/11%20-%20Con%20Generale%20(Hattrick%20Music%20Awards%202006%20Winner)%20(Lyrics%20By%20ghazarian).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Con Generale <span style="font-style: italic;">(Hattrick Music Awards 2006 Winner)</span><a class="mozTocH2" name="anchor_ConGenerale"></a>
                                                                                                                       </h2>
                                                                                                                     </td>
                                                                                                                     
@@ -4667,7 +4667,7 @@ layout: page
                                                                                                                                   <tr>
                                                                                                                                     <td style="text-align: left;">
                                                                                                                                       <h2>
-                                                                                                                                        <a title="Ti Rivendo" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/12%20-%20Ti%20Rivendo%20(Lyrics%20By%20Tabani).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Ti Rivendo<a class="mozTocH2" name="anchor_TiRivendo"></a>
+                                                                                                                                        <a title="Ti Rivendo" href="/files/frank70/12%20-%20Ti%20Rivendo%20(Lyrics%20By%20Tabani).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Ti Rivendo<a class="mozTocH2" name="anchor_TiRivendo"></a>
                                                                                                                                       </h2>
                                                                                                                                     </td>
                                                                                                                                     
@@ -5149,7 +5149,7 @@ layout: page
                                                                                                                                               <tr>
                                                                                                                                                 <td style="text-align: left;">
                                                                                                                                                   <h2>
-                                                                                                                                                    <a title="That's Azione" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/13%20-%20That's%20Azione%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> That&#8217;s Azione<a class="mozTocH2" name="anchor_ThatsAzione"></a>
+                                                                                                                                                    <a title="That's Azione" href="/files/frank70/13%20-%20That's%20Azione%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> That&#8217;s Azione<a class="mozTocH2" name="anchor_ThatsAzione"></a>
                                                                                                                                                   </h2>
                                                                                                                                                 </td>
                                                                                                                                                 
@@ -5571,7 +5571,7 @@ layout: page
                                                                                                                                                           <tr>
                                                                                                                                                             <td style="text-align: left;">
                                                                                                                                                               <h2>
-                                                                                                                                                                <a title="Promozione" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/14%20-%20Promozione%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Promozione<a class="mozTocH2" name="anchor_Promozione"></a>
+                                                                                                                                                                <a title="Promozione" href="/files/frank70/14%20-%20Promozione%20(Lyrics%20By%20Duca_Barthleby).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Promozione<a class="mozTocH2" name="anchor_Promozione"></a>
                                                                                                                                                               </h2>
                                                                                                                                                             </td>
                                                                                                                                                             
@@ -5804,7 +5804,7 @@ layout: page
                                                                                                                                                                         <tr>
                                                                                                                                                                           <td style="text-align: left;">
                                                                                                                                                                             <h2>
-                                                                                                                                                                              <a title="Spunta Marrundo Dal Monte" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/15%20-%20Spunta%20Marrundo%20Dal%20Monte%20(Original%20Idea%20By%20Kurt_Is_Alive).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Spunta Marrundo Dal Monte<a class="mozTocH2" name="anchor_SpuntaMarrundoDalMonte"></a>
+                                                                                                                                                                              <a title="Spunta Marrundo Dal Monte" href="/files/frank70/15%20-%20Spunta%20Marrundo%20Dal%20Monte%20(Original%20Idea%20By%20Kurt_Is_Alive).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Spunta Marrundo Dal Monte<a class="mozTocH2" name="anchor_SpuntaMarrundoDalMonte"></a>
                                                                                                                                                                             </h2>
                                                                                                                                                                           </td>
                                                                                                                                                                           
@@ -6227,7 +6227,7 @@ layout: page
                                                                                                                                                                                       <tr>
                                                                                                                                                                                         <td style="text-align: left;">
                                                                                                                                                                                           <h2>
-                                                                                                                                                                                            <a title="Quando I Niubbini Fanno Oh" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/16%20-%20Quando%20I%20Niubbini%20Fanno%20Oh%20(Baby%20Mix)%20(Lyrics%20By%20pelo82).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Quando I Niubbini Fanno Oh <span style="font-style: italic;">(Baby Mix)</span><a class="mozTocH2" name="anchor_QuandoINiubbiniFannoOh"></a>
+                                                                                                                                                                                            <a title="Quando I Niubbini Fanno Oh" href="/files/frank70/16%20-%20Quando%20I%20Niubbini%20Fanno%20Oh%20(Baby%20Mix)%20(Lyrics%20By%20pelo82).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Quando I Niubbini Fanno Oh <span style="font-style: italic;">(Baby Mix)</span><a class="mozTocH2" name="anchor_QuandoINiubbiniFannoOh"></a>
                                                                                                                                                                                           </h2>
                                                                                                                                                                                         </td>
                                                                                                                                                                                         
@@ -6819,7 +6819,7 @@ layout: page
                                                                                                                                                                                                       <tr>
                                                                                                                                                                                                         <td style="text-align: left;">
                                                                                                                                                                                                           <h2>
-                                                                                                                                                                                                            <a title="Regia (Un, Dos, Tres, Un Scattito Allenante Regia)" href="https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/frank70/17%20-%20Regia%20%20(Un,%20Dos,%20Tres,%20Un%20Scattito%20Allenante%20Regia)%20(Bonus%20Track).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Regia <span style="font-style: italic;">(Un, Dos, Tres, Un Scattito Allenante Regia) <small>(Bonus Track)</small></span><a class="mozTocH2" name="anchor_Regia"></a>
+                                                                                                                                                                                                            <a title="Regia (Un, Dos, Tres, Un Scattito Allenante Regia)" href="/files/frank70/17%20-%20Regia%20%20(Un,%20Dos,%20Tres,%20Un%20Scattito%20Allenante%20Regia)%20(Bonus%20Track).mp3" target="_blank"><img class="alignnone size-full wp-image-1367" title="Play" src="/uploads/2011/06/Play.png" alt="" width="32" height="32" /></a> Regia <span style="font-style: italic;">(Un, Dos, Tres, Un Scattito Allenante Regia) <small>(Bonus Track)</small></span><a class="mozTocH2" name="anchor_Regia"></a>
                                                                                                                                                                                                           </h2>
                                                                                                                                                                                                         </td>
                                                                                                                                                                                                         

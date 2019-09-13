@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, user-scalable=no" />
+      <title>UncleDan&#x27;s Gallery - 24-Viareggio 2006 (bis)</title>
+      <link rel="stylesheet" href="public/lightgallery/css/lightgallery.css" />
+      <link rel="stylesheet" href="public/lightgallery/css/lg-exif.min.css" />
+      <link rel="stylesheet" href="public/videojs/video-js.min.css" />
+      <link rel="stylesheet" href="public/core.css" />
+      <link rel="stylesheet" href="public/theme.css" />
+  </head>
+
+  <body>
+
+    <header>
+      <a href="index.html">
+        <h1>UncleDan&#x27;s Gallery</h1>
+      </a>
+    </header>
+    
+    <!--
+      Breadcrumbs of parent albums
+    -->
+      <nav class="breadcrumbs">
+    <a class="breadcrumb-item" href="index.html">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a class="breadcrumb-item" href="24-Viareggio-2006-bis.html">24-Viareggio 2006 (bis)</a>
+      </nav>
+    
+    <ul id="galleries">
+    </ul>
+    
+    <ul id="media">
+        
+          <li data-src="24-Viareggio 2006 (bis)/Viareggio2006_big.jpg"
+              data-sub-html=""
+              data-download-url="24-Viareggio 2006 (bis)/Viareggio2006_big.jpg"
+              
+              data-filename="Viareggio2006_big.jpg"
+        
+            >
+            <a href="24-Viareggio 2006 (bis)/Viareggio2006_big.jpg">
+              <img src="media/thumbs/24-Viareggio 2006 (bis)/Viareggio2006_big.jpg"
+                   width="120"
+                   height="120"
+                   alt="Viareggio2006_big.jpg" />
+            </a>
+          </li>    
+          <li data-src="24-Viareggio 2006 (bis)/Viareggio2006_small.jpg"
+              data-sub-html=""
+              data-download-url="24-Viareggio 2006 (bis)/Viareggio2006_small.jpg"
+              
+              data-filename="Viareggio2006_small.jpg"
+        
+            >
+            <a href="24-Viareggio 2006 (bis)/Viareggio2006_small.jpg">
+              <img src="media/thumbs/24-Viareggio 2006 (bis)/Viareggio2006_small.jpg"
+                   width="120"
+                   height="120"
+                   alt="Viareggio2006_small.jpg" />
+            </a>
+          </li></ul>
+    
+    <!--
+      Optional footer
+    -->
+    <footer>
+      <p><b>Copyright &copy; 2004-2019 <a href="https://www.danielelolli.it"> Daniele Lolli (UncleDan)</a></b></p>
+    </footer>
+    <!-- Video loader -->
+    <div id="videos">
+    </div>
+
+    <!-- jQuery -->
+    <script src="public/jquery.min.js"></script>
+    <!-- VideoJS -->
+    <script src="public/videojs/video.min.js"></script>
+    <!-- LightGallery -->
+    <script src="public/lightgallery/js/lightgallery.js"></script>
+    <script src="public/lightgallery/js/lg-autoplay.js"></script>
+    <script src="public/lightgallery/js/lg-pager.js"></script>
+    <script src="public/lightgallery/js/lg-thumbnail.js"></script>
+    <script src="public/lightgallery/js/lg-video.js"></script>
+    <script src="public/lightgallery/js/lg-exif.min.js"></script>
+
+    <script>
+      $(document).ready(function() {
+        $("#media").lightGallery({
+          thumbWidth: 80,
+          controls: true,
+          loop : false,
+          download: true,
+          counter: true,
+          videojs: true
+        });
+      });
+    </script>
+
+
+  </body>
+
+</html>
