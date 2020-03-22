@@ -5,7 +5,8 @@ author: Daniele Lolli (UncleDan)
 layout: post
 permalink: /2020-03-22-wordpress-auto-installation-script-for-centos-8-minimal.html
 categories:
-  - Web Development
+  - Web
+  - Development
   - Linux
   - WordPress
   - Centos
