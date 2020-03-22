@@ -5,7 +5,8 @@ author: Daniele Lolli (UncleDan)
 layout: post
 permalink: /2020-03-22-wordpress-auto-installation-script-for-centos-8-minimal.html
 categories:
-  - Web Development
+  - Web
+  - Development
   - Linux
   - WordPress
   - Centos
@@ -20,7 +21,6 @@ tags:
   - linux
   - centos8
 ---
-# WordPress Auto Installation Script for CentOS 8 (Minimal)
 I wrote this script for myself, to automate some annying tasks to create virtual machines for testing my WordPress sites.
 I hare in case it can be useful to someone.
 Quick instructions:
