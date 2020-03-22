@@ -21,7 +21,6 @@ tags:
   - linux
   - centos8
 ---
-# WordPress Auto Installation Script for CentOS 8 (Minimal)
 I wrote this script for myself, to automate some annying tasks to create virtual machines for testing my WordPress sites.
 I hare in case it can be useful to someone.
 Quick instructions:
