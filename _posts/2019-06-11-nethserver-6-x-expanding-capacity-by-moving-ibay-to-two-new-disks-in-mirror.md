@@ -20,8 +20,6 @@ Use the informations at AT YOUR OWN RISK. I am not responsible of any damage to 
 data loss or any other occurrence. It is HIGHLY RECOMMENDED to make backup copy of crucial
 configuration files, such as /etc/mdadm.conf and /etc/fstab
 ```
-# Nethserver 6.x - Expanding capacity by moving ibay to two new disks in mirror
-
 Let's assume that you intalled Nethserver on two disks in mirror and later in use you realize you lack of space in them.
 
 The intent of this guide is to add two disks, also in mirror, ang move the *ibay* folder on these disks.
