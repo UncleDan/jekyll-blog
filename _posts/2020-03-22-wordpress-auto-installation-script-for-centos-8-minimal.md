@@ -2,7 +2,7 @@
 title: WordPress Auto Installation Script for CentOS 8 (Minimal)
 date: 2020-03-22T16:00:00+00:00
 author: Daniele Lolli (UncleDan)
-layout: page
+layout: post
 categories:
   - Web Development
   - Linux
