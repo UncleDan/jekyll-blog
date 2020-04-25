@@ -21,5 +21,5 @@ tags:
 </p>
 
 <p align="center">
-  <a title="Pedale Baroque - Balumba Tombo Reloaded" href="http://www.myspace.com/pedalebaroque" target="_blank"><img src="http://a537.ac-images.myspacecdn.com/images01/55/m_55eeff5e88128cbfd0e2d46fac681838.gif" alt="" /><br /> <strong><span style="color: #0000ff;">Clicca sul logo<br /> per accedere!</span></strong></a>
+  <a title="Pedale Baroque - Balumba Tombo Reloaded" href="http://www.myspace.com/pedalebaroque" target="_blank"><img src="/uploads/demix/m_55eeff5e88128cbfd0e2d46fac681838.gif" alt="" /><br /> <strong><span style="color: #0000ff;">Clicca sul logo<br /> per accedere!</span></strong></a>
 </p>

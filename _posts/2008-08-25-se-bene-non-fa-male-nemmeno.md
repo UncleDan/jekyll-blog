@@ -15,9 +15,9 @@ tags:
   - smettere
 ---
 <p style="text-align: center;">
-  <img src="http://www.easywayitalia.com/uploads/due_libri_fumo.jpg" alt="" width="123" height="187" />
+  <img src="https://copertine.hoepli.it/hoepli/big/978/8890/9788890123306.jpg" alt="" width="123" height="187" />
 </p>
 
 <p style="text-align: center;">
-  <a title="-->" href="http://www.easywayitalia.com/i-nostri-libri/" target="_blank">EasyWay &#8211; Libro</a>
+  <a title="-->" href="https://easywayitalia.it/i-nostri-libri/" target="_blank">EasyWay &#8211; Libro</a>
 </p>

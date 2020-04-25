@@ -19,9 +19,9 @@ tags:
   - ring
 ---
 <p style="text-align: center;">
-  <a title="NBA Official Site" href="http://www.nba.com" target="_blank"><img class="alignnone aligncenter" style="border: 0pt none;" src="http://www.nba.com/media/finals2008/doccigar_587_080617.jpg" alt="Thanks Red, that\'s for you!" width="390" height="140" /></a>
+  <a title="NBA Official Site" href="http://www.nba.com" target="_blank"><img class="alignnone aligncenter" style="border: 0pt none;" src="https://web.archive.org/web/20081225011652im_/http://www.nba.com/media/finals2008/doccigar_587_080617.jpg" alt="Thanks Red, that\'s for you!" width="390" height="140" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://web.archive.org/web/20120215050352/http://www.nba.com/finals2008/08finals_celebrate_BOS2.swf" target="_blank">Celebrate Boston 2008 &#8211; www.nba.com</a>
+  <a href="https://web.archive.org/web/20081225011652im_/http://www.nba.com/finals2008/08finals_celebrate_BOS2.swf" target="_blank">Celebrate Boston 2008 &#8211; www.nba.com</a>
 </p>
