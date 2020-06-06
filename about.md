@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2018-09-20T18:01:00+00:00
+date: 2020-06-06T18:13:00+00:00
 author: Daniele Lolli (UncleDan)
 layout: page
 menu: true
@@ -11,11 +11,9 @@ order: 1
 
 This is the [**Jekyll**](https://jekyllrb.com/) version of my blog.
 
-It is hosted on [**GitHub Pages**](https://pages.github.com/) and powered by the wonderful theme [**HydeJack**](https://hydejack.com/).
+It is hosted on [**Netlify**](https://www.netlify.com/) and powered by the wonderful theme [**HydeJack**](https://hydejack.com/).
 
 The DNS for custom domain is provided by [**Tophost.it**](https://www.tophost.it/).
 
-The [**WordPress**](https://wordpress.org/) version is visible at this address:
-[https://www.danielelolli.it/](https://www.danielelolli.it/)
-
-*(I am currently changing provider for the WordPress version: if you experience some problems, be patient and come back in a few days... Thanks!)*
+The [**WordPress**](https://wordpress.org/) version *will be visible* at:
+[https://www.uncledan.it/](https://www.uncledan.it/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)
