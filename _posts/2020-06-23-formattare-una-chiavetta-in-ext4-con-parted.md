@@ -21,7 +21,7 @@ tags:
 
 Questa guida è stata scritta su [NethServer 7.8](https://www.nethserver.org/) (magnifica distribuzione per piccoli server basata su *CentOS*), ma i comandi dovrebbero essere sostanzialmente identici su qualunque distribuzione con i comandi `fdisk` e `parted` installati.
 
-Identificare la chiavetta (solitamente dalla dimensione con il comando:
+Identificare la chiavetta (solitamente dalla dimensione) con il comando:
   
 `fdisk -l`
 
