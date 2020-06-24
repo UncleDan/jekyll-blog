@@ -41,7 +41,7 @@ A questo punto creiamo una nuova tabella delle partizioni di tipo MBR (`parted` 
 
 E creiamo una nuova partizione primaria:
 
-`parted -s -a optimal /dev/sdg mkpart primary 1 100%`
+`parted -s -a optimal /dev/sdg mkpart primary 0% 100%`
 
 Infine la formattiamo in `ext4`:
 
