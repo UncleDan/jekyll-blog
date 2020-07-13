@@ -21,6 +21,11 @@ description:         >
   Professionista nella informatica per gli Studi Professionali, in particolare software paghe.
   Webmaster a tempo perso. Papà felice. Appassionato di Tecnologia, Basket e Jeep.
 
+# A (square) logo for your site.
+# If provided, it will be shown at the top of the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo:                  /assets/icons/icon.png
+
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Daniele Lolli (UncleDan)
