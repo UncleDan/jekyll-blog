@@ -2,4 +2,4 @@ Post thumbsup editing:
 * Move all folders from /media/large to /
 * Remove media/large
 * Search in all HTML files `media/large/` and replace with `` (nothing)
-* Search in all HTML files `<p>Copyright 2004-2019 Daniele Lolli (UncleDan)</p>` and replace with `<p><b>Copyright &copy; 2004-2019 <a href="https://www.danielelolli.it"> Daniele Lolli (UncleDan)</a></b></p>`
+* Search in all HTML files `<p>Copyright 2004-2019 Daniele Lolli (UncleDan)</p>` and replace with `<p><b>Copyright &copy; 2004-2019 <a href="https://uncledan-jekyll-blog-hydejack-8-5-2.netlify.app"> Daniele Lolli (UncleDan)</a></b></p>`
