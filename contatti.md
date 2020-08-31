@@ -10,7 +10,7 @@ order: 2
 
 ### Blog
 
-[**Jekyll Blog** www.uncledan.it](https://www.uncledan.it)
+[**Jekyll Blog** www.uncledan.it](https://www.danielelolli.it)
 
 [**WordPress Blog** www.danielelolli.it](https://www.danielelolli.it) *(Works in progress...)*
 

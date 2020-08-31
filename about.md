@@ -17,4 +17,4 @@ The DNS for custom domain is provided by [**Tophost.it**](https://www.tophost.it
 
 The [**WordPress**](https://wordpress.org/) version *will be visible* at:
 
-[https://www.uncledan.it/](https://www.uncledan.it/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)
+[https://www.danielelolli.it/](https://www.danielelolli.it/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)

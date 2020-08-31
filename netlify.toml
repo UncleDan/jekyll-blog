@@ -19,12 +19,12 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000"
 [[redirects]]
-  from = "http://danielelolli.it/*"
+  from = "https://www.danielelolli.it/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
 [[redirects]]
-  from = "http://www.danielelolli.it/*"
+  from = "https://www.danielelolli.it/*"
   to = "https://www.danielelolli.it/:splat"
   status = 301
   force = true
