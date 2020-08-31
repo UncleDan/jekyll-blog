@@ -10,9 +10,9 @@ order: 2
 
 ### Blog
 
-[**Jekyll Blog** www.uncledan.it](https://uncledan-jekyll-blog-hydejack-8-5-2.netlify.app)
+[**Jekyll Blog** www.uncledan.it](https://uncledan-jekyll-blog-hydejack-9-0-4.netlify.app)
 
-[**WordPress Blog** www.danielelolli.it](https://uncledan-jekyll-blog-hydejack-8-5-2.netlify.app) *(Works in progress...)*
+[**WordPress Blog** www.danielelolli.it](https://uncledan-jekyll-blog-hydejack-9-0-4.netlify.app) *(Works in progress...)*
 
 ### Social
 

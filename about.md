@@ -17,4 +17,4 @@ The DNS for custom domain is provided by [**Tophost.it**](https://www.tophost.it
 
 The [**WordPress**](https://wordpress.org/) version *will be visible* at:
 
-[https://uncledan-jekyll-blog-hydejack-8-5-2.netlify.app/](https://uncledan-jekyll-blog-hydejack-8-5-2.netlify.app/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)
+[https://uncledan-jekyll-blog-hydejack-9-0-4.netlify.app/](https://uncledan-jekyll-blog-hydejack-9-0-4.netlify.app/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)
