@@ -17,7 +17,7 @@
 layout: base
 ---
 
-{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
+{% include components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image %}
 
 <hr class="dingbat related" />
 
@@ -26,11 +26,9 @@ layout: base
 {% for addon in addons %}
   {% case addon %}
   {% when 'about' %}
-     {% include_cached components/about.html author=page.author %}
+     {% include components/about.html %}
   {% when 'related' %}
-    {% include if-non-null try="components/related-posts.html" %}
-  {% when 'comments' %}
-    {% include body/comments.html %}
+    {% include components/related-posts.html post=post %}
   {% else %}
   {% endcase %}
 {% endfor %}
