@@ -13,8 +13,4 @@ This is the [**Jekyll**](https://jekyllrb.com/) version of my blog.
 
 It is hosted on [**Netlify**](https://www.netlify.com/) and powered by the wonderful theme [**HydeJack**](https://hydejack.com/).
 
-The DNS for custom domain is provided by [**Tophost.it**](https://www.tophost.it/).
-
-The [**WordPress**](https://wordpress.org/) version *will be visible* at:
-
-[https://www.danielelolli.it/](https://www.danielelolli.it/) or [https://uncledan.altervista.org/](https://uncledan.altervista.org/)
+The DNS for custom domain is provided by [**Aruba.it**](https://www.aruba.it/).
