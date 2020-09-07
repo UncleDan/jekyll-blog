@@ -17,6 +17,8 @@ tags:
   - mkfs
   - pendrive
 ---
+# Formattare una chiavetta in ext4 con parted
+
 ## ATTENZIONE: questa procedura cancellerà tutto il contenuto preesistente sulla chiavetta!!!
 
 Questa guida è stata scritta su [NethServer 7.8](https://www.nethserver.org/) (magnifica distribuzione per piccoli server basata su *CentOS*), ma i comandi dovrebbero essere sostanzialmente identici su qualunque distribuzione con i comandi `fdisk` e `parted` installati.
