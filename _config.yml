@@ -58,9 +58,11 @@ menu:
   - title:             Contatti
     url:               /contatti/
   - title:             File Archive
-    url:               https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/files/
+    url:               /gallery/
   - title:             Gallery
     url:               https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/gallery/
+##  - title:             Gallery
+##    url:               https://filedn.com/lAHAHtmqjaTjJxFAtUSMfN8/gallery/
   - title:             Guida MP3
     url:               /guida-mp3/
   - title:             Hattrick Music
@@ -76,6 +78,9 @@ legal:
     url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
+  - title:             PRIVACY
+    url:               /PRIVACY/
+
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
@@ -116,13 +121,13 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/personal/danilo-iuliano-7V_JZJwDdao-unsplash.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/personal/sidebar-bg.jpg
+accent_color:          rgb(0,154,73)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(8,46,57)
+theme_color:           rgb(0,154,73)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -351,9 +356,9 @@ plugins:
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
 
-# Used for twitter cards
-# twitter:
-#   username:            <username>
+# Used for twitter cards ##
+twitter:
+  username:            uncledan74
 
 # Used for facebook open graph
 # facebook:
@@ -361,12 +366,12 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+# Used on index and about sites ##
+social:
+  name:                Daniele Lolli (UncleDan)
+  links:
+    - https://twitter.com/uncledan74
+    - https://github.com/UncleDan
 
 
 # Plugin Configs
