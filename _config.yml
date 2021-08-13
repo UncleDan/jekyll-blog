@@ -5,7 +5,7 @@
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
 ##url:                   https://www.danielelolli.it                         ## PRODUCTION##
-url:                   https://uncledan-jekyll-blog-staging.netlify.app    ##  STAGING  ##
+url:                   https://nostalgic-mccarthy-abeba2.netlify.app    ##  STAGING  ##
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -21,7 +21,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  it
+lang:                  it_IT
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Daniele Lolli (UncleDan)
