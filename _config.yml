@@ -6,7 +6,8 @@ title:               Daniele Lolli (UncleDan)
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:    https://www.uncledan.it
+###url:    https://www.uncledan.it ### PRODUCTION ###
+url:    https://uncledan-hydejack-v8-5-2 ### STAGING ###
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
