@@ -13,7 +13,7 @@ Sono lieto di dare visibilità (per quel poco che posso) all&#8217;ultima fatica
 **_Aggiornamento:_** disponibile ora anche il sito ufficiale di **Pedale Baroque**!
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://a537.ac-images.myspacecdn.com/images01/55/m_55eeff5e88128cbfd0e2d46fac681838.gif" alt="" /><a title="Pedale Baroque - Balumba Tombo Reloaded - MySpace" href="http://www.myspace.com/pedalebaroque" target="_blank"><strong><span style="color: #0000ff;">MySpace</span></strong></a> | <strong><span style="color: #0000ff;">Sito Ufficiale</span></strong>
+  <img class="aligncenter" src="/frank70-hattrick-music/m_55eeff5e88128cbfd0e2d46fac681838.png" alt="" /><a title="Pedale Baroque - Balumba Tombo Reloaded - MySpace" href="http://www.myspace.com/pedalebaroque" target="_blank"><strong><span style="color: #0000ff;">MySpace</span></strong></a> | <strong><span style="color: #0000ff;">Sito Ufficiale</span></strong>
 </p>
 
  ****

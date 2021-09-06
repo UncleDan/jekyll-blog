@@ -16,7 +16,7 @@ layout: page
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://a537.ac-images.myspacecdn.com/images01/55/m_55eeff5e88128cbfd0e2d46fac681838.gif" alt="" />
+  <img class="aligncenter" src="/frank70-hattrick-music/m_55eeff5e88128cbfd0e2d46fac681838.png" alt="" />
 </p>
 
 <p style="text-align: center;">
