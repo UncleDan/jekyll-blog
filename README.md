@@ -3,8 +3,7 @@ Repository for my personal blog (Jekyll version)
 
 ## Active branches
 
+* **Old site**: branch [hydejack-v8.5.2](https://github.com/UncleDan/uncledan.github.io/tree/hydejack-v8.5.2) published at [https://uncledan-hydejack-v8-5-2.netlify.app/](https://uncledan-hydejack-v8-5-2.netlify.app/) *(may be broken)*
 
-* **Production site**: branch [www-danielelolli-it](https://github.com/UncleDan/jekyll-blog/tree/www-danielelolli-it) published at [https://www.danielelolli.it/](https://www.danielelolli.it/)
+* **New site**: branch [hydejack-v9.0.4](https://github.com/UncleDan/uncledan.github.io/tree/hydejack-v9.0.4) published at [https://uncledan-hydejack-v9-0-4.netlify.app/](https://uncledan-hydejack-v9-0-4.netlify.app/)
 
-
-* **Staging site**: branch [staging](https://github.com/UncleDan/jekyll-blog/tree/staging) published at [https://nostalgic-mccarthy-abeba2.netlify.app/](https://nostalgic-mccarthy-abeba2.netlify.app/)
